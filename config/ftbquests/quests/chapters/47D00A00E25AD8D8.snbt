@@ -1,0 +1,42 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "47D00A00E25AD8D8"
+	group: ""
+	icon: {
+		Count: 1
+		id: "tacz:ammo"
+		tag: {
+			AmmoId: "tacz:9mm"
+		}
+	}
+	id: "47D00A00E25AD8D8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["你不可能手搓子弹的,&n但机器也许可以"]
+		icon: {
+			Count: 1
+			id: "tacz:ammo"
+			tag: {
+				AmmoId: "tacz:9mm"
+			}
+		}
+		id: "5E1169E5F7A913F7"
+		rewards: [{
+			exclude_from_claim_all: true
+			id: "4C8066C5BD505DDC"
+			table_id: 977711337528686912L
+			type: "choice"
+		}]
+		subtitle: "神奇之手不存在了..."
+		tasks: [{
+			id: "6F86E7E056AA613A"
+			type: "checkmark"
+		}]
+		title: "工业道路"
+		x: -2.5d
+		y: -2.0d
+	}]
+	title: "子弹工厂"
+}

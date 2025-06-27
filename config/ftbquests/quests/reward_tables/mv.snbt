@@ -1,0 +1,29 @@
+{
+	id: "0A0BC8A40BF78CE9"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 2
+		}
+		{
+			count: 6
+		}
+		{
+			count: 16
+		}
+		{
+			count: 2
+		}
+		{ item: "ftbquests:missing_item" }
+		{
+			count: 16
+		}
+		{
+			count: 8
+		}
+		{ item: "ftbquests:missing_item" }
+		{ item: "ftbquests:missing_item", weight: 0.1f }
+		{ item: "ftbquests:missing_item", weight: 0.1f }
+	]
+}

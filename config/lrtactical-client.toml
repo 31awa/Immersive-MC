@@ -1,0 +1,3 @@
+#Use black overlay instead of white when blinded by flashbang
+blackFlash = false
+

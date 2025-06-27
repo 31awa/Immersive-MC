@@ -1,0 +1,67 @@
+{
+	chapter.07E5F33E839074C1.title: "枪械"
+	chapter.10BF83CF4F13938B.title: "机械动力"
+	chapter.5F18BB43456376D9.chapter_subtitle: ["对,就是你现在在玩的"]
+	chapter.5F18BB43456376D9.title: "minecraft"
+	quest.00E26C1BBAED4AA0.quest_desc: ["最好祈祷里面的铁不会生锈"]
+	quest.00E26C1BBAED4AA0.quest_subtitle: "\"机械\"之源"
+	quest.00E26C1BBAED4AA0.title: "鞍山合金"
+	quest.01E6335CA568CD99.quest_subtitle: "把黑曜石en在黃銅機殼身上"
+	quest.01F20EC1F6CCBB04.quest_desc: ["可惜,这台机子会识别可压的物品"]
+	quest.01F20EC1F6CCBB04.quest_subtitle: "为什么不试试把\"apple\"放进去呢"
+	quest.01F20EC1F6CCBB04.title: "液压机!"
+	quest.062CA4C704AC6570.quest_subtitle: "看著像金子"
+	quest.0A9199CCC4E6D493.quest_desc: ["传奇之手"]
+	quest.0A9199CCC4E6D493.quest_subtitle: "到底是先修路还是撸树啊!!!"
+	quest.0A9199CCC4E6D493.title: "要致富"
+	quest.14AE650C001C13B6.quest_subtitle: "把安山合金\"穿\"在去皮原木身上"
+	quest.14AE650C001C13B6.title: "穿衣服"
+	quest.1AE6D06F06AA365B.quest_subtitle: "動力,小子"
+	quest.25415B13CAF09FC7.quest_subtitle: "難道你的火車要在爛地上跑嗎?"
+	quest.2755F78FE5290FC2.title: "{ftbquests.chapter.09F33579334F2607.quest27.title}"
+	quest.27B1B60099F91F5E.quest_subtitle: "熱量+水->動力"
+	quest.2804348DF7973B9E.title: "斧头!"
+	quest.286861F83EC4DB81.quest_desc: ["也许去看看进度？"]
+	quest.286861F83EC4DB81.quest_subtitle: "这里空空如也...."
+	quest.28763EF1E1DA4238.quest_subtitle: "水->動力"
+	quest.2C2FB1F3A6458119.quest_subtitle: "把你的髒手拿開,讓我來"
+	quest.322382143F33DCE4.title: "這可太有用了"
+	quest.329B4FE534CA931E.quest_desc: ["换新衣要先脱旧衣"]
+	quest.329B4FE534CA931E.quest_subtitle: "用斧头脱下原木的衣服"
+	quest.329B4FE534CA931E.title: "脱衣服"
+	quest.32D614EEEF672D1D.quest_desc: [
+		"为什么重要,我不到啊"
+		"&m我以为它是没用的"
+	]
+	quest.32D614EEEF672D1D.quest_subtitle: "这很重要!"
+	quest.32D614EEEF672D1D.title: "有用的方块(真的!)"
+	quest.3725FB593BFB4954.quest_desc: ["省着点火药!"]
+	quest.3725FB593BFB4954.quest_subtitle: "用于制作弹药"
+	quest.3725FB593BFB4954.title: "弹药"
+	quest.37A9DC6D561E22D2.quest_subtitle: "經濟實惠"
+	quest.38ED20ED9CF49EE7.quest_subtitle: "我勒個火車"
+	quest.46967FF748FB6BE9.quest_subtitle: "非常堅硬"
+	quest.4CB7B92FA35053C7.quest_subtitle: "把你攪成依托"
+	quest.502EC5BFE80F4FAD.quest_desc: ["通過這玩意兒可以粉碎機械動力的緋紅岩,輝綠岩,浩藍石來簡單地獲取鐵,銅和鋅"]
+	quest.537E084206D17D32.quest_subtitle: "爲啥非得用岩漿呢?"
+	quest.54E2D82343ADF1E1.quest_subtitle: "這可太精密了"
+	quest.5732CA8BCF3C4E63.quest_desc: ["等等,史蒂夫从哪学的手艺?"]
+	quest.5732CA8BCF3C4E63.quest_subtitle: "有了这个就可以做枪了"
+	quest.5732CA8BCF3C4E63.title: "基础"
+	quest.583C82F42CA3057F.quest_subtitle: "我勒個抓鈎"
+	quest.5B50317DE5D486C9.quest_subtitle: "把黃銅\"穿\"在去皮原木身上"
+	quest.61F7E80D5A6F395F.quest_subtitle: "論烈焰人的實際作用"
+	quest.6379749E3B86A9B1.quest_subtitle: "便携式熔爐"
+	quest.6CFA4A24B3859732.quest_desc: [""]
+	quest.6CFA4A24B3859732.quest_subtitle: "解放雙手！"
+	quest.72FD7FB82A64ED1E.quest_subtitle: "是重力槍?"
+	quest.7BFA020AFAF1506F.quest_subtitle: "沒燃料的它就是飛舞"
+	quest.7DBE0A0086DA41D0.quest_subtitle: "熱量->動力"
+	task.0333AABC56DDC829.title: "minecraft?"
+	task.073AAB8EDE51971B.title: "去皮原木"
+	task.15F9697303AB93EA.title: "木头"
+	task.306702BBF9C20E15.title: "Any #create_sa:fillable"
+	task.42D8C0BE09521AF2.title: "Any #minecraft:axes"
+	task.43FEA06C2B46DEEC.title: "小提示"
+	task.480314B21A226154.title: "Any #create_sa:jetpack"
+}

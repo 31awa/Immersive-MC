@@ -1,0 +1,21 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "loaderCommon.neoforge.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
+    "net.neoforged.neoforge.client.gui.ModListScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmScreen": true,
+    "com.alrex.parcool.client.gui.SettingActionLimitationScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
+  }
+}

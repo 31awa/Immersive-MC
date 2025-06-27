@@ -1,0 +1,8 @@
+{
+  "cleanInterval": -1,
+  "cleanThresholdPercent": 70.0,
+  "memoryCheckInterval": 2,
+  "logOnCleanTrigger": true,
+  "broadcastOnCleanTrigger": false,
+  "configVersion": 1
+}

@@ -1,0 +1,2169 @@
+{
+	chapter.028AB66FF504A9BC.title: "{ftbquests.chapter.028AB66FF504A9BC.title}"
+	chapter.046724C96F783FC2.title: "{ftbquests.chapter.046724C96F783FC2.title}"
+	chapter.07118DAC24E83AB7.title: "{ftbquests.chapter.177DD3C4E2D1113C.title}"
+	chapter.08AF6857D150C353.title: "{ftbquests.chapter.08AF6857D150C353.title}"
+	chapter.09F33579334F2607.title: "{ftbquests.chapter.09F33579334F2607.title}"
+	chapter.0AD950C34ED565A4.title: "{ftbquests.chapter.0AD950C34ED565A4.title}"
+	chapter.0C47ABD5DF78C460.title: "{ftbquests.chapter.0C47ABD5DF78C460.title}"
+	chapter.0D2BCB08A8E3B485.title: "{ftbquests.chapter.zpm.title}"
+	chapter.10BF83CF4F13938B.title: "create"
+	chapter.15B8D9F4A2A19BFA.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.title}"
+	chapter.1B1FC63B7AC00842.title: "{ftbquests.chapter.hv.title}"
+	chapter.1C74C871FF8892C6.title: "{ftbquests.chapter.tetra.title}"
+	chapter.1E8D7AF132D696EC.title: "{ftbquests.chapter.1E8D7AF132D696EC.title}"
+	chapter.1FD18D8B41761626.title: "{ftbquests.chapter.1FD18D8B41761626.title}"
+	chapter.2C8B1E40224C9A0C.title: "{ftbquests.chapter.2C8B1E40224C9A0C.title}"
+	chapter.2CEAD5605C416218.chapter_subtitle: ["{ftbquests.chapter.2CEAD5605C416218.subtitle0}"]
+	chapter.2CEAD5605C416218.title: "{ftbquests.chapter.2CEAD5605C416218.title}"
+	chapter.36A2F40CC894ECAF.title: "{ftbquests.chapter.36A2F40CC894ECAF.title}"
+	chapter.3AF23E79C8470AB1.title: "{ftbquests.chapter.uhv.title}"
+	chapter.418C24A6E3A8BE97.title: "星际工程"
+	chapter.42952A10FFCE402D.title: "{ftbquests.chapter.luv.title}"
+	chapter.4408EF6F9E2E1624.title: "{ftbquests.chapter.4408EF6F9E2E1624.title}"
+	chapter.449FB885B9E16D50.title: "魔法多方块/电路大杂烩"
+	chapter.4648FB3FBB9F74B3.title: "{ftbquests.chapter.uv.title}"
+	chapter.4A4420704BDBEA5D.title: "{ftbquests.chapter.4A4420704BDBEA5D.title}"
+	chapter.4BDF4E8F33BD360D.chapter_subtitle: ["{ftbquests.chapter.lv.subtitle0}"]
+	chapter.4BDF4E8F33BD360D.title: "{ftbquests.chapter.lv.title}"
+	chapter.4EE5451097565A1A.title: "{ftbquests.chapter.4EE5451097565A1A.title}"
+	chapter.596370001FE6E99B.chapter_subtitle: ["{ftbquests.chapter.596370001FE6E99B.subtitle0}"]
+	chapter.596370001FE6E99B.title: "{ftbquests.chapter.596370001FE6E99B.title}"
+	chapter.5F18BB43456376D9.title: "get started"
+	chapter.609746CF8BE6A11E.title: "{ftbquests.chapter.609746CF8BE6A11E.title}"
+	chapter.62876F01654DC6E9.title: "{ftbquests.chapter.62876F01654DC6E9.title}"
+	chapter.6729EFF9916E0F53.title: "{ftbquests.chapter.ev.title}"
+	chapter.6A50F0290F3D7CC7.title: "{ftbquests.chapter.iv.title}"
+	chapter.71282A84EFB2E6DD.title: "{ftbquests.chapter.71282A84EFB2E6DD.title}"
+	chapter.7647DBDFA1F452A1.title: "{ftbquests.chapter.mv.title}"
+	chapter_group.19912BEA87D24FE0.title: "{ftbquests.chapter_groups_1842302008872292320.title}"
+	chapter_group.203B37D7B3ACCD4B.title: "{ftbquests.chapter_groups_2322511432411565387.title}"
+	chapter_group.32DB92B5A6E4493B.title: "{ftbquests.chapter_groups_3664684030682745147.title}"
+	chapter_group.4CD84F8DB1FF8B7E.title: "{ftbquests.chapter_groups_5537263211847322494.title}"
+	chapter_group.71414D2BDE140EDA.title: "{ftbquests.chapter_groups_8160888850576838362.title}"
+	quest.006528E474CE82DE.quest_subtitle: "{ftbquests.chapter.luv.quest35.subtitle}"
+	quest.00847C1C4F45B42D.quest_subtitle: "只能使用激光仓"
+	quest.008A90953EEF0008.quest_subtitle: "{ftbquests.chapter.iv.quest54.subtitle}"
+	quest.010893752981D290.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest12.subtitle}"
+	quest.011E8AEDD9D3731D.quest_subtitle: "直接制成ZPM电路！"
+	quest.012D04F8C8D62292.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest15.subtitle}"
+	quest.012DF22FC3551C63.quest_desc: [
+		"{ftbquests.chapter.62876F01654DC6E9.quest73.description1}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest73.description2}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest73.description3}"
+	]
+	quest.012DF22FC3551C63.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest73.subtitle}"
+	quest.01326423CB3560EA.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest23.subtitle}"
+	quest.01345F4AD0D11E47.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest33.subtitle}"
+	quest.014167EAE9AA3DC3.quest_subtitle: "太弱了，并不能用"
+	quest.01622A02A8887530.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest6.subtitle}"
+	quest.019F2136970CA2E1.quest_subtitle: "{ftbquests.chapter.luv.quest15.subtitle}"
+	quest.01C3E477C4F072F1.quest_subtitle: "在本模组中，跑动会使得体温上升"
+	quest.01FF1DC87906AE75.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest30.subtitle}"
+	quest.020376281C4F33C1.quest_subtitle: "看到那个粗蕴魔没，该跑蕴魔线了"
+	quest.020A570A2EC3EE8B.quest_desc: [
+		"{ftbquests.chapter.09F33579334F2607.quest51.description1}"
+		"{ftbquests.chapter.09F33579334F2607.quest51.description2}"
+	]
+	quest.020A570A2EC3EE8B.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest51.subtitle}"
+	quest.0217BFCF1C2F8E5D.quest_desc: [
+		"从你刚拿起活木法杖的那一刻，身为三体战争前格雷星际公司机械动力分部的优秀员工你就一直在思考一个问题：这个魔力到底能不能自动化？"
+		"事实是肯定的，魔力反应器（Mana Reactor,向电高学习总不能叫MR吧）是一座巨型工业化魔力自动处理机器，你只要把魔力以液态形式注入机器中，魔力在机器罐内就可以自动反应。毫无疑问，这将成为你魔导事业中伟大的一步"
+		"当然这台机器还是有缺陷的，比如你仍然无法找到高效量产精灵钢的方法。&1也许我们其实还缺少了什么东西？"
+	]
+	quest.0217BFCF1C2F8E5D.quest_subtitle: "工业时代"
+	quest.021CE5551CB203F9.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest6.subtitle}"
+	quest.022460FFCA763E96.quest_desc: [
+		"是的，亚尔夫海姆那堆蕴魔粉绝对有着我们难以理解的力量，既然我们已经统一了魔力，是时候纯化这些魔力了！"
+		"虽然有一点小麻烦，但是在&4恶魔科技&r的帮助下，没什么困难的！"
+		"&5（第一阶段其实不需要天顶源质，但你还是需要在IV阶段进行）&r"
+	]
+	quest.022460FFCA763E96.quest_subtitle: "究极魔力线开端"
+	quest.022460FFCA763E96.title: "{ftbquests.chapter.1FD18D8B41761626.quest1.title}"
+	quest.02266C52DC0FAF30.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest7.subtitle}"
+	quest.027D2C1491F3A8A3.quest_desc: ["{ftbquests.chapter.lv.quest75.description1}"]
+	quest.027D2C1491F3A8A3.quest_subtitle: "{ftbquests.chapter.lv.quest75.subtitle}"
+	quest.02AE26871BBA0CCF.quest_desc: [
+		"符文分级："
+		"1级：火水地风"
+		"2级：四季"
+		"3级：七宗罪"
+		"4级：神话植物学符文"
+		"5级：CTNH符文（视域，扭曲，增殖，星光）"
+		"类星体符文单分一级"
+	]
+	quest.02AE26871BBA0CCF.quest_subtitle: "注意要同时消耗燃料和液态魔力，否则效率将除以5"
+	quest.02C6F7DBFB72081C.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest40.subtitle}"
+	quest.02DB7FB27F963B96.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest11.description1}"]
+	quest.02DB7FB27F963B96.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest11.subtitle}"
+	quest.02E2FF97E48241B5.quest_subtitle: "用光伏绑定终端绑定"
+	quest.03481B4E3F73BFB9.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest20.subtitle}"
+	quest.0379412BFDFE99FE.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest74.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest74.description2}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest74.description3}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest74.description4}"
+	]
+	quest.0379412BFDFE99FE.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest74.subtitle}"
+	quest.0380BD76D7A96F58.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest11.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest11.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest11.description3}"
+	]
+	quest.0380BD76D7A96F58.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest11.subtitle}"
+	quest.0395B3CA160DA4A9.quest_subtitle: "随便用任何一种枯竭镎燃料都可以分离出来"
+	quest.04069333A19D2DB3.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest69.subtitle}"
+	quest.0425D0789C2837CD.quest_desc: ["{ftbquests.chapter.lv.quest11.description1}"]
+	quest.0425D0789C2837CD.quest_subtitle: "{ftbquests.chapter.lv.quest11.subtitle}"
+	quest.045C3E672C8506E1.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest7.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest7.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest7.description3}"
+		"{ftbquests.chapter.596370001FE6E99B.quest7.description4}"
+		"{ftbquests.chapter.596370001FE6E99B.quest7.description5}"
+		"{ftbquests.chapter.596370001FE6E99B.quest7.description6}"
+	]
+	quest.045C3E672C8506E1.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest7.subtitle}"
+	quest.04E158A2929EB69A.quest_subtitle: "这玩意不是魔力？"
+	quest.04E2C1AE56B3C673.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest8.subtitle}"
+	quest.04EFD393B5990E72.title: "{ftbquests.chapter.2CEAD5605C416218.quest21.title}"
+	quest.04F5AA140E3E62DB.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest40.subtitle}"
+	quest.04FBFEEE00051A74.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest16.subtitle}"
+	quest.04FBFEEE00051A74.title: "{ftbquests.chapter.681E3140690307AA.quest16.title}"
+	quest.05305E873C1C92B5.quest_desc: ["{ftbquests.chapter.hv.quest102.description1}"]
+	quest.05305E873C1C92B5.quest_subtitle: "{ftbquests.chapter.hv.quest102.subtitle}"
+	quest.055C47EC41367A36.quest_desc: [
+		"啊哈，终于不用再使用那个坑爹的限速仪式了！通过恶魔锭对血的精妙利用，你终于制作了这台自动化祭坛！"
+		""
+		"当然你也意识到一件事情：那就是那些液态的生命源质不能直接利用！&4这个破祭坛还是需要一个配方来转化源质&r，不过至少给你打了75折，不是第二杯半价！"
+		""
+		"&4哦你可能会意识到0号电路板那个免费注血为什么不能自动切换，所以万事都有代价，你现在付出的就是免费的代价，试试用付费的1号电路板&r"
+	]
+	quest.055C47EC41367A36.quest_subtitle: "小而巧"
+	quest.0598D6FDA6319592.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest6.subtitle}"
+	quest.05EE0A8A9540B9E0.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest7.subtitle}"
+	quest.0609BF460D2F4A65.quest_desc: [""]
+	quest.0609BF460D2F4A65.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest2.subtitle}"
+	quest.0684030D5FD75087.quest_subtitle: "可制作凋零灵魂瓶"
+	quest.06A46967BFF56B33.quest_desc: ["{ftbquests.chapter.lv.quest7.description1}"]
+	quest.06A46967BFF56B33.quest_subtitle: "{ftbquests.chapter.lv.quest7.subtitle}"
+	quest.06B6C2C77135D570.quest_desc: ["{ftbquests.chapter.lv.quest59.description1}"]
+	quest.06B6C2C77135D570.quest_subtitle: "{ftbquests.chapter.lv.quest59.subtitle}"
+	quest.06B866E1C6CD3EA6.quest_subtitle: "经典发电2号"
+	quest.06D3380949C950AB.quest_subtitle: "{ftbquests.chapter.hv.quest70.subtitle}"
+	quest.06D3380949C950AB.title: "{ftbquests.chapter.hv.quest70.title}"
+	quest.06FAB7A7B470A946.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest83.subtitle}"
+	quest.072DDED1FC323DB9.quest_desc: [
+		"注意：这个方程确实有基础值，你可以查kjs来看到add_data里填写的基础值，但是为了给你点小惊喜，这个机器会在基础值的很大范围内随机波动。所以承受这次折磨吧：XD"
+		""
+		"&4PS:我并不保证它的稳定性，如果有BUG无法使用请向我反馈&r"
+	]
+	quest.072DDED1FC323DB9.quest_subtitle: "来吧，你必须挑战"
+	quest.0781523864DA0E6F.quest_desc: ["{ftbquests.chapter.62876F01654DC6E9.quest38.description1}"]
+	quest.0781523864DA0E6F.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest38.subtitle}"
+	quest.079E580DEBE59896.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest29.subtitle}"
+	quest.07C615D17514E652.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest1.subtitle}"
+	quest.0829FFD7D670E5DE.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest35.subtitle}"
+	quest.08741BE5B2EE74A7.title: "{ftbquests.chapter.iv.quest48.title}"
+	quest.087D0FA645D19AC2.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest35.subtitle}"
+	quest.09003848305E9286.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest44.description1}"]
+	quest.09003848305E9286.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest44.subtitle}"
+	quest.0913621A74CD9436.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest77.title}"
+	quest.0921AD39C8509CE9.quest_desc: ["{ftbquests.chapter.uhv.quest9.description1}"]
+	quest.0921AD39C8509CE9.quest_subtitle: "{ftbquests.chapter.uhv.quest9.subtitle}"
+	quest.092A33444A187075.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest39.subtitle}"
+	quest.0957E307997B3D33.quest_desc: [
+		"{ftbquests.chapter.tetra.quest15.description1}"
+		"{ftbquests.chapter.tetra.quest15.description2}"
+	]
+	quest.0957E307997B3D33.quest_subtitle: "{ftbquests.chapter.tetra.quest15.subtitle}"
+	quest.0957E307997B3D33.title: "{ftbquests.chapter.tetra.quest15.title}"
+	quest.095E8F5805EFE4D0.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest2.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest2.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest2.description3}"
+	]
+	quest.095E8F5805EFE4D0.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest2.subtitle}"
+	quest.096B44A2B2FAC6B9.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest31.subtitle}"
+	quest.09A592A17FB59C3E.quest_subtitle: "精炼后发电更优质！"
+	quest.09AB5A78764CC3F7.quest_subtitle: "神"
+	quest.09B4C6A5AB79DBDF.quest_desc: [
+		"盖亚守护者会在你启动盖亚仪式中作为考验与你作战.....嗯......听起来就像&4一台自动化机器？&r"
+		"好吧，如果我们能对召唤仪式做点手脚，就可以在不召唤出其本体的情况下源源不断地抽走它的力量......这个过程也许最后能达到&4零成本&r"
+	]
+	quest.09B4C6A5AB79DBDF.quest_subtitle: "盖亚保护协会表示谴责"
+	quest.09C344717F4BAD6C.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest14.subtitle}"
+	quest.09FA8A12B29927AB.quest_desc: [
+		"你可能注意到分选的配方时间极长，但是电压要求普遍低，以测定电池组为例，他需要长达3000秒的配方时间和只有MV的配方电压，在反复超频到ZPM电压后其实际时间为93.75s。但是时间仍然非常之长"
+		""
+		"你的注意力非常惊人，已经注意到了这台机器的特殊机制：如果你能获得整数倍的算力的话，那么它的一次有损超频将转化为无损（即速度*2），假设我们拥有48算力（这是HPCA的最大算力值），那么我们就可以获得三次无损超频，时间减少到了11.71875，如果你使用16+1的能源仓，那么只需要6s就可以完成这个配方（并且你还额外拥有27的并行！）"
+		""
+		"这对你的算力会是个巨大的挑战，多造HPCA吧，你未来会需要成批这个东西的。同时你一定要输入整数倍，不然你将面对一个375秒且没有并行的逆天配方"
+	]
+	quest.09FA8A12B29927AB.quest_subtitle: "小心算力机器"
+	quest.0A4BE89DE5D23B95.quest_desc: [
+		"&m&e无穷大的基数是无穷大的怀抱&r"
+		"&m&a递归的方程式是世界的递归&r"
+		"&6&m正确的创造是错误的镜子&r"
+		"&2&m永恒的指向是须臾的路径&r"
+		"&1&m错乱的世界歌颂着虚无的真谛&r"
+		"&c&m万物的梦乡是质数的疯狂&r"
+		"&8&m扭曲的庭院是基于U和W的嚎叫&r"
+		"&8&n真理的意义是无穷的衔尾&r"
+		"&4&mERROR是ERROR的ERROR&r"
+		"&0&m不相信你能做出来这个的作者正在增加所有材料的花费&r"
+		"&4本应如此&r"
+	]
+	quest.0A4BE89DE5D23B95.quest_subtitle: "这不可能，这不可能！"
+	quest.0A81CFBAA57DCC85.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest69.subtitle}"
+	quest.0A86E1B3B2AF9DEA.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest31.subtitle}"
+	quest.0A8799058C0D5787.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest20.subtitle}"
+	quest.0AAAFAD6405A0E26.quest_subtitle: "{ftbquests.chapter.ev.quest85.subtitle}"
+	quest.0AAEE2288B0637AC.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest17.subtitle}"
+	quest.0AE0727C431D39A5.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest13.subtitle}"
+	quest.0AEBC43C2EA4E190.quest_subtitle: "{ftbquests.chapter.ev.quest12.subtitle}"
+	quest.0B1DD6CF9FC1B153.quest_subtitle: "给他稳定一下"
+	quest.0B90121BB71598DD.quest_subtitle: "{ftbquests.chapter.mv.quest16.subtitle}"
+	quest.0BF9AD47D3294ACE.quest_subtitle: "一台更比三台强"
+	quest.0C12A7FDA05C7439.quest_subtitle: "{ftbquests.chapter.mv.quest9.subtitle}"
+	quest.0C12A7FDA05C7439.title: "{ftbquests.chapter.mv.quest9.title}"
+	quest.0C248F430ED4DE66.quest_desc: ["已经快玩完&bBTNH了！"]
+	quest.0C248F430ED4DE66.quest_subtitle: "天顶领域大神"
+	quest.0C52DB44DF9EE06F.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest10.subtitle}"
+	quest.0C5E045DBD9D132E.quest_subtitle: "UHV线圈"
+	quest.0CF1BA78424ABB95.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest16.subtitle}"
+	quest.0CF5D8B837116811.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest41.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest41.description2}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest41.description3}"
+	]
+	quest.0D02E73EE9CEE252.quest_subtitle: "{ftbquests.chapter.ev.quest91.subtitle}"
+	quest.0D100F330A65593F.quest_subtitle: "拥有掌控时间的力量"
+	quest.0D88A5F86881FB3B.quest_subtitle: "{ftbquests.chapter.iv.quest28.subtitle}"
+	quest.0DA6DBCC41828D80.quest_desc: [""]
+	quest.0DA6DBCC41828D80.quest_subtitle: "{ftbquests.chapter.luv.quest1.subtitle}"
+	quest.0DA7785CF55ABAAB.quest_desc: [
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description1}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description2}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description3}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description4}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description5}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description6}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description7}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description8}"
+		"{@pagebreak}"
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description9}"
+		""
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description10}"
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description11}"
+		"{ftbquests.chapter.08AF6857D150C353.quest4.description12}"
+	]
+	quest.0DA7785CF55ABAAB.title: "{ftbquests.chapter.08AF6857D150C353.quest4.title}"
+	quest.0DB7295B5A8AB913.title: "{ftbquests.chapter.609746CF8BE6A11E.quest9.title}"
+	quest.0E01AD0627C7DC87.quest_subtitle: "不沾一点血液"
+	quest.0E0DFA3E505CDB54.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest65.subtitle}"
+	quest.0E1BB5886DEF4D25.quest_desc: ["{ftbquests.chapter.lv.quest5.description1}"]
+	quest.0E1BB5886DEF4D25.quest_subtitle: "{ftbquests.chapter.lv.quest5.subtitle}"
+	quest.0E72AEAF23C24D5E.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest23.subtitle}"
+	quest.0E7F2FF17D112EA2.quest_subtitle: "{ftbquests.chapter.iv.quest30.subtitle}"
+	quest.0E7F2FF17D112EA2.title: "{ftbquests.chapter.iv.quest30.title}"
+	quest.0E9EAF937AE1B376.title: "{ftbquests.chapter.4EE5451097565A1A.quest21.title}"
+	quest.0EC027D1967A2E13.quest_subtitle: "大点的药水瓶"
+	quest.0EFE1DBB0AC3BC5F.quest_desc: [
+		"{ftbquests.chapter.lv.quest68.description1}"
+		"{ftbquests.chapter.lv.quest68.description2}"
+	]
+	quest.0EFE1DBB0AC3BC5F.quest_subtitle: "{ftbquests.chapter.lv.quest68.subtitle}"
+	quest.0F227314EC7719F8.quest_desc: ["{ftbquests.chapter.lv.quest21.description1}"]
+	quest.0F227314EC7719F8.quest_subtitle: "{ftbquests.chapter.lv.quest21.subtitle}"
+	quest.0F5DE5970F41E7B3.quest_desc: ["{ftbquests.chapter.lv.quest34.description1}"]
+	quest.0F5DE5970F41E7B3.quest_subtitle: "{ftbquests.chapter.lv.quest34.subtitle}"
+	quest.0F8A1D38DCB6CCE1.quest_subtitle: "{ftbquests.chapter.hv.quest125.subtitle}"
+	quest.0F9593BC9A52CB10.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest53.subtitle}"
+	quest.0F974358320FEC16.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest91.subtitle}"
+	quest.0FBBCA604978BE1C.quest_desc: [
+		"这真的是聚变吗？粒子在这台机器中颤动，随你心愿地扭曲成各种物质.....它们甚至可以按照字母来进行随意组合.....你完全无法理解它的工作方式."
+		""
+		"你对这台机器还不够完善，所以你还不能进行更高能量的聚变，未来这台机器的改进版也许可以让你彻底领悟这台机器的奥妙"
+	]
+	quest.0FBBCA604978BE1C.quest_subtitle: "我们无法理解物质在里面究竟发生了什么"
+	quest.0FBFC9DC10435D74.quest_subtitle: "准备好足够的培养皿吧 "
+	quest.0FBFC9DC10435D74.title: "幽匿电路板的开端"
+	quest.0FC2767827492600.quest_desc: ["{ftbquests.chapter.lv.quest62.description1}"]
+	quest.0FC2767827492600.quest_subtitle: "{ftbquests.chapter.lv.quest62.subtitle}"
+	quest.0FEA054082A7941F.quest_desc: [
+		"好了，我知道你很兴奋，不过我建议你先看一下任务的无线教程，不然你的存档可能会被无线害的灰飞烟灭"
+		"&4记得先备份你的存档:XD&r"
+	]
+	quest.0FEA054082A7941F.quest_subtitle: "万亿GT牢员工呼唤的真正无线终于到来（先看看这个任务）"
+	quest.0FEAC07F1404346A.quest_desc: ["{ftbquests.chapter.lv.quest6.description1}"]
+	quest.0FEAC07F1404346A.quest_subtitle: "{ftbquests.chapter.lv.quest6.subtitle}"
+	quest.104511D23BA0B12A.quest_subtitle: "{ftbquests.chapter.ev.quest101.subtitle}"
+	quest.1059716CA13CA10E.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest20.subtitle}"
+	quest.105D45F86A0B3A55.quest_desc: ["记得按W查看用法"]
+	quest.105D45F86A0B3A55.quest_subtitle: "这玩意，熟悉的感觉"
+	quest.1066897237999347.quest_desc: ["{ftbquests.chapter.lv.quest61.description1}"]
+	quest.1066897237999347.quest_subtitle: "{ftbquests.chapter.lv.quest61.subtitle}"
+	quest.106A5B189687F358.quest_subtitle: "有些核燃料是可以自己单独放进核反应堆的，请注意"
+	quest.106DC15191737D98.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest62.subtitle}"
+	quest.109D9B13DA0712EA.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest34.subtitle}"
+	quest.10B1EE4638BC3203.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest67.subtitle}"
+	quest.10E9DB3C92C8B969.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest36.subtitle}"
+	quest.114C14B4DBCEF015.quest_subtitle: "{ftbquests.chapter.iv.quest36.subtitle}"
+	quest.114C14B4DBCEF015.title: "{ftbquests.chapter.iv.quest36.title}"
+	quest.114C52A3317D9D68.quest_subtitle: "丛林的魔君的馈赠......但是代价是什么？"
+	quest.1157261D1C6FA682.quest_desc: [
+		"{ftbquests.chapter.hv.quest20.description1}"
+		"{ftbquests.chapter.hv.quest20.description2}"
+	]
+	quest.1157261D1C6FA682.quest_subtitle: "{ftbquests.chapter.hv.quest20.subtitle}"
+	quest.115C898955BED311.quest_desc: ["它能吃掉咀叶花，乐"]
+	quest.115C898955BED311.quest_subtitle: "食物链"
+	quest.115F1C7FD1E79C79.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest13.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest13.description2}"
+	]
+	quest.115F1C7FD1E79C79.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest13.subtitle}"
+	quest.117CC578D19D6CB0.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest37.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest37.description2}"
+	]
+	quest.117CC578D19D6CB0.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest37.subtitle}"
+	quest.117CC578D19D6CB0.title: "{ftbquests.chapter.2CEAD5605C416218.quest37.title}"
+	quest.11954B230147F3B8.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest60.subtitle}"
+	quest.11B37EA8EEE75AC4.quest_desc: [""]
+	quest.11B37EA8EEE75AC4.quest_subtitle: "你会需要它的，顺便还你你的铝土催化剂"
+	quest.11B6FE0A5C38B474.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest55.subtitle}"
+	quest.11BB717A9D64F679.quest_subtitle: "你完全弄不懂这个的分子结构了......"
+	quest.11CBD66BE7CCCAED.quest_desc: [
+		"{ftbquests.chapter.08AF6857D150C353.quest77.description1}"
+		"{ftbquests.chapter.08AF6857D150C353.quest77.description2}"
+		"{ftbquests.chapter.08AF6857D150C353.quest77.description3}"
+	]
+	quest.11CBD66BE7CCCAED.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest77.subtitle}"
+	quest.11E7A04526A80439.quest_subtitle: "注魔，注魔"
+	quest.11EDB5B9EB1B6554.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest3.subtitle}"
+	quest.11EF3B1D40A11CBD.quest_subtitle: "可循环燃料！适合给超级懒人用"
+	quest.11F16BF08F3934B6.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest8.subtitle}"
+	quest.11F898C7B0C925D5.quest_desc: ["{ftbquests.chapter.lv.quest19.description1}"]
+	quest.11F898C7B0C925D5.quest_subtitle: "{ftbquests.chapter.lv.quest19.subtitle}"
+	quest.1209F38D296109C7.quest_desc: ["{ftbquests.chapter.08AF6857D150C353.quest52.description1}"]
+	quest.1209F38D296109C7.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest52.subtitle}"
+	quest.123379D3A36CD01E.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest10.subtitle}"
+	quest.1236337116794E31.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest9.subtitle}"
+	quest.12C8D92392C3372E.quest_subtitle: "便宜的合成材料"
+	quest.130A19F7C214261C.quest_subtitle: "都让开，要炸了！"
+	quest.1318AF9D80910268.title: "{ftbquests.chapter.2CEAD5605C416218.quest65.title}"
+	quest.13269998C6FC824A.quest_subtitle: "超级燃料"
+	quest.1330F4F7A3E4C61C.quest_subtitle: "似乎需要来自天域的天文数据"
+	quest.1338FE50BBDCF412.quest_subtitle: "{ftbquests.chapter.046724C96F783FC2.quest1.subtitle}"
+	quest.13424B848195B90D.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest46.subtitle}"
+	quest.1372577346448371.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest4.subtitle}"
+	quest.1385760305EE11D6.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest10.subtitle}"
+	quest.138EAB42F677E309.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest34.subtitle}"
+	quest.13BE90ED71F011F0.quest_desc: ["但这一切值得吗？"]
+	quest.13BE90ED71F011F0.quest_subtitle: "相当于100倍高辛烷的燃值"
+	quest.13BE90ED71F011F0.title: "在燃油的终末"
+	quest.13FE0DE58BECC609.quest_subtitle: "{ftbquests.chapter.lv.quest37.subtitle}"
+	quest.13FE0DE58BECC609.title: "{ftbquests.chapter.lv.quest37.title}"
+	quest.141227BD0FDD68EE.quest_subtitle: "{ftbquests.chapter.mv.quest58.subtitle}"
+	quest.1421D16E540993B8.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest20.subtitle}"
+	quest.146C0A035CE91390.quest_subtitle: "哇，lp真的很多"
+	quest.1477D22EEBD4B677.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest72.subtitle}"
+	quest.1477D22EEBD4B677.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest72.title}"
+	quest.14BBFCA2874451CD.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest18.subtitle}"
+	quest.14C08D2A44860C08.quest_subtitle: "{ftbquests.chapter.luv.quest16.subtitle}"
+	quest.14D70CD81A9B77A0.title: "用以太就能发100W电并省400W电("
+	quest.14EE5543DC5E4D5D.title: "轻，中，重!"
+	quest.14F59E43D9ADE48A.quest_subtitle: "{ftbquests.chapter.zpm.quest92.subtitle}"
+	quest.14FF729916CDD0DA.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest51.description1}"]
+	quest.14FF729916CDD0DA.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest51.subtitle}"
+	quest.1511963A19F70BC2.quest_desc: ["{ftbquests.chapter.hv.quest51.description1}"]
+	quest.1511963A19F70BC2.quest_subtitle: "{ftbquests.chapter.hv.quest51.subtitle}"
+	quest.1511963A19F70BC2.title: "{ftbquests.chapter.hv.quest51.title}"
+	quest.15228E5BA4B65879.quest_subtitle: "{ftbquests.chapter.iv.quest10.subtitle}"
+	quest.155071A992CAE0F3.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest2.subtitle}"
+	quest.15594488383C6578.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest47.subtitle}"
+	quest.1574C6C4E9FE38DF.quest_desc: ["{ftbquests.chapter.tetra.quest14.description1}"]
+	quest.1574C6C4E9FE38DF.quest_subtitle: "{ftbquests.chapter.tetra.quest14.subtitle}"
+	quest.157616D257E25806.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest19.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest19.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest19.description3}"
+		"{ftbquests.chapter.596370001FE6E99B.quest19.description4}"
+	]
+	quest.157616D257E25806.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest19.subtitle}"
+	quest.15BD44DB26748FA3.quest_subtitle: "{ftbquests.chapter.uhv.quest22.subtitle}"
+	quest.15BD44DB26748FA3.title: "{ftbquests.chapter.uhv.quest22.title}"
+	quest.15ED273EAE156E49.quest_subtitle: "{ftbquests.chapter.lv.quest29.subtitle}"
+	quest.15FD6C3C504D6DFF.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest24.subtitle}"
+	quest.16243C6CC9C1CD8A.quest_subtitle: "{ftbquests.chapter.hv.quest26.subtitle}"
+	quest.167F0DAD7D2B97C5.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest23.subtitle}"
+	quest.169C88ED88B3883B.quest_subtitle: "{ftbquests.chapter.ev.quest60.subtitle}"
+	quest.169C88ED88B3883B.title: "{ftbquests.chapter.ev.quest60.title}"
+	quest.16BA40E467148F05.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest29.subtitle}"
+	quest.17292FB8D4DD36BA.quest_subtitle: "{ftbquests.chapter.iv.quest55.subtitle}"
+	quest.173C1ED446EF4D39.title: "{ftbquests.chapter.zpm.quest16.title}"
+	quest.174B639A9AAA2B4C.quest_subtitle: "{ftbquests.chapter.luv.quest21.subtitle}"
+	quest.174B639A9AAA2B4C.title: "{ftbquests.chapter.luv.quest21.title}"
+	quest.1756E4E4880B8FD4.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest64.subtitle}"
+	quest.179E506375B19B66.quest_desc: ["{ftbquests.chapter.36A2F40CC894ECAF.quest7.description1}"]
+	quest.179E506375B19B66.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest7.subtitle}"
+	quest.17AE8CE55863D7D6.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest3.subtitle}"
+	quest.17B87AE00C7626AF.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest11.subtitle}"
+	quest.18539988644418C9.quest_subtitle: "{ftbquests.chapter.ev.quest83.subtitle}"
+	quest.1960FC2322EDCB12.quest_subtitle: "IV阶段获取硅岩"
+	quest.19618A0AF3E1A0B5.quest_subtitle: "警告：如果你没绑定电容库就使用这个玩意，你的游戏也会变成烟花"
+	quest.19869FD9D4BCCB9F.quest_desc: ["{ftbquests.chapter.lv.quest18.description1}"]
+	quest.19869FD9D4BCCB9F.quest_subtitle: "{ftbquests.chapter.lv.quest18.subtitle}"
+	quest.19869FD9D4BCCB9F.title: "{ftbquests.chapter.lv.quest18.title}"
+	quest.19A600CF4DFAAABC.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest25.subtitle}"
+	quest.1A3BB6F4D606EF15.quest_desc: ["{ftbquests.chapter.62876F01654DC6E9.quest74.description1}"]
+	quest.1A3BB6F4D606EF15.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest74.subtitle}"
+	quest.1A4BF7BE5F6591F6.quest_subtitle: "{ftbquests.chapter.ev.quest16.subtitle}"
+	quest.1A760D451E9D23B0.quest_subtitle: "{ftbquests.chapter.mv.quest35.subtitle}"
+	quest.1A9FAC89EC982D6D.quest_desc: [
+		"{ftbquests.chapter.lv.quest8.description1}"
+		"{ftbquests.chapter.lv.quest8.description2}"
+	]
+	quest.1A9FAC89EC982D6D.quest_subtitle: "{ftbquests.chapter.lv.quest8.subtitle}"
+	quest.1AEE2FEB6874EE82.quest_subtitle: "{ftbquests.chapter.ev.quest32.subtitle}"
+	quest.1AF8205ECB9C3737.quest_desc: [
+		"{ftbquests.chapter.hv.quest32.description1}"
+		""
+		"{ftbquests.chapter.hv.quest32.description2}"
+		"{ftbquests.chapter.hv.quest32.description3}"
+	]
+	quest.1B2F361B8F302822.quest_desc: [
+		"通过精灵的技术，你终于掌握了这种金属："
+		"这种金属的蕴魔量也许没有盖亚魂锭高，但是它的&9魔力承载力&r却远优于你的不锈钢或者其他魔力材料，也许使用这种金属就可以制作一些使用&9高浓度魔力&r的机器？"
+	]
+	quest.1B2F361B8F302822.quest_subtitle: "坚韧的载魔容器"
+	quest.1B4FFE71B4C66E14.quest_desc: ["{ftbquests.chapter.681E3140690307AA.quest10.description1}"]
+	quest.1B4FFE71B4C66E14.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest10.subtitle}"
+	quest.1BC96CF2C5DB3D12.quest_subtitle: "{ftbquests.chapter.uv.quest38.subtitle}"
+	quest.1BEC6EF7F134246C.quest_subtitle: "{ftbquests.chapter.zpm.quest75.subtitle}"
+	quest.1C276DAC38B004B1.quest_desc: [
+		"是时候开始HPCA叠叠乐了"
+		""
+		"别忘了给你的HPCA装上桥接组件，不然连不上交换机的"
+	]
+	quest.1C276DAC38B004B1.quest_subtitle: "同样需要ZPM才能做"
+	quest.1C3C3C4744816CE8.quest_desc: ["{ftbquests.chapter.4EE5451097565A1A.quest24.description1}"]
+	quest.1C8D18E3FC43D669.quest_desc: [
+		"以往的研究表明你对魔力的利用率不到1%%——当然这群花比你还低"
+		""
+		"但是精灵的研究表明：如果给产魔花提供适当的环境，那么它的产魔效率就能大幅提高。"
+		""
+		"&9那么就给它们创造一个完美的环境吧，为了工业化这只是微不足道的代价&r"
+		""
+		"&4永恒之花的核心只能通过任务获得，想量产这个巨构你要等到UV了&r"
+	]
+	quest.1C8D18E3FC43D669.quest_subtitle: "永恒之花"
+	quest.1C93DF12398AA4D3.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest80.description1}"]
+	quest.1C93DF12398AA4D3.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest80.subtitle}"
+	quest.1CC3B42FE86A4743.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest22.description1}"]
+	quest.1CC3B42FE86A4743.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest22.subtitle}"
+	quest.1CC3B42FE86A4743.title: "{ftbquests.chapter.2CEAD5605C416218.quest22.title}"
+	quest.1CE1218562D7323C.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest59.subtitle}"
+	quest.1CECBF50A30F23B0.quest_subtitle: "{ftbquests.chapter.ev.quest5.subtitle}"
+	quest.1D6900B1EF6B2D74.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest13.subtitle}"
+	quest.1D74C6CC8DEB6158.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest5.subtitle}"
+	quest.1D90541157679351.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest17.subtitle}"
+	quest.1DE5479957FC30C8.quest_desc: [
+		"这对你说绝对是一个全新的挑战，下一步的光伏线会需要巨量的阳光化合物，所以我建议你做出来其产线"
+		""
+		"你有很多方式可以获取它："
+		""
+		"1.从某些生物质里面提取到阳光提取物，然后与萤石在高压釜中制作"
+		""
+		"2.使用UU物质和生物质直接制取，速度更快步骤更少（前提是UU物质这条线已经有人做了）"
+		""
+		"3.在LUV后，你可以直接聚变来获得阳光化合物，这个方法消耗的材料少且速度快"
+		""
+		"4.在你制造出光伏基站后，你可以使用其独有配方来跳过阳光提取物这一步来制取阳光化合物"
+		""
+		"5.如果你接受了BTNH，那么你可以通过魔法配方来制取阳光化合物，不过他所需的东西也并没有这么简单：XD"
+	]
+	quest.1DE5479957FC30C8.quest_subtitle: "凑了，以前光伏要这个玩意吗"
+	quest.1DEEF2533C6A5F63.quest_subtitle: "旅途的终点"
+	quest.1E21F35AB1E1A7ED.quest_subtitle: "{ftbquests.chapter.hv.quest16.subtitle}"
+	quest.1E21F35AB1E1A7ED.title: "{ftbquests.chapter.hv.quest16.title}"
+	quest.1E46BA977152A462.quest_desc: ["{ftbquests.chapter.596370001FE6E99B.quest9.description1}"]
+	quest.1E46BA977152A462.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest9.subtitle}"
+	quest.1E74645D87740E1B.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest3.subtitle}"
+	quest.1EB19516042262AF.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest48.subtitle}"
+	quest.1ED352B272339266.quest_subtitle: "{ftbquests.chapter.mv.quest12.subtitle}"
+	quest.1EDA02396B328A49.title: "{ftbquests.chapter.2CEAD5605C416218.quest34.title}"
+	quest.1F24CDB4B265DAE8.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest93.subtitle}"
+	quest.1F377D5E29181294.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest35.subtitle}"
+	quest.1F7CA0731CCA907A.quest_desc: ["{ftbquests.chapter.lv.quest23.description1}"]
+	quest.1F7CA0731CCA907A.quest_subtitle: "{ftbquests.chapter.lv.quest23.subtitle}"
+	quest.1FB23D66088398BC.quest_desc: ["{ftbquests.chapter.681E3140690307AA.quest19.description1}"]
+	quest.1FC5D2A60578FB55.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest2.subtitle}"
+	quest.201D7F340F8ED187.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest1.subtitle}"
+	quest.2032BDD3A8B16E3C.quest_desc: [
+		"符文分级："
+		"1级：火水地风"
+		"2级：四季"
+		"3级：七宗罪"
+		"4级：神话植物学符文"
+		"5级：CTNH符文（视域，扭曲，增殖，星光）"
+		"类星体符文单分一级"
+	]
+	quest.2032BDD3A8B16E3C.quest_subtitle: "注意要同时消耗燃料和液态魔力，否则效率将除以5"
+	quest.2040B219B1AAF893.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest28.subtitle}"
+	quest.209FAC261240DA4E.quest_subtitle: "{ftbquests.chapter.iv.quest103.subtitle}"
+	quest.20DD3B07D56B6A8D.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest12.subtitle}"
+	quest.210C1FB94A0AA2B0.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest76.description1}"]
+	quest.210C1FB94A0AA2B0.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest76.subtitle}"
+	quest.211AA05F2154A9FD.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest66.subtitle}"
+	quest.211F0DB44621458D.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest51.description1}"]
+	quest.211F0DB44621458D.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest51.subtitle}"
+	quest.211F0DB44621458D.title: "{ftbquests.chapter.2CEAD5605C416218.quest51.title}"
+	quest.213DE50DC3B65FA3.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest25.subtitle}"
+	quest.216D57DF2B38AB9D.quest_subtitle: "{ftbquests.chapter.hv.quest78.subtitle}"
+	quest.21742989261776EF.quest_subtitle: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest16.subtitle}"
+	quest.21768F83603146C0.quest_subtitle: "{ftbquests.chapter.uv.quest37.subtitle}"
+	quest.219E9B48DE93781A.quest_subtitle: "{ftbquests.chapter.zpm.quest82.subtitle}"
+	quest.21A041F23BC5B89D.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest6.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest6.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest6.description3}"
+		""
+	]
+	quest.21A041F23BC5B89D.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest6.subtitle}"
+	quest.21CD0FCABBCFB765.quest_subtitle: "{ftbquests.chapter.lv.quest57.subtitle}"
+	quest.21D441CD4FF09657.quest_desc: [""]
+	quest.21D441CD4FF09657.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest22.subtitle}"
+	quest.21D904DC5BD2D857.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest7.subtitle}"
+	quest.21E0FFCAAB295C8F.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest29.description1}"]
+	quest.21E0FFCAAB295C8F.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest29.subtitle}"
+	quest.21F2C28308352E7A.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest32.subtitle}"
+	quest.21FEA920DE844E5C.quest_desc: [
+		"符文分级："
+		"1级：火水地风"
+		"2级：四季"
+		"3级：七宗罪"
+		"4级：神话植物学符文"
+		"5级：CTNH符文（视域，扭曲，增殖，星光）"
+		"类星体符文单分一级"
+	]
+	quest.21FEA920DE844E5C.quest_subtitle: "注意要同时消耗燃料和液态魔力，否则效率将除以5"
+	quest.2200E459E683E83E.quest_subtitle: "放入天文台中可以逐渐收集数据"
+	quest.2205E2EAF55B52F7.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest34.subtitle}"
+	quest.2206089F4E43C59D.quest_desc: ["要消耗冷却液，别忘了"]
+	quest.2206089F4E43C59D.quest_subtitle: "高级散热组件，当你发现你的算力不够时就要把散热组件换成这个"
+	quest.221A2FB97B12AE80.quest_subtitle: "你做血魔法不就是为了这个吗"
+	quest.2237A624EA40A81C.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest68.subtitle}"
+	quest.228659D7C0DF52B9.title: "{ftbquests.chapter.609746CF8BE6A11E.quest10.title}"
+	quest.228C7E019750CFF1.title: "{ftbquests.chapter.2CEAD5605C416218.quest4.title}"
+	quest.22ABF30D518BD58C.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest1.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest1.description2}"
+	]
+	quest.22ABF30D518BD58C.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest1.subtitle}"
+	quest.22BA32A56B16DF34.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest59.subtitle}"
+	quest.22C86649AA801204.quest_subtitle: "{ftbquests.chapter.lv.quest56.subtitle}"
+	quest.22D529C3C7916152.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest6.subtitle}"
+	quest.2301C8A867356B99.quest_subtitle: "{ftbquests.chapter.lv.quest25.subtitle}"
+	quest.2332D134B96A8627.quest_subtitle: "{ftbquests.chapter.tetra.quest8.subtitle}"
+	quest.23347233C6B3121C.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest40.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest40.description2}"
+	]
+	quest.23822AE831A41F5D.quest_subtitle: "{ftbquests.chapter.hv.quest53.subtitle}"
+	quest.23F758E2421BF068.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest2.subtitle}"
+	quest.23FA40EA2E54603E.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest16.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest16.description2}"
+	]
+	quest.23FA40EA2E54603E.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest16.subtitle}"
+	quest.2498090AADF79896.quest_subtitle: "见证等离子燃料的潜力！"
+	quest.24A3BEAC1C62DFEC.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest9.subtitle}"
+	quest.24B8C72A417B4C2F.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest56.subtitle}"
+	quest.25373674A1A9932C.quest_desc: ["{ftbquests.chapter.08AF6857D150C353.quest20.description1}"]
+	quest.25373674A1A9932C.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest20.subtitle}"
+	quest.25407232A00F2AF1.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest57.description1}"]
+	quest.25407232A00F2AF1.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest57.subtitle}"
+	quest.257CFCFEE4F99D04.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest7.subtitle}"
+	quest.258665E0966F5B80.quest_desc: ["创造即为无穷"]
+	quest.258665E0966F5B80.quest_subtitle: "我们无所不能"
+	quest.259A978C21F77862.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest47.subtitle}"
+	quest.25CADEFA5DCB0244.quest_desc: [
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest22.description1}"
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest22.description2}"
+	]
+	quest.25CADEFA5DCB0244.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest22.subtitle}"
+	quest.25D924B587ABCF41.quest_desc: ["{ftbquests.chapter.iv.quest2.description1}"]
+	quest.25D924B587ABCF41.quest_subtitle: "{ftbquests.chapter.iv.quest2.subtitle}"
+	quest.25DAE6D032C050D7.quest_subtitle: "{ftbquests.chapter.hv.quest58.subtitle}"
+	quest.25F5C44403382FC0.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest38.subtitle}"
+	quest.263BAC17F57E2F18.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest34.subtitle}"
+	quest.2693AB1D8C40E181.quest_subtitle: "{ftbquests.chapter.hv.quest57.subtitle}"
+	quest.26D2332315757194.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest41.subtitle}"
+	quest.26E3D132B95EA3B9.quest_desc: [
+		"至少是现在，即使使用保护气，你还需要高达15000秒的时间才能烧完这个金属，去使用等离子合金炉，拉满你所有的速度来挑战这种合金吧"
+		"未来也许会有其他方法？超维度等离子锻炉？谁知道CTNH会不会有这个东西？"
+	]
+	quest.26E3D132B95EA3B9.quest_subtitle: "在世界的终末才能炖完的合金"
+	quest.2755F78FE5290FC2.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest27.subtitle}"
+	quest.2755F78FE5290FC2.title: "{ftbquests.chapter.09F33579334F2607.quest27.title}"
+	quest.2758CA5AD758482C.quest_desc: ["{ftbquests.chapter.hv.quest15.description1}"]
+	quest.2758CA5AD758482C.quest_subtitle: "{ftbquests.chapter.hv.quest15.subtitle}"
+	quest.276895EC6427C435.quest_subtitle: "这一步富集硅岩开始不太行了，试试超能"
+	quest.277F8827A9281E7E.title: "{ftbquests.chapter.ev.quest51.title}"
+	quest.279A1E4B92095342.quest_desc: ["{ftbquests.chapter.62876F01654DC6E9.quest36.description1}"]
+	quest.279A1E4B92095342.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest36.subtitle}"
+	quest.27BD70B6974D0C78.quest_desc: ["{ftbquests.chapter.lv.quest20.description1}"]
+	quest.27BD70B6974D0C78.quest_subtitle: "{ftbquests.chapter.lv.quest20.subtitle}"
+	quest.27C30CC438658E3E.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest15.subtitle}"
+	quest.27EC2E4B61A056E0.quest_desc: ["{ftbquests.chapter.iv.quest70.description1}"]
+	quest.27EC2E4B61A056E0.quest_subtitle: "{ftbquests.chapter.iv.quest70.subtitle}"
+	quest.27EF0EE87260585F.quest_subtitle: "{ftbquests.chapter.hv.quest29.subtitle}"
+	quest.2808F9BC44C268B0.quest_subtitle: "对火星石的分析告诉我们火星上曾经确实有生命"
+	quest.28457B818BDAD38B.quest_desc: [
+		"从59废墟走出来的雨德花已经变得强大无比，它能在雷雨天召唤闪电之力轰击花园，然后一次性获取巨量魔力。"
+		"当然这朵花的电压需求非常的高，如果你没有这么高的电压，只能使用那个普通配方了"
+		"12号电路板配方：召唤一次雷电，产出100000ml 液态魔力，只能在雷雨天使用"
+		"24号电路板配方：一般情况下产出10ml魔力，在下雨天产出200ml魔力，在雷雨天产出800ml魔力"
+	]
+	quest.28457B818BDAD38B.quest_subtitle: "闪电之力"
+	quest.28457B818BDAD38B.title: "雷德花"
+	quest.287D7ADB01D8D58F.quest_subtitle: "{ftbquests.chapter.ev.quest80.subtitle}"
+	quest.28C5FFD22F9B4FEF.quest_desc: [
+		"{ftbquests.chapter.iv.quest66.description1}"
+		"{ftbquests.chapter.iv.quest66.description2}"
+		"{ftbquests.chapter.iv.quest66.description3}"
+	]
+	quest.28C5FFD22F9B4FEF.quest_subtitle: "{ftbquests.chapter.iv.quest66.subtitle}"
+	quest.28D6FA3341B59AA4.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest12.subtitle}"
+	quest.291D02E808F55209.quest_desc: [""]
+	quest.291D02E808F55209.quest_subtitle: "{ftbquests.chapter.mv.quest39.subtitle}"
+	quest.292C8244FE241F15.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest39.subtitle}"
+	quest.293EE259DA6D3BF0.quest_desc: ["这本破旧的笔记本给了还未进入工业化时代的你很多灵感，也许利用世界中存在的魔源，你就可以在前期搭建自动化产线"]
+	quest.293EE259DA6D3BF0.quest_subtitle: "新生魔艺"
+	quest.2946049E78C9A182.quest_desc: [
+		"终于，在研究了这么多魔法之后，你已经初步搞懂了这些魔法的本质——&4无论是血魔法，植物魔法，还是附魔魔法，他们本质都是那种物质——对，就是魔力！&r"
+		""
+		"额，这样说是不是有点蠢？不管了，反正你发现，这些魔法本质上都是一套通用魔力系统的各种分支。如果把这些魔法结合起来，你也许就能获得更加强大的魔法了！"
+		""
+		"既然我们已经征服泰拉，那我们就将目标定在那&5天顶&r吧！"
+	]
+	quest.2946049E78C9A182.quest_subtitle: "魔力大一统！"
+	quest.2946049E78C9A182.title: "{ftbquests.chapter.1FD18D8B41761626.quest16.title}"
+	quest.29A976DE3BC32AD2.quest_subtitle: "工业时代"
+	quest.29C13DAEA1A3D024.title: "轻，中，重？"
+	quest.29C2D8D206649CE5.quest_subtitle: "{ftbquests.chapter.hv.quest25.subtitle}"
+	quest.29C8F8795B11936E.quest_desc: ["{ftbquests.chapter.09F33579334F2607.quest4.description1}"]
+	quest.29C8F8795B11936E.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest4.subtitle}"
+	quest.29EDBE0D432B1D62.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest32.description1}"]
+	quest.29EDBE0D432B1D62.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest32.subtitle}"
+	quest.29EDBE0D432B1D62.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest32.title}"
+	quest.2A0DB69B5E67D674.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest61.description1}"]
+	quest.2A0DB69B5E67D674.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest61.subtitle}"
+	quest.2A2F55330B0A2B24.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest30.subtitle}"
+	quest.2A5B367B62F87075.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest30.subtitle}"
+	quest.2A6527B0F4AC3E2E.quest_subtitle: "{ftbquests.chapter.iv.quest31.subtitle}"
+	quest.2A9C751134DC1A4E.quest_subtitle: "{ftbquests.chapter.046724C96F783FC2.quest3.subtitle}"
+	quest.2AC892D111A8FA83.quest_subtitle: "自定义工具（需要想象力）"
+	quest.2AE97425476D5584.quest_subtitle: "{ftbquests.chapter.iv.quest95.subtitle}"
+	quest.2B36B79F750C8E56.quest_subtitle: "好玩，爱玩，喜欢玩"
+	quest.2B3A126F8C590A55.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest35.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest35.description2}"
+	]
+	quest.2B3A126F8C590A55.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest35.subtitle}"
+	quest.2B3A126F8C590A55.title: "{ftbquests.chapter.2CEAD5605C416218.quest35.title}"
+	quest.2B89ABEE85CE3532.quest_desc: [
+		"精灵们的符文已经过时了，在你成功调制出这伟大的魔力载体后，你已经展开了新的视野（不是BTNH!）那么是时候该创造属于你自己的符文了！"
+		""
+		"这些符文是之前符文的全面强化版，它们有着更加强大的能量，并且可以让魔力涡轮发挥更强大的力量，在未来也是重要的合成材料"
+	]
+	quest.2B89ABEE85CE3532.quest_subtitle: "我们可以创造一切"
+	quest.2B8D29BCF9754837.quest_subtitle: "出现在炎热的原版群系"
+	quest.2B91C66AF05AEFE4.quest_subtitle: "感觉......不如.....超级电高"
+	quest.2BB03484D6971028.quest_subtitle: "{ftbquests.chapter.zpm.quest58.subtitle}"
+	quest.2BCE6D5336CADE73.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest89.description1}"]
+	quest.2BCE6D5336CADE73.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest89.subtitle}"
+	quest.2C18C2C4CA54D968.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest29.subtitle}"
+	quest.2C5AAAE7171632CA.quest_subtitle: "{ftbquests.chapter.luv.quest26.subtitle}"
+	quest.2C6CB8D08F9F3EB2.quest_desc: [
+		"要使用电动苦难之井，你需要取参照&1敌对神经网络&r来获取一个模型，模型等级越高产出越高&4不过敌对神经网络的功能也只剩下这一个了，其他的都被ban了，乖乖用屠宰场吧&r"
+		"然后你会收集到大量的生命源质，然后再找个什么EIO导管或者AE输入进祭坛，是不是很简单？"
+		"&4然而血魔法限制了外来源质输入速度，也就是你把液体输入到祭坛的速度是有上限的，对自动化非常的不友好。&r&5转位符文每一个都可以将速度上限提升2%&r。这实在是太贵了，但是为了自动化你也无能为力"
+	]
+	quest.2C6CB8D08F9F3EB2.quest_subtitle: "到底是谁设计出来的转位符文？！"
+	quest.2C6CB8D08F9F3EB2.title: "永恒的苦难，但是是电动的"
+	quest.2C6FBF2A814BB60D.quest_subtitle: "{ftbquests.chapter.lv.quest42.subtitle}"
+	quest.2C77B86051EBAB43.quest_desc: [
+		"你的机械动力好朋友可以帮你解决其中一个供应"
+		""
+		"如果你不想挖矿，看看坠星位标吧"
+	]
+	quest.2C77B86051EBAB43.quest_subtitle: "你会需要巨量的这两种矿"
+	quest.2C77B86051EBAB43.title: "闪锌和方铅"
+	quest.2CF0374F90D4B470.quest_subtitle: "{ftbquests.chapter.hv.quest61.subtitle}"
+	quest.2CF0374F90D4B470.title: "{ftbquests.chapter.hv.quest61.title}"
+	quest.2D0E2C949FAD45B3.quest_subtitle: "{ftbquests.chapter.hv.quest60.subtitle}"
+	quest.2D0E2C949FAD45B3.title: "{ftbquests.chapter.hv.quest60.title}"
+	quest.2D26AF9CD120CC20.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest19.subtitle}"
+	quest.2D580EC0F98308F5.quest_subtitle: "这就是恶魔技术！"
+	quest.2D662EFDE7A39BB8.quest_desc: ["{ftbquests.chapter.lv.quest15.description1}"]
+	quest.2D662EFDE7A39BB8.quest_subtitle: "{ftbquests.chapter.lv.quest15.subtitle}"
+	quest.2D7FE3BAA95EA7A4.quest_desc: ["{ftbquests.chapter.tetra.quest27.description1}"]
+	quest.2D7FE3BAA95EA7A4.quest_subtitle: "{ftbquests.chapter.tetra.quest27.subtitle}"
+	quest.2D9F762371DEDF70.quest_desc: ["{ftbquests.chapter.08AF6857D150C353.quest55.description1}"]
+	quest.2D9F762371DEDF70.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest55.subtitle}"
+	quest.2DAA4FC70498126B.quest_desc: [""]
+	quest.2DAA4FC70498126B.quest_subtitle: "你需要物理气相沉积"
+	quest.2DBA5445319926BE.quest_subtitle: "锗从冶炼炉里来"
+	quest.2DDF9BCE967C0ABC.quest_subtitle: "千万GT牢员工看到巨冰时期流下的泪水"
+	quest.2E0983CC5E00B72D.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest48.description1}"]
+	quest.2E0983CC5E00B72D.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest48.subtitle}"
+	quest.2E0983CC5E00B72D.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest48.title}"
+	quest.2E12DCC31E3E0626.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest27.subtitle}"
+	quest.2E1BE8D7095020C6.quest_desc: [
+		"作为血法师的你必须考虑这个问题：哪里去弄到这么多源质？"
+		"本篇的分支章节将给你提供一些可行的方案，&1但你也可以自己去研究一些高效产源质方案&r"
+		"（哦，忘了，你还需要巨量的黑钢，希望你已经升级了你的土高炉）"
+	]
+	quest.2E1BE8D7095020C6.quest_subtitle: "更多，更多！"
+	quest.2E1BE8D7095020C6.title: "需要大量的源质！"
+	quest.2E7C183CC818424B.quest_subtitle: "{ftbquests.chapter.iv.quest29.subtitle}"
+	quest.2E7C183CC818424B.title: "{ftbquests.chapter.iv.quest29.title}"
+	quest.2EB87027F157815D.quest_subtitle: "{ftbquests.chapter.zpm.quest85.subtitle}"
+	quest.2ED0A22CE5AE310C.quest_subtitle: "{ftbquests.chapter.luv.quest30.subtitle}"
+	quest.2F39BCEEF1030C95.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest57.subtitle}"
+	quest.2F3A21DA8FCB25FA.quest_desc: [
+		"利用牺牲匕首扎自己的仪式作为灌注生命源质的方法永不过时，不过你也许需要准备一些东西，这样你就不用在&4永远的痛苦和复活界面&r里挣扎"
+		""
+		"1.熏香坛"
+		"将熏香坛放在你的祭坛旁边吧，这样你的牺牲匕首就会被转化（注意材质变化），这时候长按右键就可以一次性献祭大量的LP"
+		"这个祭坛还有其他增产用法，如果你愿意的话可以去查一下MCMOD"
+		""
+		"2.dummy(伤害测试假人)"
+		"假人有什么用的？答案是配合神话的&4吸血宝石&r（比如地狱领主），这样你就可以通过砍这个假人回血了。不用担心这个假人被砍死或者回血少。这里不是泰拉瑞亚，没有限制回血量。这个包也没有装无尽贪婪，砍烂这个东西是不太可能的"
+		""
+		"3.时间之瓶"
+		"我觉得你会用这个，不过别加速太多&4你的手速翻不了256倍&r"
+	]
+	quest.2F3A21DA8FCB25FA.quest_subtitle: "我即永动机"
+	quest.2F3A21DA8FCB25FA.title: "自己就是最好的血之来源"
+	quest.2FA53E0988807E71.quest_subtitle: "如果给它加上通流琥珀金的话它的化学式能突破4行吗"
+	quest.2FAFE8CAC3B0C958.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest4.subtitle}"
+	quest.2FAFE8CAC3B0C958.title: "抽屉"
+	quest.2FB20A6A0C2938F4.quest_subtitle: "{ftbquests.chapter.tetra.quest1.subtitle}"
+	quest.2FB20A6A0C2938F4.title: "{ftbquests.chapter.tetra.quest1.title}"
+	quest.2FD33C4009211037.quest_subtitle: "记得配上散热组件，不然会被烧坏"
+	quest.3035A92235772F73.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest71.subtitle}"
+	quest.3035A92235772F73.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest71.title}"
+	quest.3049F938B2D301B2.quest_desc: [
+		"中子加速器：通电给中子活化器加速中子，相当于特殊能源仓"
+		""
+		"中子传感器：可以设置中子速度范围，注意它单位是K中子加速器是M，当进入范围后发出红石信号"
+		""
+		"机器控制覆盖版：接受红石信号后暂停机器工作"
+		""
+		"使用方法：给中子加速器贴上覆盖版，然后用红石连接上传感器，设置范围，当加速到指定范围就会停止加速，稳定中子速度"
+		""
+		"结构只允许在最上方放置输入，最下方放置输出.可以叠加到64高度"
+	]
+	quest.3049F938B2D301B2.quest_subtitle: "以后会有思索的"
+	quest.3049F938B2D301B2.title: "中子活化器使用方法（文字版）"
+	quest.3086126422B979F1.quest_desc: ["{ftbquests.chapter.lv.quest67.description1}"]
+	quest.3086126422B979F1.quest_subtitle: "{ftbquests.chapter.lv.quest67.subtitle}"
+	quest.3086208ED2590430.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest41.subtitle}"
+	quest.30BE9ED9BA8D5E8C.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest18.subtitle}"
+	quest.30DB618324DC34DB.quest_desc: [
+		"炽玫瑰有着与水绣球一样的计算公式，只是改成了吃岩浆"
+		"&4坏消息：炽玫瑰还会额外点燃周围的一切掉落物，最好不要把你的CT洗矿机放旁边"
+	]
+	quest.30DB618324DC34DB.quest_subtitle: "升级版水绣球"
+	quest.30DB618324DC34DB.title: "火绣球"
+	quest.30FB55695573D452.quest_subtitle: "魔力线毁灭者"
+	quest.310339D1792AF716.quest_desc: [
+		"好吧我知道你晕头转向的，让我来告诉你你要在这里干什么。"
+		""
+		"首先你要找到一个特殊的锁，普通的钥匙打不开，你需要做一个标点，因为这个锁只有一个。"
+		""
+		"然后你要绕几百圈，直到你进入一个房间时在左下角显示了一行特殊的文字，恭喜你，钥匙就在这里了！拿着它去打开那把锁吧（你一定做过标记了对吧：XD）"
+		""
+		"当你打开了锁后，就可以进矿坑探索了，留意下你脚下的那群建筑材料，你的恶魔机器需要这些东西"
+	]
+	quest.310339D1792AF716.quest_subtitle: "真的是无尽"
+	quest.310339D1792AF716.title: "无尽门扉在召唤"
+	quest.31057AC4F85B71CE.quest_subtitle: "{ftbquests.chapter.iv.quest63.subtitle}"
+	quest.31105ADA8A75BD01.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest14.subtitle}"
+	quest.3121647B8CB1E5BF.quest_subtitle: "{ftbquests.chapter.ev.quest33.subtitle}"
+	quest.3123CD3DCE3598C8.quest_subtitle: "{ftbquests.chapter.hv.quest19.subtitle}"
+	quest.3166E9A46BC303F7.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest33.subtitle}"
+	quest.31A28C5AB0C2641D.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest21.subtitle}"
+	quest.31A773AB4898B8F8.quest_desc: ["如果你发现你因为算力不够且没法做高级计算组件而卡死，你就要看看你的冷却有没有升级和你的算策略是不是最优的"]
+	quest.31A773AB4898B8F8.quest_subtitle: "ZPM才能做"
+	quest.31BA6652FDB500C3.quest_desc: [
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest79.description1}"
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest79.description2}"
+	]
+	quest.31BA6652FDB500C3.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest79.subtitle}"
+	quest.31BA6652FDB500C3.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest79.title}"
+	quest.31BC682B42A6B651.quest_subtitle: "魔力反应器属于HV，你只需要完成5个"
+	quest.31BC682B42A6B651.title: "MV奖励"
+	quest.31EF6EC8AE9E82E9.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest99.subtitle}"
+	quest.31FB1C1E64284389.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest1.description1}"]
+	quest.31FB1C1E64284389.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest1.subtitle}"
+	quest.31FB1C1E64284389.title: "{ftbquests.chapter.609746CF8BE6A11E.quest1.title}"
+	quest.32032DEB11135FEF.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest11.subtitle}"
+	quest.320660FB6EEB854B.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest37.subtitle}"
+	quest.321CEC3FB96A2E1E.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest63.description1}"]
+	quest.321CEC3FB96A2E1E.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest63.subtitle}"
+	quest.322F3AB4C2159BA6.quest_desc: ["{ftbquests.chapter.iv.quest74.description1}"]
+	quest.322F3AB4C2159BA6.quest_subtitle: "{ftbquests.chapter.iv.quest74.subtitle}"
+	quest.3235EC33AE70B9A0.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest28.subtitle}"
+	quest.325BB56C5CEBF98A.quest_subtitle: "更好的Soc，可以直接制作湿件处理器"
+	quest.327A7C4C3C7404CC.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest15.subtitle}"
+	quest.32D614EEEF672D1D.quest_desc: ["我不到啊"]
+	quest.32D614EEEF672D1D.quest_subtitle: "這很重要!"
+	quest.3301606D1F925E64.quest_subtitle: "{ftbquests.chapter.tetra.quest23.subtitle}"
+	quest.3303E8052878B7CA.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest39.subtitle}"
+	quest.3303E8052878B7CA.title: "{ftbquests.chapter.2CEAD5605C416218.quest39.title}"
+	quest.331BEA8AF29BEFC6.quest_desc: ["{ftbquests.chapter.lv.quest9.description1}"]
+	quest.331BEA8AF29BEFC6.quest_subtitle: "{ftbquests.chapter.lv.quest9.subtitle}"
+	quest.331F72B7D40A7538.quest_desc: ["{ftbquests.chapter.uv.quest34.description1}"]
+	quest.331F72B7D40A7538.quest_subtitle: "{ftbquests.chapter.uv.quest34.subtitle}"
+	quest.332007D978CB3C6C.quest_subtitle: "{ftbquests.chapter.ev.quest61.subtitle}"
+	quest.332BF376BDAB27DA.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest13.description1}"]
+	quest.332BF376BDAB27DA.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest13.subtitle}"
+	quest.332BF376BDAB27DA.title: "{ftbquests.chapter.2CEAD5605C416218.quest13.title}"
+	quest.33452CB4AAC5EE5F.quest_subtitle: "大型水车在本整合包进行了增强，可以试试"
+	quest.335E38A11EE1269B.quest_subtitle: "这是什么神经病玩意x2"
+	quest.337BC9186C014A06.quest_desc: [
+		"{ftbquests.chapter.681E3140690307AA.quest18.description1}"
+		"{ftbquests.chapter.681E3140690307AA.quest18.description2}"
+	]
+	quest.337BC9186C014A06.title: "{ftbquests.chapter.681E3140690307AA.quest18.title}"
+	quest.337CD691039A1E83.quest_subtitle: "{ftbquests.chapter.iv.quest35.subtitle}"
+	quest.33876D496195E626.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest14.subtitle}"
+	quest.33BBD29D7E3DDB68.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest66.description1}"]
+	quest.33BBD29D7E3DDB68.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest66.subtitle}"
+	quest.33C79B7B7E49940B.quest_desc: ["{ftbquests.chapter.lv.quest22.description1}"]
+	quest.33C79B7B7E49940B.quest_subtitle: "{ftbquests.chapter.lv.quest22.subtitle}"
+	quest.33CDE1381B278481.quest_subtitle: "IV的重要材料"
+	quest.33ED8AC84DBC5E71.quest_subtitle: "现在的顶点"
+	quest.33F3CD3FB3033DE3.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest5.subtitle}"
+	quest.33FD35C631AF3430.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest101.subtitle}"
+	quest.34347BA3B894CF01.title: "{ftbquests.chapter.4EE5451097565A1A.quest22.title}"
+	quest.34535196790E1A26.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest22.subtitle}"
+	quest.34606BB00D3B0E3D.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest22.subtitle}"
+	quest.346272253393279F.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest14.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest14.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest14.description3}"
+	]
+	quest.346272253393279F.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest14.subtitle}"
+	quest.349F87134F6B153F.quest_subtitle: "魔力盖革指示器嗡嗡作响"
+	quest.3534E727B52EC2F2.quest_desc: ["{ftbquests.chapter.lv.quest72.description1}"]
+	quest.3534E727B52EC2F2.quest_subtitle: "{ftbquests.chapter.lv.quest72.subtitle}"
+	quest.3539170A27E9D3F4.quest_subtitle: "星际工程必需品"
+	quest.353D5BC83F0AC9ED.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest62.subtitle}"
+	quest.353F9E39669D6651.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest28.description1}"]
+	quest.353F9E39669D6651.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest28.subtitle}"
+	quest.353F9E39669D6651.title: "{ftbquests.chapter.609746CF8BE6A11E.quest28.title}"
+	quest.354B0216A8912589.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest43.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest43.description2}"
+	]
+	quest.355ACD2C8F4E6257.quest_desc: ["{ftbquests.chapter.luv.quest29.description1}"]
+	quest.355ACD2C8F4E6257.quest_subtitle: "{ftbquests.chapter.luv.quest29.subtitle}"
+	quest.3573A946D77EBA28.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest24.subtitle}"
+	quest.3573A946D77EBA28.title: "{ftbquests.chapter.62876F01654DC6E9.quest24.title}"
+	quest.35C275383AEEE23D.quest_desc: ["{ftbquests.chapter.0AD950C34ED565A4.quest5.description1}"]
+	quest.35C275383AEEE23D.quest_subtitle: "{ftbquests.chapter.0AD950C34ED565A4.quest5.subtitle}"
+	quest.35C879A01DB933A3.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest61.subtitle}"
+	quest.364B921AAE54EF9C.quest_desc: [
+		"{ftbquests.chapter.iv.quest110.description1}"
+		"{ftbquests.chapter.iv.quest110.description2}"
+		"{ftbquests.chapter.iv.quest110.description3}"
+	]
+	quest.364B921AAE54EF9C.quest_subtitle: "光缆可以拐弯，但不能分叉"
+	quest.364B921AAE54EF9C.title: "研究三件套"
+	quest.3672E16CD2C53B19.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest3.subtitle}"
+	quest.36968F23015BC87A.quest_subtitle: "{ftbquests.chapter.mv.quest29.subtitle}"
+	quest.37348865059DFEF9.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest54.subtitle}"
+	quest.384D3729A3308C4F.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest68.subtitle}"
+	quest.3889F08007235A6C.quest_desc: ["{ftbquests.chapter.lv.quest73.description1}"]
+	quest.3889F08007235A6C.quest_subtitle: "{ftbquests.chapter.lv.quest73.subtitle}"
+	quest.38B3EDAFED11EC22.quest_subtitle: "{ftbquests.chapter.ev.quest14.subtitle}"
+	quest.38B6939B719B9C30.quest_desc: ["{ftbquests.chapter.iv.quest61.description1}"]
+	quest.38B6939B719B9C30.quest_subtitle: "{ftbquests.chapter.iv.quest61.subtitle}"
+	quest.38EA7D1DD910DBF5.quest_desc: [
+		"{ftbquests.chapter.lv.quest30.description1}"
+		"{ftbquests.chapter.lv.quest30.description2}"
+	]
+	quest.38EA7D1DD910DBF5.quest_subtitle: "{ftbquests.chapter.lv.quest30.subtitle}"
+	quest.38F0B3A80DCBCCAB.quest_desc: ["{ftbquests.chapter.681E3140690307AA.quest21.description1}"]
+	quest.38F0B3A80DCBCCAB.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest21.subtitle}"
+	quest.3942AF99CAFEF32C.quest_desc: [
+		"{ftbquests.chapter.08AF6857D150C353.quest74.description1}"
+		"{ftbquests.chapter.08AF6857D150C353.quest74.description2}"
+		"{ftbquests.chapter.08AF6857D150C353.quest74.description3}"
+	]
+	quest.3942AF99CAFEF32C.title: "{ftbquests.chapter.08AF6857D150C353.quest74.title}"
+	quest.398E09D8112F81E1.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest15.subtitle}"
+	quest.398E09D8112F81E1.title: "{ftbquests.chapter.1FD18D8B41761626.quest15.title}"
+	quest.3997A8293A186F50.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest28.subtitle}"
+	quest.39A2B69213538581.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest3.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest3.description2}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest3.description3}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest3.description4}"
+	]
+	quest.39A2B69213538581.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest3.subtitle}"
+	quest.39A2B69213538581.title: "{ftbquests.chapter.2CEAD5605C416218.quest3.title}"
+	quest.39C2B774D392AA8F.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest57.title}"
+	quest.39CA84C1EBF5FF02.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest5.subtitle}"
+	quest.39E54D32FF4C6CAF.quest_subtitle: "{ftbquests.chapter.lv.quest31.subtitle}"
+	quest.39E84FC673BD14E7.quest_desc: [
+		"{ftbquests.chapter.09F33579334F2607.quest39.description1}"
+		"{ftbquests.chapter.09F33579334F2607.quest39.description2}"
+	]
+	quest.39E84FC673BD14E7.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest39.subtitle}"
+	quest.3A0D1B6A8BB681C8.quest_subtitle: "{ftbquests.chapter.hv.quest59.subtitle}"
+	quest.3A0D1B6A8BB681C8.title: "{ftbquests.chapter.hv.quest59.title}"
+	quest.3A2655C3FED42A7F.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest14.subtitle}"
+	quest.3A2AFCBCF688BA0E.quest_desc: [
+		"{ftbquests.chapter.62876F01654DC6E9.quest86.description1}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest86.description2}"
+	]
+	quest.3A48040562E6B4D0.quest_subtitle: "{ftbquests.chapter.ev.quest55.subtitle}"
+	quest.3A4E1D5E4E17F9E6.quest_desc: [
+		"好吧，你眼前的这个锭是在.....跳动吗？你不太好形容，不过你确实做到了，你把大量魔力灌注在里面，成功制作了这种高能锭"
+		"&6也许你把它丢进水里，能炸出一个非常好看的水花！&r"
+	]
+	quest.3A4E1D5E4E17F9E6.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest9.subtitle}"
+	quest.3A4FAB47A847C40C.quest_desc: [
+		"{ftbquests.chapter.09F33579334F2607.quest31.description1}"
+		"{ftbquests.chapter.09F33579334F2607.quest31.description2}"
+	]
+	quest.3A4FAB47A847C40C.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest31.subtitle}"
+	quest.3A77F81F2F6E792A.quest_subtitle: "{ftbquests.chapter.hv.quest54.subtitle}"
+	quest.3A7EF62D9745F2D6.quest_subtitle: "{ftbquests.chapter.ev.quest56.subtitle}"
+	quest.3A9E38FE270C1517.quest_desc: ["{ftbquests.chapter.596370001FE6E99B.quest5.description1}"]
+	quest.3A9E38FE270C1517.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest5.subtitle}"
+	quest.3AB02AF64026B96B.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest33.subtitle}"
+	quest.3AE55A55A5EBBA5A.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest74.title}"
+	quest.3B20DB28F8A96FC0.quest_subtitle: "{ftbquests.chapter.zpm.quest89.subtitle}"
+	quest.3B3194C22AA50A4B.quest_desc: ["线圈每1800K都会增加50%运行速度，记得换上好线圈"]
+	quest.3B3194C22AA50A4B.quest_subtitle: "更大，更快，更无损！"
+	quest.3B338C89D309368D.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest8.subtitle}"
+	quest.3B966B84827FDF0C.quest_subtitle: "UHPIC会需要巨量这个东西，你该思考一下如何量产了"
+	quest.3BCB57EAA543BDC4.quest_desc: [
+		"彼方兰并没有想象中的那么狼吞虎咽，其实它是一朵绅士花，讲究营养均衡。"
+		"喂食彼方兰的物品都有其&4营养值&r。营养值并不会显性显示，而是根据（食物回复饥饿值+饱和度/2）来计算其营养值"
+		"彼方兰非常挑食，在对其的最近5次喂食中，每有一个重复营养值的食物，它的产出就会下降 公式为：最终产出乘以 1-重复的食物数量^2*0.05"
+		"彼方兰的营养均衡表示为：最近五次喂食中的营养值之和为64为最佳（x1+x2+x3+x4+x5=64）"
+		"如果营养值之和等于64，则拥有8倍的产出和翻倍的运行速度"
+		"如果营养值之和低于64，则最终产出乘以 1+7*（营养值之和/64）"
+		"如果营养值之和大于64，则拥有8倍的最终产出，但是运行时间乘以(1+0.1*（营养值之和-64）)"
+		"彼方兰的并行为8，其无论多少并行都只计算一次营养值"
+	]
+	quest.3BCB57EAA543BDC4.quest_subtitle: "营养均衡"
+	quest.3BCD91430DDB9FF6.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest15.description1}"]
+	quest.3BCD91430DDB9FF6.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest15.subtitle}"
+	quest.3BEF0330DD624962.quest_desc: ["总不能让你在MV就拿到LUV板吧"]
+	quest.3BEF0330DD624962.quest_subtitle: "IV电路板"
+	quest.3BF72E41C1203551.quest_subtitle: "{ftbquests.chapter.tetra.quest2.subtitle}"
+	quest.3BF72E41C1203551.title: "{ftbquests.chapter.tetra.quest2.title}"
+	quest.3C308B7405CFD88F.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest44.description1}"]
+	quest.3D0B085FB6082A3C.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest43.description1}"]
+	quest.3D0B085FB6082A3C.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest43.subtitle}"
+	quest.3D34FB41653D5030.title: "回收燃料，可以获得一些老燃料"
+	quest.3D80BAEC0FF08BDD.title: "{ftbquests.chapter.2CEAD5605C416218.quest48.title}"
+	quest.3DEACC2059BBDB47.quest_desc: ["{ftbquests.chapter.0AD950C34ED565A4.quest4.description1}"]
+	quest.3DEACC2059BBDB47.quest_subtitle: "{ftbquests.chapter.0AD950C34ED565A4.quest4.subtitle}"
+	quest.3E4085419CE0ADB1.quest_subtitle: "把我们能想到的所有东西丢进去，就是这样！"
+	quest.3E53190CE94A4E38.quest_subtitle: "跳过任务线"
+	quest.3E82E716148024D1.quest_desc: [
+		"这个东西可能是百年前精灵的&a彩虹桥战争&r中某位神明留下的东西，现在你需要一点花一点资源，并请我喝一杯来换取它"
+		"&4附赠的材料清单可以让你更好的收集材料，别看JEI,JEI丢了大量方块&r"
+	]
+	quest.3E82E716148024D1.title: "没法量产，至少有一个"
+	quest.3EBCBE6CCD91894E.title: "{ftbquests.chapter.zpm.quest19.title}"
+	quest.3EE3102F38FCF130.quest_subtitle: "出现在寒冷的原版群系"
+	quest.3EECB7F9DF5AA7B2.quest_desc: [
+		"这对你说绝对是一个全新的挑战，下一步的光伏线会需要巨量的阳光化合物，所以我建议你做出来其产线"
+		""
+		"你有很多方式可以获取它："
+		""
+		"1.从某些生物质里面提取到阳光提取物，然后与萤石在高压釜中制作"
+		""
+		"2.使用UU物质和生物质直接制取，速度更快步骤更少（前提是UU物质这条线已经有人做了）"
+		""
+		"3.在LUV后，你可以直接聚变来获得阳光化合物，这个方法消耗的材料少才速度快"
+		""
+		"4.在你制造出光伏基站后，你可以使用其独有配方来跳过阳光提取物这一步来制取阳光化合物"
+		""
+		"5.如果你接受了BTNH，那么你可以通过魔法配方来制取阳光化合物，不过他所需的东西也并没有这么简单：XD"
+	]
+	quest.3EECB7F9DF5AA7B2.quest_subtitle: "凑了，以前光伏要这个玩意吗"
+	quest.3F01E6F7C41E2231.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest37.subtitle}"
+	quest.3F12505DC89D8C1E.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest26.subtitle}"
+	quest.3F133879B1E396A7.quest_subtitle: "经典发电"
+	quest.3F1DF409FEA8345E.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest8.subtitle}"
+	quest.3F2A5A509F9DF84B.title: "{ftbquests.chapter.lv.quest26.title}"
+	quest.3F5F735510035B28.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest31.subtitle}"
+	quest.3F7321AAB8DE3079.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest61.subtitle}"
+	quest.3FAC0EBCE35BE621.quest_subtitle: "{ftbquests.chapter.028AB66FF504A9BC.quest58.subtitle}"
+	quest.3FB06067540E1931.quest_desc: [""]
+	quest.3FB06067540E1931.quest_subtitle: "低级散热组件"
+	quest.3FCC69ED6F284B06.quest_subtitle: "这种材料似乎拥有快速传递通量的能力"
+	quest.3FF74491A0FB5FAE.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest45.subtitle}"
+	quest.4009858927F160B3.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest8.subtitle}"
+	quest.405ADDFB376F78D5.quest_desc: ["初始并行为8，电压每比HV高一级，就增加4并行"]
+	quest.405ADDFB376F78D5.quest_subtitle: "最简单的模型"
+	quest.4089D6C868A2D08A.quest_subtitle: "{ftbquests.chapter.luv.quest36.subtitle}"
+	quest.40BDB3844BF38B0D.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest10.description1}"]
+	quest.40BDB3844BF38B0D.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest10.subtitle}"
+	quest.4103567A8D3A9B46.quest_desc: [
+		"符文分级："
+		"1级：火水地风"
+		"2级：四季"
+		"3级：七宗罪"
+		"4级：神话植物学符文"
+		"5级：CTNH符文（视域，扭曲，增殖，星光）"
+		"类星体符文单分一级"
+	]
+	quest.4103567A8D3A9B46.quest_subtitle: "注意要同时消耗燃料和液态魔力，否则效率将除以5"
+	quest.4127654B8D3A73BC.quest_desc: [
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest95.description1}"
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest95.description2}"
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest95.description3}"
+	]
+	quest.4127654B8D3A73BC.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest95.title}"
+	quest.414BFFE0E7A3C868.quest_subtitle: "强力的魔法mod "
+	quest.4157A965AA4E18D2.quest_desc: [
+		"{ftbquests.chapter.681E3140690307AA.quest11.description1}"
+		"{ftbquests.chapter.681E3140690307AA.quest11.description2}"
+	]
+	quest.4157A965AA4E18D2.title: "{ftbquests.chapter.681E3140690307AA.quest11.title}"
+	quest.41A7CC007444C503.quest_subtitle: "建议使用富集硅岩"
+	quest.41A7CC007444C503.title: "来试试硅岩发电吧"
+	quest.41B0A0641BAD4035.quest_subtitle: "需要ZPM电压"
+	quest.41B0A0641BAD4035.title: "便宜EV电路"
+	quest.41BB77968B763B18.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest31.subtitle}"
+	quest.41E48BCAEAD9D47E.quest_desc: ["{ftbquests.chapter.08AF6857D150C353.quest68.description1}"]
+	quest.41E48BCAEAD9D47E.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest68.subtitle}"
+	quest.42058EDD69B335F4.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest35.subtitle}"
+	quest.424772830FBFDBB7.title: "{ftbquests.chapter.hv.quest31.title}"
+	quest.42A147C3E1ECCB9B.quest_desc: ["你在花朵中发现了大量的这种.....魔力，也许你能利用花朵将其收集，用于魔导之中"]
+	quest.42A147C3E1ECCB9B.quest_subtitle: "植物魔法的开端"
+	quest.42A147C3E1ECCB9B.title: "植物灵气"
+	quest.42CCBE8C1535F61C.quest_desc: ["{ftbquests.chapter.09F33579334F2607.quest60.description1}"]
+	quest.42CCBE8C1535F61C.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest60.subtitle}"
+	quest.42CDDB06AA6D0A68.quest_subtitle: "{ftbquests.chapter.luv.quest50.subtitle}"
+	quest.42F7EB2A3B7E87B4.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest77.subtitle}"
+	quest.432B63898EB4DBC2.quest_desc: ["[\"\",{\"translate\":\"ftbquests.chapter.609746CF8BE6A11E.quest36.rich_description1\"},{\"translate\":\"ftbquests.chapter.609746CF8BE6A11E.quest36.rich_description2\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"19A600CF4DFAAABC\"}},{\"translate\":\"ftbquests.chapter.609746CF8BE6A11E.quest36.rich_description3\"}]"]
+	quest.432B63898EB4DBC2.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest36.subtitle}"
+	quest.435017293FC9CA3E.quest_desc: [
+		"看看你都做了什么，你对魔法无止境的利用最终招来了天谴——&4什么，你把这都自动化了？撒旦来了都要找你来振兴炼狱工业&r"
+		""
+		"这台机器可以为你带来无穷无尽的矿石——只需要一点简单的资源。"
+		""
+		"&4这个机器说的破坏机器结构的tips不是给你看的，是给我们这些写配方的怨种自己看的，这个包没有那种配方"
+	]
+	quest.435017293FC9CA3E.quest_subtitle: "地-爆-天-星!"
+	quest.43A67D7528B8D846.quest_subtitle: "{ftbquests.chapter.iv.quest112.subtitle}"
+	quest.43D2BB3A6307F4D4.quest_desc: [
+		"用这个东西右键你的电容库来完成绑定，注意：&4切记要先绑定再使用无线，否则你的存档可能会变成牢大&r"
+		""
+		"无线电将自带近乎无限（unsigned long long)上限的存储，&4其可存储的能量上限与你绑定的电容库无关&r，使用任何无线输出电力部件（无线动力仓等）将直接将电数输入到无线电网，反之消耗电的部件将直接从电网拉取电力"
+		""
+		"电容库容量仅与&4你单次最多可以往电网中输入的电量有关&r，你的电容库容量越大，可单次输入的电量越大。&4电容库存储的电量与无线电网的任何属性和数值无关&r"
+	]
+	quest.43D2BB3A6307F4D4.quest_subtitle: "绑定"
+	quest.43DCA5278B555E39.quest_subtitle: "{ftbquests.chapter.hv.quest103.subtitle}"
+	quest.43F6AA3B97042202.quest_subtitle: "直接制作晶体处理器"
+	quest.4487EDC96DB1390B.quest_desc: ["{ftbquests.chapter.lv.quest16.description1}"]
+	quest.4487EDC96DB1390B.quest_subtitle: "{ftbquests.chapter.lv.quest16.subtitle}"
+	quest.44ADCE097529FCFD.quest_subtitle: "如果你掌握了究极的附魔力量，你就可以制作一本名为“真空密封”的附魔书，跳过整个航空服线"
+	quest.44BAEB867533D8C7.quest_subtitle: "你在ZPM才能处理它"
+	quest.44C7FE559ECFB2EB.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest1.subtitle}"
+	quest.44E9D92283CBF029.quest_desc: ["{ftbquests.chapter.lv.quest13.description1}"]
+	quest.44E9D92283CBF029.quest_subtitle: "{ftbquests.chapter.lv.quest13.subtitle}"
+	quest.44EDCCEAD0112C8C.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest76.title}"
+	quest.4510585A6279877F.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest6.description1}"]
+	quest.4510585A6279877F.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest6.subtitle}"
+	quest.4510585A6279877F.title: "{ftbquests.chapter.2CEAD5605C416218.quest6.title}"
+	quest.4510F270E15D5961.quest_desc: ["使用应力输出仓输出应力"]
+	quest.4552A38A611EFCFF.title: "{ftbquests.chapter.609746CF8BE6A11E.quest11.title}"
+	quest.45530E87906A1132.quest_desc: [
+		"{ftbquests.chapter.lv.quest76.description1}"
+		"{ftbquests.chapter.lv.quest76.description2}"
+	]
+	quest.45530E87906A1132.quest_subtitle: "{ftbquests.chapter.lv.quest76.subtitle}"
+	quest.4577953534E40102.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest17.subtitle}"
+	quest.4594C3CB08FB0A4E.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest27.description1}"]
+	quest.4594C3CB08FB0A4E.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest27.subtitle}"
+	quest.4594C3CB08FB0A4E.title: "{ftbquests.chapter.2CEAD5605C416218.quest27.title}"
+	quest.45DE0656D8A82AF5.title: "发现锻造遗迹！"
+	quest.45EF42ADC599589E.quest_desc: ["{ftbquests.chapter.iv.quest51.description1}"]
+	quest.45EF42ADC599589E.quest_subtitle: "{ftbquests.chapter.iv.quest51.subtitle}"
+	quest.4616A64D47AFBFF9.quest_subtitle: "{ftbquests.chapter.mv.quest45.subtitle}"
+	quest.4616AC2631FDDE37.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest12.description1}"]
+	quest.4616AC2631FDDE37.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest12.subtitle}"
+	quest.4640BD2CE48A302B.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest4.description1}"]
+	quest.4640BD2CE48A302B.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest4.subtitle}"
+	quest.46526928B48A390A.quest_desc: ["{ftbquests.chapter.lv.quest60.description1}"]
+	quest.46526928B48A390A.quest_subtitle: "{ftbquests.chapter.lv.quest60.subtitle}"
+	quest.466E245F021E7FFE.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest8.subtitle}"
+	quest.468D840ACABE38B9.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest13.subtitle}"
+	quest.46922EE3F296BDCF.quest_subtitle: "who r u"
+	quest.46D6EADF05BA41A6.quest_subtitle: "{ftbquests.chapter.zpm.quest78.subtitle}"
+	quest.46DFFF321BBE034E.quest_subtitle: "{ftbquests.chapter.iv.quest65.subtitle}"
+	quest.46E271DD7E3544D9.quest_subtitle: "{ftbquests.chapter.iv.quest109.subtitle}"
+	quest.47073ADF1F9B9DEC.quest_subtitle: "最后一种维护仓？"
+	quest.470B9D39E23E01F2.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest10.subtitle}"
+	quest.471F881828CFF6A6.quest_desc: [""]
+	quest.471F881828CFF6A6.quest_subtitle: "试试辉钴出砷"
+	quest.47477F45269D6DB4.quest_subtitle: "{ftbquests.chapter.mv.quest46.subtitle}"
+	quest.4759D176E05E3D8C.quest_desc: ["{ftbquests.chapter.lv.quest24.description1}"]
+	quest.4759D176E05E3D8C.quest_subtitle: "{ftbquests.chapter.lv.quest24.subtitle}"
+	quest.475A6C3B67F4D31C.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest1.subtitle}"
+	quest.476757E0C54B6ADE.quest_desc: ["{ftbquests.chapter.lv.quest63.description1}"]
+	quest.476757E0C54B6ADE.quest_subtitle: "{ftbquests.chapter.lv.quest63.subtitle}"
+	quest.478515D31A125334.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest3.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest3.description2}"
+	]
+	quest.478515D31A125334.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest3.subtitle}"
+	quest.47B6886F0A21A4B3.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest12.subtitle}"
+	quest.47D1E2F257A78CC8.quest_subtitle: "ZPM线圈"
+	quest.47D645D2CF6F4696.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest36.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest36.description2}"
+	]
+	quest.47D645D2CF6F4696.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest36.subtitle}"
+	quest.47D645D2CF6F4696.title: "{ftbquests.chapter.2CEAD5605C416218.quest36.title}"
+	quest.481BEB39783A1A4A.quest_subtitle: "注：地球恩惠附魔将不会有任何作用"
+	quest.481C3D09737918E8.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest62.subtitle}"
+	quest.484BB98965D48FBF.quest_subtitle: "还没做"
+	quest.488C0AB8EA50DA87.quest_desc: ["{ftbquests.chapter.lv.quest4.description1}"]
+	quest.488C0AB8EA50DA87.quest_subtitle: "{ftbquests.chapter.lv.quest4.subtitle}"
+	quest.48A4A24B6CF5971A.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest45.description1}"]
+	quest.48A4A24B6CF5971A.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest45.subtitle}"
+	quest.48A4A24B6CF5971A.title: "{ftbquests.chapter.2CEAD5605C416218.quest45.title}"
+	quest.48A9F36EEDFFD6A3.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest51.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest51.description2}"
+	]
+	quest.48A9F36EEDFFD6A3.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest51.subtitle}"
+	quest.48BAB59CD186FF3F.quest_desc: [""]
+	quest.48BAB59CD186FF3F.quest_subtitle: "WOW,16并行"
+	quest.48D15253D73D7DF9.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest11.subtitle}"
+	quest.4917074451DC7A27.quest_desc: [""]
+	quest.492943506CC5F01A.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest5.description1}"]
+	quest.492943506CC5F01A.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest5.subtitle}"
+	quest.49B0B12549BE9575.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest16.description1}"]
+	quest.49B0B12549BE9575.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest16.subtitle}"
+	quest.4A0AC9C14C9F5EFD.quest_desc: ["注意0号电路板的注血配方不能自动化，建议用付费的（免费的真不行）"]
+	quest.4A0AC9C14C9F5EFD.quest_subtitle: "在IV会很好用，做出来后就不用管那个b祭坛了"
+	quest.4A1D2B1F8003BF89.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest6.subtitle}"
+	quest.4A30A1B474B1C450.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest9.subtitle}"
+	quest.4A9C29237B3606F7.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest37.subtitle}"
+	quest.4AB8CE1AF271F021.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest17.subtitle}"
+	quest.4AB8CE1AF271F021.title: "{ftbquests.chapter.09F33579334F2607.quest17.title}"
+	quest.4AC6548D09A12203.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest14.subtitle}"
+	quest.4AD5A96E1B5C2BAD.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest52.description1}"]
+	quest.4AD5A96E1B5C2BAD.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest52.subtitle}"
+	quest.4ADCAEB3CD34CF1F.quest_desc: [
+		""
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest12.description1}"
+	]
+	quest.4ADCAEB3CD34CF1F.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest12.subtitle}"
+	quest.4ADE322F099F1C88.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest78.subtitle}"
+	quest.4ADEDBFAAE364473.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest2.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest2.description2}"
+	]
+	quest.4ADEDBFAAE364473.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest2.subtitle}"
+	quest.4ADEDBFAAE364473.title: "{ftbquests.chapter.2CEAD5605C416218.quest2.title}"
+	quest.4B11E32ACA7BC6FA.quest_desc: [
+		"{ftbquests.chapter.681E3140690307AA.quest7.description1}"
+		"{image:ftbquests:textures/basic/mods.png width:180 height:100 align:center}"
+		"{image:ftbquests:textures/basic/config.png width:180 height:100 align:center}"
+	]
+	quest.4B11E32ACA7BC6FA.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest7.subtitle}"
+	quest.4B7A35D369A217E2.quest_subtitle: "{ftbquests.chapter.lv.quest58.subtitle}"
+	quest.4B85DFF240A03E9E.title: "你可以使用并行仓和激光仓，建议你做一个"
+	quest.4BA3B5C8E5A96E51.quest_desc: [
+		"{ftbquests.chapter.62876F01654DC6E9.quest27.description1}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest27.description2}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest27.description3}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest27.description4}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest27.description5}"
+	]
+	quest.4BA3B5C8E5A96E51.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest27.subtitle}"
+	quest.4BA59C23FB4625B9.quest_subtitle: "{ftbquests.chapter.luv.quest33.subtitle}"
+	quest.4BCCA322FC238071.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest45.subtitle}"
+	quest.4BDB6985BCA2E59B.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest32.subtitle}"
+	quest.4C124453C9EE493B.quest_subtitle: "利用衰变罐"
+	quest.4C316712DF28094D.quest_subtitle: "便宜的UV板子"
+	quest.4C629C73B44152E0.quest_desc: ["    涉及GT的部分会变得复杂且深奥，此时建议你多看看&l&b“存在即被感知”&r这章再去提问。"]
+	quest.4C629C73B44152E0.quest_subtitle: "存在即被感知"
+	quest.4C629C73B44152E0.title: "免费奖励！"
+	quest.4C73E3BA1AD3E0A5.quest_desc: [
+		"{ftbquests.chapter.609746CF8BE6A11E.quest33.description1}"
+		"{ftbquests.chapter.609746CF8BE6A11E.quest33.description2}"
+		"[\"\",{\"translate\":\"ftbquests.chapter.609746CF8BE6A11E.quest33.rich_description1\"},{\"translate\":\"ftbquests.chapter.609746CF8BE6A11E.quest33.rich_description2\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"57A04137E648CACD\"}},{\"translate\":\"ftbquests.chapter.609746CF8BE6A11E.quest33.rich_description3\"}]"
+	]
+	quest.4C73E3BA1AD3E0A5.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest33.subtitle}"
+	quest.4C73E3BA1AD3E0A5.title: "{ftbquests.chapter.609746CF8BE6A11E.quest33.title}"
+	quest.4CA3E4766B67C12B.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest1.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest1.description2}"
+	]
+	quest.4CA3E4766B67C12B.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest1.subtitle}"
+	quest.4CAF15A55CACB620.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest53.description1}"
+		""
+	]
+	quest.4CAF15A55CACB620.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest53.subtitle}"
+	quest.4CF90E6B56618511.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest29.subtitle}"
+	quest.4D1AEA264246FA2B.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest6.subtitle}"
+	quest.4D79591C84BD1AE5.quest_desc: [""]
+	quest.4D79591C84BD1AE5.quest_subtitle: "{ftbquests.chapter.lv.quest33.subtitle}"
+	quest.4DB28093FEF7243E.quest_subtitle: "IV的超级发电巨构"
+	quest.4DE49DB87C6B5D1C.title: "前往霜原星"
+	quest.4E153836BC53CDD1.quest_desc: ["{ftbquests.chapter.08AF6857D150C353.quest75.description1}"]
+	quest.4E153836BC53CDD1.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest75.subtitle}"
+	quest.4E3F96D91F921735.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest24.subtitle}"
+	quest.4E487D122BC2C2F4.quest_desc: ["{ftbquests.chapter.62876F01654DC6E9.quest26.description1}"]
+	quest.4E487D122BC2C2F4.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest26.subtitle}"
+	quest.4E941FACDD388ACD.quest_subtitle: "无论是原质还是激发都很不错"
+	quest.4E9FB13BA754C376.quest_subtitle: "{ftbquests.chapter.ev.quest13.subtitle}"
+	quest.4EA7875B6E1341B4.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest67.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest67.description2}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest67.description3}"
+	]
+	quest.4EA7875B6E1341B4.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest67.subtitle}"
+	quest.4EA7875B6E1341B4.title: "{ftbquests.chapter.2CEAD5605C416218.quest67.title}"
+	quest.4EAE423454479E42.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest70.description1}"]
+	quest.4EAE423454479E42.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest70.subtitle}"
+	quest.4EEA2B73C3ED8936.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest37.subtitle}"
+	quest.4EED06125B908AF0.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest30.subtitle}"
+	quest.4F0DD37CC88A8918.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest34.subtitle}"
+	quest.4F195BAE507ADF5D.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest36.subtitle}"
+	quest.4F4324CDDD5D7E0B.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest52.subtitle}"
+	quest.4F4D4933EAC497E7.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest26.subtitle}"
+	quest.4F64AA1B00E26B4D.quest_desc: ["转底炉是谁？我不认识"]
+	quest.4F64AA1B00E26B4D.quest_subtitle: "太伟大了"
+	quest.4F8A3B3DFEE2B87E.quest_desc: ["好多铟好多铟好多铟好多铟"]
+	quest.4F8CBD1FE34B4A4D.quest_subtitle: "如果你有无限的矿物，那么强无敌"
+	quest.4FDEB75428302C94.quest_subtitle: "5倍加速"
+	quest.4FEF1435F8379246.quest_subtitle: "{ftbquests.chapter.hv.quest119.subtitle}"
+	quest.500612E5FCC5C9E0.quest_subtitle: "你需要依靠这个来转化核能的力量"
+	quest.504A762FE1057233.quest_desc: ["{ftbquests.chapter.lv.quest2.description1}"]
+	quest.504A762FE1057233.quest_subtitle: "{ftbquests.chapter.lv.quest2.subtitle}"
+	quest.504BA82ADEF39214.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest10.subtitle}"
+	quest.505115AA8810BBE5.quest_desc: [
+		"是的，你终于，制成了这种&1终极魔力&r。它在你的手中跳动，是如此的完美。空间也为之颤动，魔力的立场自这个锭散开....."
+		""
+		"过量魔力和放射性物质的注入却得到了这么一个完美的物质.....稳定，而又富含能量，连空间都要为你的奇迹让步......这绝对是你法师历史上最伟大的一笔。"
+		""
+		"那么是时候了，开始你的&1终极魔力飞升了&r。现在，让那群原始人精灵看看什么才是真正的奥术魔法"
+	]
+	quest.505115AA8810BBE5.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest14.subtitle}"
+	quest.5069FEA1EBCBD315.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest4.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest4.description2}"
+	]
+	quest.5069FEA1EBCBD315.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest4.subtitle}"
+	quest.509D1DAF6239E102.quest_subtitle: "盖亚被抽干之后，你还需要新的怨种"
+	quest.50B3C9E6ECB749A2.quest_desc: ["钻井液只需要输入一次，倘若输出过多的钻井液，它们会被销毁"]
+	quest.50B3C9E6ECB749A2.quest_subtitle: "{ftbquests.chapter.uv.quest42.subtitle}"
+	quest.50C05C85D150D60E.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest55.subtitle}"
+	quest.50CD01D7A08E9546.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest58.subtitle}"
+	quest.50E5710F4CC0EA8A.title: "留下燃料，进入终极燃料线"
+	quest.51175A3A3FCAE14C.quest_subtitle: "{ftbquests.chapter.lv.quest44.subtitle}"
+	quest.513CDE2822C27E26.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest8.description1}"]
+	quest.513CDE2822C27E26.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest8.subtitle}"
+	quest.51C5F938AB8D5F73.quest_subtitle: "这个其实不需要精炼厂就能用"
+	quest.51DB3A19B9180EC3.quest_desc: [
+		"可配置维护仓可以让机器加工速度变快，代价是更容易出现维护问题 。                                                                          "
+		"自动维护仓可以让机器拜托维护问题，代价是它更贵！"
+	]
+	quest.51DB3A19B9180EC3.quest_subtitle: "两种的功能不同"
+	quest.51DB3A19B9180EC3.title: "新的维护仓"
+	quest.52156F99511B7A7E.quest_subtitle: "{ftbquests.chapter.zpm.quest48.subtitle}"
+	quest.521C7F3709BC1A92.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest22.subtitle}"
+	quest.527E6E7130A16435.quest_subtitle: "坚不坚不可摧"
+	quest.52D72E1488A03F9D.title: "{ftbquests.chapter.iv.quest83.title}"
+	quest.52F49800A4AC4497.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest15.subtitle}"
+	quest.52FCEA9E4B5D2E7E.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest100.subtitle}"
+	quest.534D927B52EC5F63.quest_subtitle: "{ftbquests.chapter.ev.quest54.subtitle}"
+	quest.5378DE529B4826D5.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest18.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest18.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest18.description3}"
+	]
+	quest.5378DE529B4826D5.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest18.subtitle}"
+	quest.53B9F9C945B0BB33.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest9.description1}"]
+	quest.53B9F9C945B0BB33.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest9.subtitle}"
+	quest.54055844D167421C.quest_subtitle: "销毁屠宰场产生的过量经验"
+	quest.5420D60930DD31A7.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest4.subtitle}"
+	quest.542557CBAB6F5C75.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest13.description1}"]
+	quest.542557CBAB6F5C75.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest13.subtitle}"
+	quest.5425DE0071BA18F9.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest42.subtitle}"
+	quest.5425DE0071BA18F9.title: "{ftbquests.chapter.2CEAD5605C416218.quest42.title}"
+	quest.544B143B7159968A.quest_subtitle: "装配线地狱"
+	quest.544D7F95370F9235.quest_desc: ["{ftbquests.chapter.lv.quest1.description1}"]
+	quest.544D7F95370F9235.quest_subtitle: "{ftbquests.chapter.lv.quest1.subtitle}"
+	quest.547D310CD013DC7E.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest19.description1}"]
+	quest.547D310CD013DC7E.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest19.subtitle}"
+	quest.54905BF233504288.quest_desc: ["{ftbquests.chapter.62876F01654DC6E9.quest37.description1}"]
+	quest.54905BF233504288.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest37.subtitle}"
+	quest.54A0B48F51F12647.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest56.subtitle}"
+	quest.54D959569D7F0BD9.quest_subtitle: "{ftbquests.chapter.iv.quest24.subtitle}"
+	quest.55762E03BC9AEA4F.quest_subtitle: "刺眼的烈日在天境中始终无法落下，一定是有什么神秘的力量阻止了我们科技的发展"
+	quest.55B8C88C78AFF283.quest_subtitle: "{ftbquests.chapter.luv.quest9.subtitle}"
+	quest.55DDA9AC202E7DE3.quest_subtitle: "做出来这个玩意，你确实够疯狂"
+	quest.55F51D261FC8E78B.quest_subtitle: "{ftbquests.chapter.iv.quest33.subtitle}"
+	quest.55F6F664DE4B1689.quest_desc: ["{ftbquests.chapter.62876F01654DC6E9.quest82.description1}"]
+	quest.55F6F664DE4B1689.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest82.subtitle}"
+	quest.56008EF6CEB69CBB.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest31.subtitle}"
+	quest.563D74DC666F2A57.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest87.subtitle}"
+	quest.566474383668316E.quest_subtitle: "推荐使用富集硅岩发电"
+	quest.567F6D78E2B26F47.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest32.subtitle}"
+	quest.5697D10ED6CE81C6.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest5.subtitle}"
+	quest.56C88CA114314593.quest_desc: ["把数据球和要扫描的东西放进物品支架里"]
+	quest.56C88CA114314593.quest_subtitle: "LUV时期才能做，必须和HPCA一起做"
+	quest.56FBDD2A2E7EA520.quest_desc: ["{ftbquests.chapter.lv.quest66.description1}"]
+	quest.56FBDD2A2E7EA520.quest_subtitle: "{ftbquests.chapter.lv.quest66.subtitle}"
+	quest.573D6558B6E9DAB5.quest_desc: ["精灵精炼厂相比于普通的配方有着更好的产率和无损超频，但是并不代表你不可以再使用魔力反应器来产燃料"]
+	quest.573D6558B6E9DAB5.quest_subtitle: "开始精炼你的燃料吧！"
+	quest.57A04137E648CACD.quest_desc: [
+		"{ftbquests.chapter.609746CF8BE6A11E.quest3.description1}"
+		"{ftbquests.chapter.609746CF8BE6A11E.quest3.description2}"
+	]
+	quest.57A04137E648CACD.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest3.subtitle}"
+	quest.57BDB87CFA2B729B.quest_desc: [
+		"你对天顶源质的掌控让你能够制造一批新的魔力机器"
+		""
+		"天顶聚焦蒸馏塔，用天顶之眼聚焦魔力能量，用魔力场来帮助你蒸馏，&5你不需要在每一排摆放一个输出仓&r，魔力会自行引导这些气体有序排放"
+		""
+		"天顶相位蚀刻机，对比普通的激光蚀刻机，它的魔力之力可以引导芯片变回它最初的样子——晶圆，这违反太多东西了，所以我们未来会在配方里加一个晶圆"
+		""
+		"天顶共振组装机，好吧那个把通用芯片变成共振一点都不科学，但是通用本来就不科学是吗？"
+		""
+		"&4他们全部是无损超频&r"
+		"另外，如果你的电压达到了很高的水准，也许你可以试着使用天穹之星引导陨石，也许可以获得一些不一样的东西"
+	]
+	quest.57BDB87CFA2B729B.quest_subtitle: "超越现实"
+	quest.57BDB87CFA2B729B.title: "我即穹顶"
+	quest.57CEAE5D84402572.quest_desc: ["你再把这玩意扔魔力反应器恐怕你的基地要上天了，用土法老方来解决吧:XD"]
+	quest.57CEAE5D84402572.quest_subtitle: "太有魔法了"
+	quest.57CF5C7E54D2FC3D.quest_subtitle: "你仍然需要ZPM才能处理"
+	quest.57D6815DFC726C95.quest_desc: [
+		"与核堆有异曲同工之妙，火红莲在吃掉燃料时可以堆热，其产魔效率将乘以sqrt(-(12500-当前热量)^2+12501^2)/100"
+		"这个公式表明你必须把温度控制在12500K上下，否则你的产能都会受到影响。"
+		"幸运的是，在每次配方执行前，你可以输入100mb极寒之凌冰来降温1000K,我同样准备了24号电路板的空配方来帮你降温"
+		"火红莲的并行为8，并行不影响堆热和降温"
+	]
+	quest.57D6815DFC726C95.quest_subtitle: "热力发“电”"
+	quest.57D8025474402FA3.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest39.subtitle}"
+	quest.5826B4C71016568A.quest_subtitle: "所以说为什么霜源会有中子素矿藏？"
+	quest.58381072DABDC825.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest59.subtitle}"
+	quest.58381072DABDC825.title: "{ftbquests.chapter.09F33579334F2607.quest59.title}"
+	quest.5871572C3F0A1CAB.quest_subtitle: "{ftbquests.chapter.hv.quest121.subtitle}"
+	quest.589FD2E6A654B2C5.quest_subtitle: "新的材料"
+	quest.589FD2E6A654B2C5.title: "又是贴片！"
+	quest.58B4EB7EB5E1B65A.quest_desc: [
+		"    GT给玩家提供了许许多多方便自动化的机器覆盖板，如机器控制覆盖板、无线流体覆盖板等。这些覆盖板可以贴在机器的某一个面上，&a且不占用空间&r，根据不同覆盖板的效果，他们有的能够给机器传输物品或者流体，有的可以输出红石信号，有的可以接受红石信号并控制机器，熟练使用覆盖板，可以让你的产线布置更加灵活。"
+		"    使用&4撬棍&r可以取下机器某一面上的覆盖板"
+	]
+	quest.58E94DF9B0FE8012.quest_subtitle: "{ftbquests.chapter.lv.quest41.subtitle}"
+	quest.592F9BDCCCFCCAF6.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest8.subtitle}"
+	quest.5955747802F400B8.quest_desc: [
+		"与原版勿落草一样，在花园中的勿落草会检测很大范围内（与凋零菟葵等范围一致）的带有漂浮状态的生物，然后对其造成200点魔法伤害（尤其是你！）"
+		""
+		"每一个被检测到的生物都会使物落草的倍率乘以√2，最多可以获得2^16次方的倍乘！不过每个生物也会延长1s运行时间，但是谁在意呢？"
+	]
+	quest.5955747802F400B8.quest_subtitle: "FLY BROKEN ENTITIES"
+	quest.598984AA1D8A72EA.quest_desc: [
+		"血之祭坛后的又一力作，我敢保证那群诡计多端的恶魔都没有想到如此巧妙的方法！这台机器可以自动吸收周围的恶魔意志，然后为己所用！"
+		"唯一可惜的是自动化恶魔意志似乎比较麻烦，不过你都有神话刷怪笼和时间瓶了，&4拿着你抢夺9的感知之剑砍砍砍吧！&r"
+	]
+	quest.598984AA1D8A72EA.quest_subtitle: "狱火，你降临罢！"
+	quest.598B081A2D704793.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest110.description1}"]
+	quest.598B081A2D704793.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest110.subtitle}"
+	quest.59EACDB9A6F6F5B8.title: "升级你的超净间过滤方块！"
+	quest.5A159C110F6955CA.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest38.subtitle}"
+	quest.5A15D72DC69B1FDE.quest_subtitle: "善用工具书）"
+	quest.5A15D72DC69B1FDE.title: "选择适合自己的使用！"
+	quest.5A295F955C5F2DF3.quest_desc: ["{ftbquests.chapter.lv.quest64.description1}"]
+	quest.5A295F955C5F2DF3.quest_subtitle: "{ftbquests.chapter.lv.quest64.subtitle}"
+	quest.5A460876CA0EC216.quest_desc: ["{ftbquests.chapter.mv.quest13.description1}"]
+	quest.5A47F68ACCA13512.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest18.subtitle}"
+	quest.5A55D491F0E9F389.quest_subtitle: "只需要完成一个前置任务就可以做这个任务"
+	quest.5A6CF2F3FC1CF713.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest33.subtitle}"
+	quest.5A7C277C370AD362.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest10.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest10.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest10.description3}"
+		"{ftbquests.chapter.596370001FE6E99B.quest10.description4}"
+	]
+	quest.5A7C277C370AD362.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest10.subtitle}"
+	quest.5A8AE6B8EBFC49BE.quest_subtitle: "{ftbquests.chapter.ev.quest59.subtitle}"
+	quest.5A8AE6B8EBFC49BE.title: "{ftbquests.chapter.ev.quest59.title}"
+	quest.5B16C247EC0CDF9C.quest_desc: ["{ftbquests.chapter.62876F01654DC6E9.quest75.description1}"]
+	quest.5B16C247EC0CDF9C.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest75.subtitle}"
+	quest.5B5DFEB9DE345B10.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest44.description1}"]
+	quest.5B5DFEB9DE345B10.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest44.subtitle}"
+	quest.5B882B9AFD650138.quest_subtitle: "你将面对的是ZPM四巨头，你畏惧了吗"
+	quest.5BA57093B05FF586.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest11.subtitle}"
+	quest.5BA86B01337A91D5.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest13.subtitle}"
+	quest.5BA86B01337A91D5.title: "{ftbquests.chapter.681E3140690307AA.quest13.title}"
+	quest.5BA988147AECFFF2.quest_subtitle: "{ftbquests.chapter.0C47ABD5DF78C460.quest1.subtitle}"
+	quest.5BB3CF765E9C93D4.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest19.subtitle}"
+	quest.5BFDF39A4B861556.quest_desc: ["{ftbquests.chapter.046724C96F783FC2.quest16.description1}"]
+	quest.5BFDF39A4B861556.quest_subtitle: "{ftbquests.chapter.046724C96F783FC2.quest16.subtitle}"
+	quest.5C009C0F6F33E9CF.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest7.subtitle}"
+	quest.5C2320A3B3E10E11.quest_desc: [
+		"{ftbquests.chapter.681E3140690307AA.quest2.description1}"
+		"{ftbquests.chapter.681E3140690307AA.quest2.description2}"
+	]
+	quest.5C2320A3B3E10E11.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest2.subtitle}"
+	quest.5C2320A3B3E10E11.title: "{ftbquests.chapter.681E3140690307AA.quest2.title}"
+	quest.5C25C08B7402366E.quest_subtitle: "比魔力稍微好一点，组成其实都是精灵世界的空气组成"
+	quest.5C9D6A4D082F419F.quest_subtitle: "MV理论可做"
+	quest.5CBD492382663563.quest_subtitle: "它需要吞噬下界之星"
+	quest.5CC765087238C3A3.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest31.subtitle}"
+	quest.5CF2A3DF0B2E6729.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest42.description1}"]
+	quest.5CF2A3DF0B2E6729.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest42.title}"
+	quest.5D1419802A307F70.quest_desc: ["{ftbquests.chapter.lv.quest70.description1}"]
+	quest.5D1419802A307F70.quest_subtitle: "{ftbquests.chapter.lv.quest70.subtitle}"
+	quest.5D1450926BCF288B.quest_subtitle: "{ftbquests.chapter.ev.quest81.subtitle}"
+	quest.5D22A8B33C8B7C20.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest19.subtitle}"
+	quest.5D378302AE200883.quest_desc: ["符文的力量过于强大，以至于你几乎完全无法利用它......"]
+	quest.5D378302AE200883.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest39.subtitle}"
+	quest.5D6E62A853031740.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest104.subtitle}"
+	quest.5DA9CAEC38C8ACE8.quest_subtitle: "这何尝又不是一直晶体材料？"
+	quest.5DB0EF9FCAE148D0.quest_subtitle: "{ftbquests.chapter.0C47ABD5DF78C460.quest16.subtitle}"
+	quest.5DF0169DBCDEFE61.quest_subtitle: "{ftbquests.chapter.zpm.quest91.subtitle}"
+	quest.5DF0C2FE40307712.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest30.subtitle}"
+	quest.5E5F4837CC1F047A.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest9.description1}"]
+	quest.5E5F4837CC1F047A.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest9.subtitle}"
+	quest.5E9C58D5439EF42D.quest_desc: [
+		"{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.description1}"
+		"{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.description2}"
+		"{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.description3}"
+		"{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.description4}"
+		"{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.description5}"
+		"{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.description6}"
+		"{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.description7}"
+	]
+	quest.5E9C58D5439EF42D.quest_subtitle: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest34.subtitle}"
+	quest.5EC0E140D4915E31.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest44.subtitle}"
+	quest.5EDA18A58B5B8833.quest_subtitle: "新一届耐烧王比赛，开幕！"
+	quest.5F126DE1A7F425DA.quest_desc: [
+		"{ftbquests.chapter.681E3140690307AA.quest20.description1}"
+		"{ftbquests.chapter.681E3140690307AA.quest20.description2}"
+		"{ftbquests.chapter.681E3140690307AA.quest20.description3}"
+	]
+	quest.5F3B3A2F7384596D.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest47.subtitle}"
+	quest.5F4AA868BBD57C56.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest50.subtitle}"
+	quest.5F4AA868BBD57C56.title: "{ftbquests.chapter.2CEAD5605C416218.quest50.title}"
+	quest.5F71536A739E0693.quest_desc: [
+		"你的植物魔法产线欣欣向荣，花朵集魔阵列也在为你提供着无穷无尽的魔力与液态魔力。魔力涡轮嗡嗡作响，你简易的魔力燃料郑以惊人的热值为你产生EU......"
+		""
+		"是时候该对这些植物的魔法作一些理论总结了。你注意到这种魔力其实逸散在整个世界之中，无论是人还是植物都能成为其载体。在这个世界和亚尔夫海姆的植物进化史中这些植物逐渐获得了一定的智慧和充足利用这些逸散魔力的能力。基于此创造出了植物魔法的魔力理论。"
+		""
+		"至于那些精灵，亚尔夫海姆似乎已经成为了死地。精灵议会仍然在以神秘的手段与你交易，一切都指向彩虹桥，那个最终精灵的归所，可惜你现在没有办法去向那里。不过这些精灵对魔力的理解仍然局限于“魔法”本身，他们可能真的不知道能量守恒是什么。"
+		""
+		"对于魔力的研究仍然在继续着，也许你该把视野转向&4其他的魔法&r来获得更多线索"
+	]
+	quest.5F71536A739E0693.title: "植物魔法：中点结论"
+	quest.601A414CAA3597EC.quest_subtitle: "便宜的LUV板子（大概）"
+	quest.607209201C6B08C3.quest_subtitle: "{ftbquests.chapter.hv.quest34.subtitle}"
+	quest.60B34B3BFFC955B6.quest_subtitle: "{ftbquests.chapter.tetra.quest9.subtitle}"
+	quest.60B34B3BFFC955B6.title: "制作木质工具！"
+	quest.60D8E1B5B8777322.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest1.subtitle}"
+	quest.60DE45074FA207BF.quest_desc: ["{ftbquests.chapter.09F33579334F2607.quest21.description1}"]
+	quest.60DE45074FA207BF.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest21.subtitle}"
+	quest.60F22A89A32E0DD5.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest6.subtitle}"
+	quest.60F804F953AB347A.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest38.description1}"]
+	quest.60F804F953AB347A.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest38.subtitle}"
+	quest.60F804F953AB347A.title: "{ftbquests.chapter.2CEAD5605C416218.quest38.title}"
+	quest.6104F4DF3C6E3B4E.quest_subtitle: "{ftbquests.chapter.046724C96F783FC2.quest7.subtitle}"
+	quest.610A31DB73C17E42.quest_subtitle: "你滴转底炉回来辣！"
+	quest.611BCC64F1F511AA.quest_desc: [""]
+	quest.611BCC64F1F511AA.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest9.subtitle}"
+	quest.6139B36AAB4D0E0D.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest48.subtitle}"
+	quest.613BDF61BD8CAD08.quest_subtitle: "{ftbquests.chapter.hv.quest6.subtitle}"
+	quest.61483B28B24A42BC.quest_subtitle: "终极巨构即将来临......"
+	quest.61483B28B24A42BC.title: "???"
+	quest.6168741C8B4F4F31.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest16.subtitle}"
+	quest.618C3E4E348D7A4B.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest5.description1}"]
+	quest.618C3E4E348D7A4B.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest5.subtitle}"
+	quest.618C3E4E348D7A4B.title: "{ftbquests.chapter.2CEAD5605C416218.quest5.title}"
+	quest.61AB8BCB4EAD5C58.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest16.subtitle}"
+	quest.61B334D440F18D22.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest4.subtitle}"
+	quest.61C38DAB7B738EEE.quest_subtitle: "很快┗|｀O′|┛ 嗷~~"
+	quest.61F3A1C4B771E811.quest_subtitle: "{ftbquests.chapter.mv.quest34.subtitle}"
+	quest.6205780525A93130.quest_desc: ["这时候叫类星体完全不现实，你只是起了一个很厉害的名字而已，它其实只是硅岩线圈的升级版"]
+	quest.6205780525A93130.quest_subtitle: "盗版类星体"
+	quest.624C3E50891C8F25.quest_subtitle: "看样子你需要弄到一些潜影贝"
+	quest.6286B016F7A21B39.quest_subtitle: "{ftbquests.chapter.uv.quest29.subtitle}"
+	quest.628F4826B5F6AC41.quest_subtitle: "{ftbquests.chapter.uv.quest12.subtitle}"
+	quest.62A2223CE93E4513.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest63.description1}"]
+	quest.62B9FB13D5EF2F2D.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest14.description1}"]
+	quest.62B9FB13D5EF2F2D.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest14.subtitle}"
+	quest.62BAC5BC588E4CAA.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest53.subtitle}"
+	quest.62C818606820AC3A.quest_subtitle: "{ftbquests.chapter.uv.quest23.subtitle}"
+	quest.62C8A0B668137AD3.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest36.description1}"]
+	quest.62C8A0B668137AD3.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest36.subtitle}"
+	quest.62EF732FB4F858C8.quest_desc: ["{ftbquests.chapter.4408EF6F9E2E1624.quest47.description1}"]
+	quest.62EF732FB4F858C8.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest47.subtitle}"
+	quest.62F220389305D060.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest25.description1}"]
+	quest.62F220389305D060.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest25.subtitle}"
+	quest.634FBA16A992503B.quest_subtitle: "{ftbquests.chapter.0C47ABD5DF78C460.quest8.subtitle}"
+	quest.637D202FC567B932.quest_subtitle: "给研究站输出算力，注意选择整除且最大的算法"
+	quest.63A4FC58057C9E7D.quest_subtitle: "{ftbquests.chapter.uhv.quest12.subtitle}"
+	quest.63C1CDADDBC77ABD.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest32.description1}"]
+	quest.63C1CDADDBC77ABD.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest32.subtitle}"
+	quest.6430BFEF00052C43.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest73.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest73.description2}"
+	]
+	quest.6430BFEF00052C43.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest73.subtitle}"
+	quest.643B14A93A2A1547.quest_subtitle: "分一分杂质"
+	quest.644C47F8314F0DBC.quest_desc: [
+		"{ftbquests.chapter.2CEAD5605C416218.quest26.description1}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest26.description2}"
+		"{ftbquests.chapter.2CEAD5605C416218.quest26.description3}"
+	]
+	quest.644C47F8314F0DBC.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest26.subtitle}"
+	quest.644C47F8314F0DBC.title: "{ftbquests.chapter.2CEAD5605C416218.quest26.title}"
+	quest.646A046E3DBA0C52.quest_subtitle: "{ftbquests.chapter.ev.quest100.subtitle}"
+	quest.646A046E3DBA0C52.title: "{ftbquests.chapter.ev.quest100.title}"
+	quest.64CC61B395F72B7D.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest33.description1}"]
+	quest.64CC61B395F72B7D.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest33.subtitle}"
+	quest.6549CAFC9C083B23.quest_desc: ["多么美丽的宝石，虽然相对于植物魔法的工业魔力储存器来说其效果还是较弱。但也许在未来会有其独特的作用"]
+	quest.6549CAFC9C083B23.quest_subtitle: "神奇的存在"
+	quest.657ACCF34EC60C41.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest54.subtitle}"
+	quest.659495FD6AB169E3.quest_subtitle: "{ftbquests.chapter.ev.quest52.subtitle}"
+	quest.65BCEDFA60486750.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest18.subtitle}"
+	quest.65C365115468BF4D.quest_subtitle: "{ftbquests.chapter.mv.quest60.subtitle}"
+	quest.65EC29CE941B8231.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest8.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest8.description2}"
+	]
+	quest.65EC29CE941B8231.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest8.subtitle}"
+	quest.65F13C0C2212FC05.quest_subtitle: "它不发电，只输出应力"
+	quest.65F3DFA4C8A1E5BE.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest65.subtitle}"
+	quest.6639C6A3A5807AED.quest_desc: ["{ftbquests.chapter.681E3140690307AA.quest12.description1}"]
+	quest.6639C6A3A5807AED.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest12.subtitle}"
+	quest.6639C6A3A5807AED.title: "{ftbquests.chapter.681E3140690307AA.quest12.title}"
+	quest.665F5649CC81E199.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest35.subtitle}"
+	quest.66616CA6C0C95B0B.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest96.subtitle}"
+	quest.66B3F0D108699D28.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest29.subtitle}"
+	quest.66FE0D6835F9F659.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest50.subtitle}"
+	quest.66FE0D6835F9F659.title: "{ftbquests.chapter.09F33579334F2607.quest50.title}"
+	quest.6709ADE1310AAB9F.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest71.description1}"]
+	quest.6709D9DF2EA0432B.quest_desc: [
+		"{ftbquests.chapter.681E3140690307AA.quest3.description1}"
+		"{ftbquests.chapter.681E3140690307AA.quest3.description2}"
+	]
+	quest.6709D9DF2EA0432B.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest3.subtitle}"
+	quest.6709D9DF2EA0432B.title: "{ftbquests.chapter.681E3140690307AA.quest3.title}"
+	quest.6746637E7BE5AA2D.quest_subtitle: "{ftbquests.chapter.046724C96F783FC2.quest5.subtitle}"
+	quest.674C9A48676C71F5.quest_subtitle: "{ftbquests.chapter.uv.quest5.subtitle}"
+	quest.6755E680AD4602D5.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest14.subtitle}"
+	quest.676107235021E96F.quest_subtitle: "这是什么神经病玩意"
+	quest.67E66A346ABEC31F.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest9.subtitle}"
+	quest.680EE95FED0F46F5.quest_desc: ["{ftbquests.chapter.08AF6857D150C353.quest50.description1}"]
+	quest.680EE95FED0F46F5.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest50.subtitle}"
+	quest.681DC7A75791D7E2.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest14.subtitle}"
+	quest.684C275A7140AE9D.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest12.subtitle}"
+	quest.684C275A7140AE9D.title: "{ftbquests.chapter.609746CF8BE6A11E.quest12.title}"
+	quest.68506B3372A8677F.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest75.description1}"]
+	quest.68506B3372A8677F.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest75.subtitle}"
+	quest.689BE30CCFFF7850.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest17.subtitle}"
+	quest.689E197D320A0477.quest_subtitle: "{ftbquests.chapter.mv.quest2.subtitle}"
+	quest.689EA8B026306D08.quest_subtitle: "{ftbquests.chapter.mv.quest44.subtitle}"
+	quest.68D549689E87C106.quest_subtitle: "{ftbquests.chapter.hv.quest75.subtitle}"
+	quest.68D549689E87C106.title: "{ftbquests.chapter.hv.quest75.title}"
+	quest.68E2F33616B5A7A0.quest_subtitle: "你需要大量的幽匿脉络"
+	quest.68F1E652B8BA5A07.quest_subtitle: "把两个最硬的东西混起来会发生什么？"
+	quest.693BE7D773A7C37F.quest_subtitle: "送你一个中子源，希望你喜欢"
+	quest.694839D0D1DCEF9A.quest_desc: ["{ftbquests.chapter.lv.quest36.description1}"]
+	quest.694839D0D1DCEF9A.quest_subtitle: "{ftbquests.chapter.lv.quest36.subtitle}"
+	quest.694839D0D1DCEF9A.title: "{ftbquests.chapter.lv.quest36.title}"
+	quest.694E4397215D8F0C.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest16.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest16.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest16.description3}"
+		"{ftbquests.chapter.596370001FE6E99B.quest16.description4}"
+		"{ftbquests.chapter.596370001FE6E99B.quest16.description5}"
+		"{ftbquests.chapter.596370001FE6E99B.quest16.description6}"
+		"{ftbquests.chapter.596370001FE6E99B.quest16.description7}"
+	]
+	quest.694E4397215D8F0C.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest16.subtitle}"
+	quest.6963A4242BCCBADC.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest10.subtitle}"
+	quest.6971EC4F31A1F469.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest46.subtitle}"
+	quest.697C0D2B7FD83C37.quest_desc: [
+		"&4这朵花疯了&r它竟然会吃同类，它会检测所有有花朵标签的花，然后把它们吃掉"
+		"不过你不用担心它会很危险，每次它都有1*吃掉的其他花朵数%把自己给吃掉"
+		"(未来时装）"
+	]
+	quest.697C0D2B7FD83C37.quest_subtitle: "狂花日记"
+	quest.698470A3BFEFBCD4.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest6.subtitle}"
+	quest.698DD6984BEF36DA.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest9.subtitle}"
+	quest.699743A94DF7E0B8.title: "{ftbquests.chapter.mv.quest43.title}"
+	quest.69A119A432FC5309.quest_subtitle: "以后会被削，早做早享受"
+	quest.69C0EA16863038E7.quest_subtitle: "{ftbquests.chapter.iv.quest62.subtitle}"
+	quest.69CD0122AD8B7CF4.quest_subtitle: "{ftbquests.chapter.iv.quest108.subtitle}"
+	quest.69E5FC6BA4241143.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest21.subtitle}"
+	quest.69F51B6B97E80CDA.quest_desc: [
+		"没有什么比这朵花更简单粗暴了——吃掉下界之星，运行超长时间，产出大量魔力"
+		"我嘞个去这花怎么会给人造成伤害"
+		"具有4并行"
+	]
+	quest.69F51B6B97E80CDA.quest_subtitle: "轮椅——但是带凋零！"
+	quest.6A06571EE74A6F63.quest_desc: ["{ftbquests.chapter.596370001FE6E99B.quest17.description1}"]
+	quest.6A06571EE74A6F63.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest17.subtitle}"
+	quest.6A2ECBA15C3DCCCF.quest_subtitle: "{ftbquests.chapter.hv.quest99.subtitle}"
+	quest.6A45C4808C875299.quest_subtitle: "{ftbquests.chapter.028AB66FF504A9BC.quest20.subtitle}"
+	quest.6A5982BF9A0692C5.quest_subtitle: "推荐使用底下的硅岩堆发电"
+	quest.6AD203106343C632.quest_subtitle: "终极魔力发电"
+	quest.6B0754AD3F1AF0C2.quest_subtitle: "{ftbquests.chapter.ev.quest94.subtitle}"
+	quest.6B4CCB317BD73826.quest_subtitle: "{ftbquests.chapter.tetra.quest4.subtitle}"
+	quest.6B61A32A2688A834.quest_subtitle: "{ftbquests.chapter.luv.quest31.subtitle}"
+	quest.6B760684956D1BE1.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest15.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest15.description2}"
+		"{ftbquests.chapter.596370001FE6E99B.quest15.description3}"
+		"{ftbquests.chapter.596370001FE6E99B.quest15.description4}"
+		"{ftbquests.chapter.596370001FE6E99B.quest15.description5}"
+		"{ftbquests.chapter.596370001FE6E99B.quest15.description6}"
+		"{ftbquests.chapter.596370001FE6E99B.quest15.description7}"
+	]
+	quest.6B760684956D1BE1.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest15.subtitle}"
+	quest.6B9026800C4E14B5.quest_desc: [
+		"有些公式比较麻烦，你也许需要去让AI给你分析一下，或者问万能的群友"
+		"以及多看任务书，我都把核心放进任务书里你总不能还不看吧？"
+	]
+	quest.6BAC103C397BD1C9.quest_subtitle: "ZPM/UV/UHV究极燃料"
+	quest.6C02EE976B37E747.quest_subtitle: "可曾看到浩瀚银宇？"
+	quest.6C02EE976B37E747.title: "夜观天象"
+	quest.6C828C4D3DC5352E.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest42.subtitle}"
+	quest.6CA2F157BAE76D50.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest66.subtitle}"
+	quest.6CDD36A3C742B7F2.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest60.subtitle}"
+	quest.6D319978414D13A6.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest7.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest7.description2}"
+	]
+	quest.6D319978414D13A6.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest7.subtitle}"
+	quest.6D45A49BE59F6AEA.title: "{ftbquests.chapter.4EE5451097565A1A.quest23.title}"
+	quest.6D45CA16D8B8735C.quest_desc: [
+		"符文分级："
+		"1级：火水地风"
+		"2级：四季"
+		"3级：七宗罪"
+		"4级：神话植物学符文"
+		"5级：CTNH符文（视域，扭曲，增殖，星光）"
+		"类星体符文单分一级"
+	]
+	quest.6D45CA16D8B8735C.quest_subtitle: "注意要同时消耗燃料和液态魔力，否则效率将除以5"
+	quest.6D683CDE5D679C32.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest72.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest72.description2}"
+	]
+	quest.6D8804D873A0038F.quest_desc: ["{ftbquests.chapter.lv.quest77.description1}"]
+	quest.6D8804D873A0038F.quest_subtitle: "{ftbquests.chapter.lv.quest77.subtitle}"
+	quest.6D8804D873A0038F.title: "{ftbquests.chapter.lv.quest77.title}"
+	quest.6D8963683034165D.quest_subtitle: "{ftbquests.chapter.uhv.quest1.subtitle}"
+	quest.6D9003172EF921C9.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest34.subtitle}"
+	quest.6D99A9917E0D8636.quest_subtitle: "{ftbquests.chapter.ev.quest15.subtitle}"
+	quest.6DC84A820904811E.quest_subtitle: "需要钛齿轮箱，别急着在HV做"
+	quest.6E097A8CDC0BF608.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest4.subtitle}"
+	quest.6E8824B2FA2132FF.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest57.subtitle}"
+	quest.6EADC71354FF9E80.quest_desc: [
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest64.description1}"
+		"{ftbquests.chapter.4408EF6F9E2E1624.quest64.description2}"
+	]
+	quest.6EADC71354FF9E80.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest64.subtitle}"
+	quest.6F2B10DEE6CC1CEB.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest58.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest58.description2}"
+	]
+	quest.6F2B10DEE6CC1CEB.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest58.subtitle}"
+	quest.6F6CE9819AC46724.quest_subtitle: "{ftbquests.chapter.ev.quest99.subtitle}"
+	quest.6FE01122768E1589.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest2.subtitle}"
+	quest.700219157D99E263.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest10.subtitle}"
+	quest.70315F47905A7B70.quest_desc: [
+		"通过对植物魔力和魔源的研究，你意识到这种名为“魔力”的存在也许存在于世间万物之中，并且在生物体内展现出非凡的活性......&4那么如果我们把生物体本身拿来产魔呢？"
+		"&r&4他们也许不理解，但他们必须服从"
+	]
+	quest.70315F47905A7B70.quest_subtitle: "血魔法的开端"
+	quest.70315F47905A7B70.title: "必要的牺牲"
+	quest.706D808019B80CE8.quest_subtitle: "还是1：1！赚翻了好不啦！(其实并没有)"
+	quest.70775BD37338408D.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest3.subtitle}"
+	quest.707A41CB0EED30D3.quest_subtitle: "{ftbquests.chapter.mv.quest48.subtitle}"
+	quest.707EC96A26FA8C17.quest_subtitle: "终极魔力发电"
+	quest.70E031602D7868A5.quest_subtitle: "压力过大"
+	quest.70EEEE7E5F39EDCC.quest_subtitle: "{ftbquests.chapter.36A2F40CC894ECAF.quest1.subtitle}"
+	quest.712E77CB55012649.title: "{ftbquests.chapter.08AF6857D150C353.quest35.title}"
+	quest.717155F612FC68E2.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest109.subtitle}"
+	quest.7182CCA0B17CC960.quest_desc: ["{ftbquests.chapter.09F33579334F2607.quest13.description1}"]
+	quest.7182CCA0B17CC960.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest13.subtitle}"
+	quest.724B4D5BE66CEEEA.quest_subtitle: "{ftbquests.chapter.zpm.quest44.subtitle}"
+	quest.725E945382ADA450.quest_desc: ["使用时需要通入应力，选择0号电路板，同时要保证输出总线和输出仓的格子&4足够产物输出&r"]
+	quest.7269FA8768C42127.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest41.subtitle}"
+	quest.7283E47497436229.quest_desc: ["{ftbquests.chapter.609746CF8BE6A11E.quest2.description1}"]
+	quest.7283E47497436229.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest2.subtitle}"
+	quest.72A10FB317A6D183.quest_subtitle: "{ftbquests.chapter.tetra.quest3.subtitle}"
+	quest.72BEE751463CEE51.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest44.subtitle}"
+	quest.7310599945A8C3F8.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest1.subtitle}"
+	quest.7330DFCA691A419E.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest27.subtitle}"
+	quest.73409534B2EB6BAD.quest_subtitle: "叠叠乐"
+	quest.73409F231880358F.quest_subtitle: "4级光伏板材！"
+	quest.7350B8C1243D44CD.quest_subtitle: "{ftbquests.chapter.iv.quest115.subtitle}"
+	quest.73B77D941D38C88C.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest70.description1}"]
+	quest.73B77D941D38C88C.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest70.subtitle}"
+	quest.73FEBDBA63D96DDA.quest_subtitle: "{ftbquests.chapter.zpm.quest86.subtitle}"
+	quest.741211A0D54252FF.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest53.subtitle}"
+	quest.7438639FFA61F7C0.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest49.subtitle}"
+	quest.74427C7A3AFB782C.quest_subtitle: "消耗电力来发电，这很河里"
+	quest.74578688D5974E8A.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest32.subtitle}"
+	quest.74CCAA3EFE10AF43.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest38.subtitle}"
+	quest.7506DBB3B4B03B05.quest_subtitle: "中子活化器那一套不好用了"
+	quest.752F4FD6CF508677.quest_subtitle: "并没有月兔"
+	quest.752F4FD6CF508677.title: "月球之旅"
+	quest.75353060280848EB.quest_desc: ["我们（）人的化工厂太厉害辣！"]
+	quest.75353060280848EB.quest_subtitle: "超级化工厂"
+	quest.754CF2D0D96359C3.quest_desc: ["{ftbquests.chapter.iv.quest107.description1}"]
+	quest.754CF2D0D96359C3.quest_subtitle: "{ftbquests.chapter.iv.quest107.subtitle}"
+	quest.7564DC3576C62D48.quest_subtitle: "{ftbquests.chapter.lv.quest27.subtitle}"
+	quest.75774FD66E513B5C.quest_desc: ["{ftbquests.chapter.lv.quest71.description1}"]
+	quest.75774FD66E513B5C.quest_subtitle: "{ftbquests.chapter.lv.quest71.subtitle}"
+	quest.76036AE6CE23B158.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest16.subtitle}"
+	quest.76A0F39E1949074E.quest_subtitle: "附着在电路板上"
+	quest.76CF88C9EBEDE0EF.quest_desc: [
+		"你的焊锡理所当然地不能再支撑住接下来的建筑了，你需要一种可以根据情况自主调整的合金。"
+		""
+		"可惜这里没有活性突变焊料，不过你已经想好了更疯狂的存在——活体金属"
+		""
+		"制作它需要先制作出未编译的版本，然后使用数据集和电路板来辅助编译，然后使用燃料来进行激活。塔兰燃料作为高能燃料固然不错，但是充能硅岩基MKIII燃料的巨大能量能迅速加速这一过程"
+		""
+		"当然你要先用编译器来获得数据集，你将在这之前被困于无尽的小作文地狱，Have Fun!(not)"
+	]
+	quest.76CF88C9EBEDE0EF.quest_subtitle: "这确实很疯狂，但确实够疯狂"
+	quest.76CF88C9EBEDE0EF.title: "蠕动，蠕动......"
+	quest.771C2EE93ADC202F.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest3.description1}"]
+	quest.771C2EE93ADC202F.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest3.subtitle}"
+	quest.777F1D3EB722D4B7.quest_subtitle: "{ftbquests.chapter.uhv.quest11.subtitle}"
+	quest.77DF7C0A366D69B4.quest_desc: [
+		"{ftbquests.chapter.62876F01654DC6E9.quest28.description1}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest28.description2}"
+	]
+	quest.77DF7C0A366D69B4.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest28.subtitle}"
+	quest.77E6CC05EB28D0ED.quest_desc: [
+		"在经历114514次失败后，你终于完成了你的疯狂作品：你把1亿亿的魔力灌注到了一个方块里面，企图利用魔力的现实扭曲能力获得永恒的力量和能源，你成功了！但是似乎事情不是向你想的那样"
+		""
+		"无数的能量喷涌而来，好在你针对魔力的类星体外壳仍然能让结构保持稳定。你看到了一样东西：类星体，星系的核心。但是这并不是你制作出来的，你打开了一扇大门，这扇大门直通亚尔夫海姆恒星系的中心"
+		""
+		"那里有无数的魔力，无数的能量，你改进了那扇门，现在你可以把燃料经过一些巧妙的方式投入类星体，然后转化成你能使用的能量，这几乎是对燃料的99%利用，甚至在哪些气体流里面你发现你燃料的重大损失"
+		""
+		"或者你也可以扩大大门，将一切庸俗魔力之物丢进，企图辰星给与你无尽的能量"
+		""
+		"&4那群没脑子的精灵还在彩虹桥上拿魔力玩他们的无聊神明过家家，真正的魔法使早已经领悟到科技与魔力结合的真谛&r"
+	]
+	quest.77E6CC05EB28D0ED.quest_subtitle: "打开大门"
+	quest.77EA82987E62F815.quest_desc: ["{ftbquests.chapter.08AF6857D150C353.quest47.description1}"]
+	quest.77EA82987E62F815.quest_subtitle: "{ftbquests.chapter.08AF6857D150C353.quest47.subtitle}"
+	quest.77FDE31270BAA38F.title: "{ftbquests.chapter.zpm.quest94.title}"
+	quest.781E3D9B19198AAF.quest_subtitle: "恭喜结局!"
+	quest.782151CC2B61160B.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest12.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest12.description2}"
+	]
+	quest.782151CC2B61160B.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest12.subtitle}"
+	quest.783EE6889DD2C460.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest19.subtitle}"
+	quest.783EE6889DD2C460.title: "{ftbquests.chapter.09F33579334F2607.quest19.title}"
+	quest.783F7C176491A978.title: "便宜HV电路"
+	quest.7857C9428A51E9BC.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest21.subtitle}"
+	quest.788E6B0608C95DA7.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest14.subtitle}"
+	quest.78A26DEDD6AFF600.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest1.subtitle}"
+	quest.78A26DEDD6AFF600.title: "{ftbquests.chapter.09F33579334F2607.quest1.title}"
+	quest.78B3859F84F3AA0A.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest30.subtitle}"
+	quest.78C75CD9990F3C59.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest54.description1}"]
+	quest.78F95FBF037F3AF9.quest_desc: ["{ftbquests.chapter.lv.quest65.description1}"]
+	quest.78F95FBF037F3AF9.quest_subtitle: "{ftbquests.chapter.lv.quest65.subtitle}"
+	quest.792A7D534B3F0A34.quest_subtitle: "生物材料"
+	quest.793A043D3C7D1DD3.quest_desc: ["是的，你成功获取了富集魔力锭，但这只是开始，你想试试这种物质的极限在哪里，也许极高的魔力浓度能让它显示出一些特殊的效应？"]
+	quest.793A043D3C7D1DD3.quest_subtitle: "{ftbquests.chapter.1FD18D8B41761626.quest5.subtitle}"
+	quest.79DC0E912343C094.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest7.subtitle}"
+	quest.79EC7AFE794818C4.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest36.subtitle}"
+	quest.79F1B6B69D7ED6CB.quest_subtitle: "1:1，是不是很神奇？(其实并没有)"
+	quest.79F44C472D79151F.quest_desc: ["{ftbquests.chapter.2CEAD5605C416218.quest15.description1}"]
+	quest.79F44C472D79151F.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest15.subtitle}"
+	quest.79FF9CC1122C2362.title: "{ftbquests.chapter.uv.quest24.title}"
+	quest.7A19FD6650532E2F.title: "一段征途的起点"
+	quest.7A1D738315BBD040.quest_subtitle: "{ftbquests.chapter.2C8B1E40224C9A0C.quest2.subtitle}"
+	quest.7A63464D71D0791E.quest_subtitle: "开始你的魔力燃料精炼吧！"
+	quest.7A937E3AE05BFC09.quest_desc: [
+		"利用类星体符文的力量，你成功复现了这伟大的创造——一个利用魔力制成的恒星的超级装置"
+		""
+		"好吧，我承认，这种能量还不足以达到恒星级别，但是这种极高浓度带来的魔力的现实扭曲效应倒给了你不少方便——你现在可以一步完成以前繁琐的魔力步骤，或者把那些可恶的不纯硅岩变成纯的"
+		""
+		"至于另一个作用......你把它瞄准了那浩瀚的星空。"
+		""
+		"那里还有一个永恒的敌人，当它来临之时，我们将让它们领略戴森光束的光芒"
+		""
+		"&4以前我们只是威慑下的渺小虫子，现在我们就是威慑本身&r"
+	]
+	quest.7A937E3AE05BFC09.quest_subtitle: "魔力恒星聚焦装置——我们应该把重点放在“魔力恒星”还是“聚焦”？"
+	quest.7AC7D7F2444B31EC.quest_subtitle: "{ftbquests.chapter.09F33579334F2607.quest24.subtitle}"
+	quest.7AE674329D7E7944.quest_desc: ["{ftbquests.chapter.lv.quest10.description1}"]
+	quest.7AE674329D7E7944.quest_subtitle: "{ftbquests.chapter.lv.quest10.subtitle}"
+	quest.7B7EDEDB4D48C01C.title: "还没做"
+	quest.7B97515095A42A44.quest_desc: ["但你可以花一些&4便宜材料&r跟我换，这个很划算，不是吗("]
+	quest.7B97515095A42A44.quest_subtitle: "不是？这花园材料是不是有些离谱了？"
+	quest.7B97515095A42A44.title: "过于昂贵的环境"
+	quest.7BC686B06AAB5A90.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest49.description1}"]
+	quest.7BCFDC1800C8BBAD.quest_desc: ["{ftbquests.chapter.lv.quest74.description1}"]
+	quest.7BCFDC1800C8BBAD.quest_subtitle: "{ftbquests.chapter.lv.quest74.subtitle}"
+	quest.7C46A46BCA54FB18.quest_subtitle: "看看机械动力的配方，如果你不想玩合成拓展的话"
+	quest.7C72C9094F33CC23.quest_subtitle: "这是什么东西？以前有吗？"
+	quest.7C74E83D14A52B40.quest_desc: [
+		"{ftbquests.chapter.62876F01654DC6E9.quest76.description1}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest76.description2}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest76.description3}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest76.description4}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest76.description5}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest76.description6}"
+		"{ftbquests.chapter.62876F01654DC6E9.quest76.description7}"
+	]
+	quest.7C74E83D14A52B40.quest_subtitle: "{ftbquests.chapter.62876F01654DC6E9.quest76.subtitle}"
+	quest.7C74E83D14A52B40.title: "{ftbquests.chapter.62876F01654DC6E9.quest76.title}"
+	quest.7C9A7E04E0F1FFFB.quest_subtitle: "IV超导"
+	quest.7CC2B2A2B70CCD83.quest_desc: ["{ftbquests.chapter.71282A84EFB2E6DD.quest11.description1}"]
+	quest.7CC2B2A2B70CCD83.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest11.subtitle}"
+	quest.7CD360494125BA99.quest_subtitle: "{ftbquests.chapter.hv.quest81.subtitle}"
+	quest.7CD360494125BA99.title: "{ftbquests.chapter.hv.quest81.title}"
+	quest.7CDCF7297160337B.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest35.subtitle}"
+	quest.7CDCF7297160337B.title: "{ftbquests.chapter.609746CF8BE6A11E.quest35.title}"
+	quest.7CF628053F84B8D1.quest_desc: ["{ftbquests.chapter.lv.quest3.description1}"]
+	quest.7CF628053F84B8D1.quest_subtitle: "{ftbquests.chapter.lv.quest3.subtitle}"
+	quest.7CF8AB9126F11C19.quest_subtitle: "你需要LUV组装机"
+	quest.7D20F99B02CA4357.quest_desc: [
+		"你已经通过仪式完成了第一步：进入那&4深刻&r的领域......不过还是太浅了，你需要更加深入，&4深入那无底深渊&r"
+		"那恶魔领域的果实具有吸食血液的力量，与你一样贪婪，也许&4站在它的上方，成为它的养料&r，你就可以培育出&4更加迷人的花朵&r"
+	]
+	quest.7D20F99B02CA4357.quest_subtitle: "为了无尽门扉"
+	quest.7D527B8CCB41E418.quest_subtitle: "原版格雷的顶点"
+	quest.7D650ADE6C75CD06.quest_desc: [""]
+	quest.7D650ADE6C75CD06.quest_subtitle: "好长的线"
+	quest.7D650ADE6C75CD06.title: "CLGS线"
+	quest.7D6EC424FC1E9163.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest28.subtitle}"
+	quest.7D71F6FD70EBC323.title: "{ftbquests.chapter.zpm.quest18.title}"
+	quest.7D76859D3E40A235.title: "{ftbquests.chapter.08AF6857D150C353.quest1.title}"
+	quest.7D7EEC84B88C3B71.quest_subtitle: "更好的发电机，记得烧硅岩基燃料，其他基燃料非常弱"
+	quest.7E5199B7F22F5DED.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest6.subtitle}"
+	quest.7E591C0E7278D12F.quest_subtitle: "{ftbquests.chapter.4408EF6F9E2E1624.quest26.subtitle}"
+	quest.7E7D5E681C498055.quest_subtitle: "{ftbquests.chapter.177DD3C4E2D1113C.quest23.subtitle}"
+	quest.7E7FF6EFEC19BE71.quest_desc: ["{ftbquests.chapter.lv.quest69.description1}"]
+	quest.7E7FF6EFEC19BE71.quest_subtitle: "{ftbquests.chapter.lv.quest69.subtitle}"
+	quest.7F15BB71576900CD.quest_subtitle: "{ftbquests.chapter.2CEAD5605C416218.quest24.subtitle}"
+	quest.7F49CF8B3E9122E7.quest_subtitle: "{ftbquests.chapter.609746CF8BE6A11E.quest46.subtitle}"
+	quest.7F596517F8E1795A.quest_desc: [
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest50.description1}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest50.description2}"
+		"{ftbquests.chapter.71282A84EFB2E6DD.quest50.description3}"
+	]
+	quest.7F596517F8E1795A.quest_subtitle: "{ftbquests.chapter.71282A84EFB2E6DD.quest50.subtitle}"
+	quest.7F596517F8E1795A.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest50.title}"
+	quest.7F81295FE18741A6.quest_subtitle: "{ftbquests.chapter.uv.quest36.subtitle}"
+	quest.7F8EBE79547FCAD6.quest_subtitle: "尽力把所有魔符集齐吧"
+	quest.7F8EBE79547FCAD6.title: "魔法笑传之抄抄背（）"
+	quest.7F91ACC4605D8687.quest_desc: [
+		"终于，通过某些&4邪恶的仪式&r你逆向了精灵门传送技术，准备给精灵们来点小小的工业时代震撼。"
+		"但是，当你真正进入这个世界中,才发现这里除了疯了的精灵之外似乎已无人烟。"
+		"当然你不在乎这个，至少你发生这里的空气还挺值得抽，而且这里拥有着一种蕴含着丰富魔力的矿石-&b蕴魔矿&r"
+		"你现在没法处理这个玩意，但是你可以粗暴的粉碎它，把它扔进你的催化剂或者机器中"
+	]
+	quest.7F91ACC4605D8687.quest_subtitle: "精灵世界有没有毁灭管我什么事，毁灭这东西能自动化吗？"
+	quest.7F91ACC4605D8687.title: "废墟与蕴魔"
+	quest.7F992D338D4783CE.quest_desc: ["{ftbquests.chapter.lv.quest14.description1}"]
+	quest.7F992D338D4783CE.quest_subtitle: "{ftbquests.chapter.lv.quest14.subtitle}"
+	quest.7F9FAB58AA9BE300.quest_desc: ["可出口物品主要为食物原材料以及部分加工食物，具体为mc原版所有食物，农夫乐事原版以及暮色乐事等模组中的部分食物，剩余的没有标价的食材大家可以给制作组提出一些定价意见。"]
+	quest.7FA90252C6CC19F0.quest_desc: [
+		"{ftbquests.chapter.681E3140690307AA.quest17.description1}"
+		"{ftbquests.chapter.681E3140690307AA.quest17.description2}"
+	]
+	quest.7FA90252C6CC19F0.quest_subtitle: "{ftbquests.chapter.681E3140690307AA.quest17.subtitle}"
+	quest.7FB819E46B3F2404.quest_subtitle: "{ftbquests.chapter.zpm.quest83.subtitle}"
+	quest.7FC1D52CB7D8F3A3.quest_subtitle: "10倍加速！但是代价是什么？"
+	quest.7FC6F33F349AFB8B.quest_desc: [
+		"{ftbquests.chapter.596370001FE6E99B.quest20.description1}"
+		"{ftbquests.chapter.596370001FE6E99B.quest20.description2}"
+	]
+	quest.7FC6F33F349AFB8B.quest_subtitle: "{ftbquests.chapter.596370001FE6E99B.quest20.subtitle}"
+	quest.7FC6F33F349AFB8B.title: "{ftbquests.chapter.596370001FE6E99B.quest20.title}"
+	quest.7FC7714BD50388EC.quest_desc: [
+		"{ftbquests.chapter.lv.quest28.description1}"
+		"{ftbquests.chapter.lv.quest28.description2}"
+	]
+	quest.7FC7714BD50388EC.title: "{ftbquests.chapter.lv.quest28.title}"
+	quest.7FD9B0E41358497D.quest_subtitle: "{ftbquests.chapter.zpm.quest21.subtitle}"
+	task.0159C516B579DCAF.title: "{ftbquests.chapter.681E3140690307AA.quest3.task_+97325568289791151.title}"
+	task.017EE0C971925093.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest8.task_+107770596901933203.title}"
+	task.02CB7B2250363B17.title: "{ftbquests.chapter.681E3140690307AA.quest10.task_+201389995652954903.title}"
+	task.0341C2EDA12C3D1A.title: "{ftbquests.chapter.028AB66FF504A9BC.quest12.task_+234682981467045146.title}"
+	task.034AF4903D1B322E.title: "其实血魔法原版还有砍怪输入血和苦难之井仪式，但是有更好的选择这俩开发空间真的不大"
+	task.035BB87E7E582702.title: "{ftbquests.chapter.596370001FE6E99B.quest10.task_+241989858419549954.title}"
+	task.041C979A41757455.title: "{ftbquests.chapter.iv.quest43.task_+296278364278584405.title}"
+	task.04239D81911F91D2.title: "{ftbquests.chapter.luv.quest22.task_+298255180147691986.title}"
+	task.04D6DF59C6B92247.title: "{ftbquests.chapter.177DD3C4E2D1113C.quest91.task_+348711597846897223.title}"
+	task.0517C478A5A52099.title: "{ftbquests.chapter.4EE5451097565A1A.quest16.task_+366977917108166809.title}"
+	task.053633B1AAC908ED.title: "{ftbquests.chapter.596370001FE6E99B.quest14.task_+375544457099544813.title}"
+	task.06169705E3B3B6EC.title: "{ftbquests.chapter.596370001FE6E99B.quest15.task_+438704065266038508.title}"
+	task.0775F71F199C0333.title: "{ftbquests.chapter.ev.quest80.task_+537607443486343987.title}"
+	task.07995972E46CC2CF.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest76.task_+547567179695702735.title}"
+	task.07D3DF8E64BEA8BB.title: "{ftbquests.chapter.ev.quest14.task_+564040181020010683.title}"
+	task.0810C4B258493E40.title: "{ftbquests.chapter.08AF6857D150C353.quest47.task_+581180622195211840.title}"
+	task.08A20B7A74665A88.title: "{ftbquests.chapter.596370001FE6E99B.quest7.task_+622072319097330312.title}"
+	task.093FA5E8A350EED8.title: "{ftbquests.chapter.tetra.quest24.task_+666433688465108696.title}"
+	task.09B7AF49CE240A8B.title: "Any #botania:mystical_flowers"
+	task.09D536FDA05E00B8.title: "{ftbquests.chapter.681E3140690307AA.quest4.task_+708532979325862072.title}"
+	task.09F47605F12B8E47.title: "{ftbquests.chapter.tetra.quest23.task_+717328008551829063.title}"
+	task.0CCA6628275004E2.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest7.task_+921661396394968290.title}"
+	task.0CDC7E4FC8C829CF.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest51.task_+926754504467556815.title}"
+	task.0CDFE2699DE3122A.title: "{ftbquests.chapter.luv.quest32.task_+927708991509959210.title}"
+	task.0DDAD40EFABDDB77.title: "{ftbquests.chapter.08AF6857D150C353.quest35.task_+998343428217363319.title}"
+	task.0F04B2D6178184B5.title: "戴森光束JEI丢方块了，用这本蓝图吧"
+	task.0F07A6703A44723A.title: "{ftbquests.chapter.08AF6857D150C353.quest74.task_+1083017236350005818.title}"
+	task.0F21E7918034A346.title: "用机械动力可以显著减少外壳价格，真的("
+	task.0F7E19A36C1CE5FC.title: "{ftbquests.chapter.mv.quest45.task_+1116357947318658556.title}"
+	task.0FF291B04510FC84.title: "{ftbquests.chapter.ev.quest15.task_+1149141041191910532.title}"
+	task.1037307307EFD46D.title: "{ftbquests.chapter.luv.quest17.task_+1168455898938463341.title}"
+	task.10A6845657D139F7.title: "{ftbquests.chapter.4EE5451097565A1A.quest5.task_+1199791857116199415.title}"
+	task.115FCE926E206B92.title: "{ftbquests.chapter.mv.quest43.task_+1251946349740452754.title}"
+	task.11E87C8E711D9668.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest6.task_+1290418244466611816.title}"
+	task.1228D5231465172A.title: "{ftbquests.chapter.uhv.quest12.task_+1308530038393870122.title}"
+	task.123036F8278EBAE3.title: "{ftbquests.chapter.hv.quest103.task_+1310607931008269027.title}"
+	task.123796D65339C390.title: "{ftbquests.chapter.681E3140690307AA.quest16.task_+1312683663665251216.title}"
+	task.126C851BA0B58A46.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest15.task_+1327582343874316870.title}"
+	task.130B42BAD56DC7F2.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest4.task_+1372263881676539890.title}"
+	task.146ECF44145C3AB2.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest26.task_+1472342019503045298.title}"
+	task.1542A3D5578F5ABC.title: "UEV阶段"
+	task.15D87EEEA7218F96.title: "{ftbquests.chapter.iv.quest7.task_+1574147633237299094.title}"
+	task.1618820DC099898D.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest74.task_+1592165463852943757.title}"
+	task.168B3332D0787EAA.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest60.task_+1624448383936134826.title}"
+	task.1769E6600040B278.title: "{ftbquests.chapter.681E3140690307AA.quest2.task_+1687132835422450296.title}"
+	task.1792125504A804F9.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest25.task_+1698440165831738617.title}"
+	task.184A56B5BDBBCB34.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest74.task_+1750306743759129396.title}"
+	task.18B2B859195A4B79.title: "{ftbquests.chapter.09F33579334F2607.quest64.task_+1779687495581715321.title}"
+	task.19DD7B9333240B22.title: "{ftbquests.chapter.62876F01654DC6E9.quest39.task_+1863781692949662498.title}"
+	task.1C08019A45E961AE.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest53.task_+2019866194985181614.title}"
+	task.1C1BFFEBB2C0FC24.title: "{ftbquests.chapter.mv.quest68.task_+2025493845214559268.title}"
+	task.1C66C276FF74F641.title: "{ftbquests.chapter.4EE5451097565A1A.quest21.task_+2046536897034253889.title}"
+	task.1CA8FC0C2787A957.title: "{ftbquests.chapter.609746CF8BE6A11E.quest12.task_+2065177558282381655.title}"
+	task.1D125E85F36778B1.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest71.task_+2094840706088007857.title}"
+	task.1E724717F806DDBB.title: "{ftbquests.chapter.2CEAD5605C416218.quest45.task_+2193894136753872315.title}"
+	task.207C44B7DD790F74.title: "{ftbquests.chapter.596370001FE6E99B.quest5.task_+2340821462811217780.title}"
+	task.215D02C397CABDA2.title: "{ftbquests.chapter.2CEAD5605C416218.quest34.task_+2404080815174237602.title}"
+	task.2225751D33986858.title: "{ftbquests.chapter.609746CF8BE6A11E.quest35.task_+2460501539707971672.title}"
+	task.229810D7080DDA1A.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest72.task_+2492760909488708122.title}"
+	task.2389CFC195589D70.title: "{ftbquests.chapter.596370001FE6E99B.quest2.task_+2560806293478088048.title}"
+	task.23D5A764F9AC759B.title: "{ftbquests.chapter.596370001FE6E99B.quest16.task_+2582154013494244763.title}"
+	task.24C290A3D447A904.title: "{ftbquests.chapter.zpm.quest94.task_+2648838564162808068.title}"
+	task.24F0C2A832DB70B3.title: "{ftbquests.chapter.4EE5451097565A1A.quest30.task_+2661841407439499443.title}"
+	task.254299460AE15C49.title: "{ftbquests.chapter.596370001FE6E99B.quest11.task_+2684876853975538761.title}"
+	task.25932D90AF96A40B.title: "{ftbquests.chapter.028AB66FF504A9BC.quest37.task_+2707557900424225803.title}"
+	task.260B52B84D28856C.title: "{ftbquests.chapter.596370001FE6E99B.quest13.task_+2741375749707040108.title}"
+	task.266D66828F20DE07.title: "{ftbquests.chapter.596370001FE6E99B.quest6.task_+2768982056835800583.title}"
+	task.27A701A10D46A3A7.title: "LV奖励"
+	task.27E7AE2167CB7FBA.title: "{ftbquests.chapter.4EE5451097565A1A.quest24.task_+2875458345597894586.title}"
+	task.28452AEF89217804.title: "{ftbquests.chapter.4EE5451097565A1A.quest18.task_+2901772743196375044.title}"
+	task.288E72B28FBE1C95.title: "{ftbquests.chapter.4EE5451097565A1A.quest3.task_+2922399319451376789.title}"
+	task.28F2EC5F159FE317.title: "{ftbquests.chapter.uhv.quest21.task_+2950680599009944343.title}"
+	task.29414775BE90922F.title: "{ftbquests.chapter.2CEAD5605C416218.quest4.task_+2972735800075129391.title}"
+	task.29984565570288D2.title: "{ftbquests.chapter.uv.quest39.task_+2997221853568862418.title}"
+	task.29E078FC94CBD4DB.title: "{ftbquests.chapter.028AB66FF504A9BC.quest50.task_+3017544776561710299.title}"
+	task.2A8B911352BA8C2F.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest31.task_+3065703483534117935.title}"
+	task.2B73ED1E1D3B4239.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest5.task_+3131106879547851321.title}"
+	task.2C8FEE06D731310A.title: "{ftbquests.chapter.2CEAD5605C416218.quest64.task_+3211046772485992714.title}"
+	task.2D85FD0B8C9499FE.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest32.task_+3280306129654290942.title}"
+	task.2DA9B3A0BBAD0259.title: "{ftbquests.chapter.4EE5451097565A1A.quest11.task_+3290358505695674969.title}"
+	task.2DF4F58E11A82718.title: "{ftbquests.chapter.zpm.quest69.task_+3311541616554551064.title}"
+	task.2E581C468B48B82C.title: "{ftbquests.chapter.zpm.quest59.task_+3339450213005309996.title}"
+	task.2F57CE68FB752EF4.title: "{ftbquests.chapter.4EE5451097565A1A.quest1.task_+3411422193047121652.title}"
+	task.304D93636CA5DA20.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest33.task_+3480600142261115424.title}"
+	task.3068BBEAE1544360.title: "{ftbquests.chapter.iv.quest15.task_+3488244528875586400.title}"
+	task.30F128440E921AE5.title: "MV阶段奖励"
+	task.31E1AE59E53353A6.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest52.task_+3594345678739035046.title}"
+	task.32EE4FBEE51C583A.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest30.task_+3669958427659753530.title}"
+	task.34068A0143E04F57.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest29.task_+3748835477870890839.title}"
+	task.343E5DDC6A875DEC.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest110.task_+3764549539789757932.title}"
+	task.36272F4E99C3CE66.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest59.task_+3902139616773525094.title}"
+	task.36924FA5E1528AB2.title: "{ftbquests.chapter.mv.quest27.task_+3932292998516345522.title}"
+	task.36942910CD8A6BAE.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest48.task_+3932813526745901998.title}"
+	task.36BDF326C791E0BD.title: "GT小课堂：覆盖板"
+	task.36D28FA2F621CC2B.title: "{ftbquests.chapter.2CEAD5605C416218.quest26.task_+3950377753234230315.title}"
+	task.36FD1A5427DD04EF.title: "{ftbquests.chapter.2CEAD5605C416218.quest27.task_+3962352195904275695.title}"
+	task.3712558EA5114743.title: "MAX阶段"
+	task.37492B461318B5BE.title: "{ftbquests.chapter.596370001FE6E99B.quest18.task_+3983762925354005950.title}"
+	task.377628159C116ECD.title: "{ftbquests.chapter.uv.quest43.task_+3996425792615706317.title}"
+	task.3779765761C83EA7.title: "{ftbquests.chapter.681E3140690307AA.quest5.task_+3997356261942771367.title}"
+	task.382D915F144FE191.title: "{ftbquests.chapter.tetra.quest14.task_+4048051477624643985.title}"
+	task.39382193B16E173D.title: "{ftbquests.chapter.08AF6857D150C353.quest10.task_+4123082377078380349.title}"
+	task.398D21EC1AB4A0B4.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest95.task_+4147008129822138548.title}"
+	task.39EE28FE45416BC4.title: "生物线的开端"
+	task.3A403EB9C65CA260.title: "{ftbquests.chapter.0AD950C34ED565A4.quest4.task_+4197423820327133792.title}"
+	task.3B8FB6DD99CA612A.title: "{ftbquests.chapter.2CEAD5605C416218.quest35.task_+4291850032791576874.title}"
+	task.3BAE3A1289E355D7.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest65.task_+4300438545482601943.title}"
+	task.3BBE2FA962B1B2F2.title: "{ftbquests.chapter.uv.quest12.task_+4304930698364564210.title}"
+	task.3C32D2D569D91C40.title: "关于魔力发电相关细节，建议去看魔力多方块"
+	task.3DCD7A350F944CD6.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest64.task_+4453349974852521174.title}"
+	task.3E7FA5354FDFB830.title: "悄悄告诉你"
+	task.3EDE241FEA38FACD.title: "UIV阶段"
+	task.3F08B5065D745D0D.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest37.task_+4542079263145483533.title}"
+	task.3F5150BE598336CB.title: "{ftbquests.chapter.596370001FE6E99B.quest3.task_+4562516675978802891.title}"
+	task.3FD99E175CCA6832.title: "{ftbquests.chapter.596370001FE6E99B.quest8.task_+4600882317513877554.title}"
+	task.41077F5E87BD109D.title: "{ftbquests.chapter.4EE5451097565A1A.quest13.task_+4685853981283258525.title}"
+	task.413A9E1E8D6A813B.title: "{ftbquests.chapter.zpm.quest16.task_+4700243015173308731.title}"
+	task.419787730C10AEAE.title: "{ftbquests.chapter.09F33579334F2607.quest1.task_+4726395262142033582.title}"
+	task.41AC51FE3145C03F.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest32.task_+4732247460649746495.title}"
+	task.42ECF3A7680057D3.title: "{ftbquests.chapter.iv.quest95.task_+4822497201336899539.title}"
+	task.43361CA151B31FEC.title: "{ftbquests.chapter.zpm.quest93.task_+4843089928469553132.title}"
+	task.434D4ED2459FCE5B.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest30.task_+4849619038766091867.title}"
+	task.4385F4CD3CE54571.title: "{ftbquests.chapter.028AB66FF504A9BC.quest14.task_+4865564134770820465.title}"
+	task.438EA574FBB2C751.title: "{ftbquests.chapter.609746CF8BE6A11E.quest1.task_+4868010169091671889.title}"
+	task.43A15A45398FC1E1.title: "{ftbquests.chapter.zpm.quest50.task_+4873275525156553185.title}"
+	task.43ABF78D449303E5.title: "大法师的神迹"
+	task.43E044AE5E9EC789.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest6.task_+4890984711026821001.title}"
+	task.440FD5A96B0DF23D.title: "{ftbquests.chapter.4EE5451097565A1A.quest26.task_+4904373442852024893.title}"
+	task.44C166B59837027D.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest2.task_+4954353995213111933.title}"
+	task.46B71A23AA0FD6F7.title: "Any #gtceu:circuits/hv"
+	task.474F6A8335C66DF3.title: "{ftbquests.chapter.uv.quest11.task_+5138442811628482035.title}"
+	task.48139C25B960D001.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest28.task_+5193666481126166529.title}"
+	task.48402B8A57B25694.title: "{ftbquests.chapter.4EE5451097565A1A.quest19.task_+5206209042417079956.title}"
+	task.486CCED9102906F6.title: "地球恩惠效果已被移除"
+	task.49241705B9BBA45E.title: "{ftbquests.chapter.4EE5451097565A1A.quest12.task_+5270362777288680542.title}"
+	task.4B11DD56119453E5.title: "花朵养殖第一课：学会看任务书和问AI"
+	task.4BC5FA5A8A142EF1.title: "{ftbquests.chapter.596370001FE6E99B.quest4.task_+5460045390027173617.title}"
+	task.4C3599D32045D55E.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest57.task_+5491464452706784606.title}"
+	task.4C91B7B75CF14638.title: "{ftbquests.chapter.4EE5451097565A1A.quest34.task_+5517393016671782456.title}"
+	task.4DA6D68FE7F68FFC.title: "{ftbquests.chapter.4EE5451097565A1A.quest4.task_+5595395500614782972.title}"
+	task.4E08D6B660D67F57.title: "{ftbquests.chapter.09F33579334F2607.quest55.task_+5622980213569126231.title}"
+	task.4E17BDC99B8D09CB.title: "{ftbquests.chapter.ev.quest12.task_+5627174933018511819.title}"
+	task.4E26186C16172564.title: "{ftbquests.chapter.609746CF8BE6A11E.quest33.task_+5631215236579534180.title}"
+	task.4E6D066D90F49F58.title: "{ftbquests.chapter.2CEAD5605C416218.quest67.task_+5651180175072993112.title}"
+	task.4E88437462C0FCAE.title: "{ftbquests.chapter.028AB66FF504A9BC.quest58.task_+5658847098943110318.title}"
+	task.4EFBD6F02E3100E4.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest1.task_+5691378881168212196.title}"
+	task.4F4127290C163972.title: "OPV阶段"
+	task.4FF903F607617ED3.title: "新生魔艺"
+	task.507A01A0F2C8276C.title: "{ftbquests.chapter.iv.quest66.task_+5798949260972533612.title}"
+	task.5155AC0F564C7DA5.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest5.task_+5860779671964908965.title}"
+	task.519EA59FDB4B479F.title: "{ftbquests.chapter.681E3140690307AA.quest19.task_+5881320269389973407.title}"
+	task.51C4207B1CE58024.title: "{ftbquests.chapter.2CEAD5605C416218.quest51.task_+5891869925645320228.title}"
+	task.520A29D5F99CCC82.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest16.task_+5911583459869772930.title}"
+	task.533FDBC115480B2E.title: "{ftbquests.chapter.0AD950C34ED565A4.quest5.task_+5998754851013004078.title}"
+	task.536B45B8404BE1CB.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest26.task_+6010974785311072715.title}"
+	task.536DA5ED8AFE8329.title: "{ftbquests.chapter.luv.quest9.task_+6011643517267247913.title}"
+	task.53BD9501D90EA729.title: "{ftbquests.chapter.681E3140690307AA.quest18.task_+6034142910915454761.title}"
+	task.53DEC3128DBBCB8F.title: "{ftbquests.chapter.4EE5451097565A1A.quest23.task_+6043482234432506767.title}"
+	task.54AE1AC41C15F42E.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest27.task_+6101843974720713774.title}"
+	task.55261C111E61BB45.title: "{ftbquests.chapter.iv.quest24.task_+6135622402188622661.title}"
+	task.5573A2DD9A403E16.title: "{ftbquests.chapter.681E3140690307AA.quest6.task_+6157444188204973590.title}"
+	task.55AA53054D84BD16.title: "{ftbquests.chapter.4EE5451097565A1A.quest9.task_+6172837521505172758.title}"
+	task.56C5802444F84C2B.title: "{ftbquests.chapter.4EE5451097565A1A.quest32.task_+6252544550938102827.title}"
+	task.56E4A8C2B91AA611.title: "Any #tetra:nailed"
+	task.56E8A1453A1ED100.title: "{ftbquests.chapter.tetra.quest3.task_+6262432600558588160.title}"
+	task.5700F7FB552F9273.title: "{ftbquests.chapter.4EE5451097565A1A.quest14.task_+6269283340137763443.title}"
+	task.571A2A5C1EE0A281.title: "别点太快！"
+	task.578A5263CE574066.title: "{ftbquests.chapter.4A4420704BDBEA5D.quest105.task_+6307944816702865510.title}"
+	task.58189D7341B24CD5.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest61.task_+6347996793127718101.title}"
+	task.58329466B8F858C7.title: "{ftbquests.chapter.2CEAD5605C416218.quest3.task_+6355305193084049607.title}"
+	task.58460F9F5142F7EC.title: "{ftbquests.chapter.hv.quest122.task_+6360788700644964332.title}"
+	task.58B069BDAAEA2AF7.title: "{ftbquests.chapter.4EE5451097565A1A.quest6.task_+6390724134575942391.title}"
+	task.58C68065EE4B3434.title: "{ftbquests.chapter.4EE5451097565A1A.quest33.task_+6396941496004326452.title}"
+	task.58E7619E76BCD1FD.title: "{ftbquests.chapter.2C8B1E40224C9A0C.quest3.task_+6406196328182632957.title}"
+	task.5908E87A0588E354.title: "{ftbquests.chapter.596370001FE6E99B.quest9.task_+6415633279965782868.title}"
+	task.590F411E8E0007AA.title: "{ftbquests.chapter.4A4420704BDBEA5D.quest57.task_+6417419593513437098.title}"
+	task.592C93A84EBA755B.title: "{ftbquests.chapter.luv.quest38.task_+6425673119435486555.title}"
+	task.59F24DF7703134AE.title: "{ftbquests.chapter.046724C96F783FC2.quest1.task_+6481328538874098862.title}"
+	task.5A8E8F7FD742E5F1.title: "{ftbquests.chapter.2CEAD5605C416218.quest65.task_+6525310689341531633.title}"
+	task.5AD80B6DF8A5239A.title: "{ftbquests.chapter.2CEAD5605C416218.quest48.task_+6545994625333928858.title}"
+	task.5B8A5BDECFF3AC38.title: "{ftbquests.chapter.tetra.quest8.task_+6596185616767233080.title}"
+	task.5C0ADB9BDA74CA7E.title: "{ftbquests.chapter.ev.quest13.task_+6632354863687977598.title}"
+	task.5C3B8FDDB953A3EE.title: "IV奖励"
+	task.5C86EF0AFA667612.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest42.task_+6667279128798328338.title}"
+	task.5CE79CE60BD5FC4D.title: "{ftbquests.chapter.681E3140690307AA.quest1.task_+6694491882964515917.title}"
+	task.5DB8AA79C819B4F9.title: "这次，该我们自己创造符文了"
+	task.5E79AAD336CDA6A4.title: "可出口物品"
+	task.5EBD7EB07F576D60.title: "{ftbquests.chapter.4EE5451097565A1A.quest28.task_+6826751906679319904.title}"
+	task.5F11DC70504FBF29.title: "{ftbquests.chapter.028AB66FF504A9BC.quest22.task_+6850498883149086505.title}"
+	task.60059BE037BB4CEE.title: "{ftbquests.chapter.0C47ABD5DF78C460.quest8.task_+6919107789834636526.title}"
+	task.60457371B764CB97.title: "UHV阶段"
+	task.607BD27AEF3590CA.title: "{ftbquests.chapter.4EE5451097565A1A.quest17.task_+6952381875217600714.title}"
+	task.6147405E44AAA165.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest66.task_+7009642118648602981.title}"
+	task.61D5802D4311F02B.title: "{ftbquests.chapter.62876F01654DC6E9.quest55.task_+7049681723605512235.title}"
+	task.61EC645BB32B1B3C.title: "Any #functionalstorage:drawer"
+	task.6344812C1EC2C585.title: "{ftbquests.chapter.681E3140690307AA.quest7.task_+7152984134665815429.title}"
+	task.6348C18E6134F96F.title: "{ftbquests.chapter.ev.quest101.task_+7154180825338411375.title}"
+	task.647C516FB78EF9CA.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest8.task_+7240751841167735242.title}"
+	task.64A12577E02E56F8.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest6.task_+7251118071835678456.title}"
+	task.64B1AF9334CE5D7E.title: "{ftbquests.chapter.4EE5451097565A1A.quest29.task_+7255773521451572606.title}"
+	task.665D099AB64C3841.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest87.task_+7376062324790802497.title}"
+	task.6697A33D7EF89AC1.title: "{ftbquests.chapter.4EE5451097565A1A.quest2.task_+7392556797870512833.title}"
+	task.677C0A38D1E70213.title: "{ftbquests.chapter.596370001FE6E99B.quest12.task_+7456846322174722579.title}"
+	task.68233A92F4015C0B.title: "{ftbquests.chapter.046724C96F783FC2.quest16.task_+7503905806962744331.title}"
+	task.686C86F01CDB3AD7.title: "{ftbquests.chapter.681E3140690307AA.quest20.task_+7524537443263658711.title}"
+	task.68C070A961DB9C10.title: "魔力发电机器注意事项"
+	task.69CF2D0D3FD64B97.title: "{ftbquests.chapter.4EE5451097565A1A.quest7.task_+7624362229090372503.title}"
+	task.6A0A6B2BC679BEB1.title: "{ftbquests.chapter.15B8D9F4A2A19BFA.quest27.task_+7641037553545100977.title}"
+	task.6A77E25CAB924BFF.title: "{ftbquests.chapter.596370001FE6E99B.quest1.task_+7671849377892289535.title}"
+	task.6BBC98D7EA0A55A3.title: "{ftbquests.chapter.596370001FE6E99B.quest19.task_+7763247910791828899.title}"
+	task.6C391EC8C667D5DC.title: "{ftbquests.chapter.4EE5451097565A1A.quest20.task_+7798298077439710684.title}"
+	task.6C6E2BB3058E8CF8.title: "{ftbquests.chapter.62876F01654DC6E9.quest15.task_+7813230451426757880.title}"
+	task.6D4F708CBB645DBC.title: "HV奖励"
+	task.6D79914F4BB39979.title: "{ftbquests.chapter.36A2F40CC894ECAF.quest8.task_+7888495992074639737.title}"
+	task.6DCCEE8C8B46D79D.title: "{ftbquests.chapter.62876F01654DC6E9.quest83.task_+7911960932782626717.title}"
+	task.6EBAF6A09667A116.title: "？？？"
+	task.6F7812986A136456.title: "跑动"
+	task.706418CF350C03A8.title: "{ftbquests.chapter.iv.quest111.task_+8098625308146271144.title}"
+	task.706C3B2E90BABEDF.title: "LUV奖励"
+	task.70C579FCC8D07B66.title: "{ftbquests.chapter.4EE5451097565A1A.quest27.task_+8126035229267753830.title}"
+	task.712977A6ABFE69A9.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest73.task_+8154180158064847273.title}"
+	task.71DB850D53782BB8.title: "{ftbquests.chapter.2CEAD5605C416218.quest21.task_+8204297438466943928.title}"
+	task.724ECC0E66F3958A.title: "{ftbquests.chapter.71282A84EFB2E6DD.quest50.task_+8236745130736063882.title}"
+	task.731CCACD685E2B96.title: "{ftbquests.chapter.2CEAD5605C416218.quest1.task_+8294727597277719446.title}"
+	task.7397B9E592EFAEEA.title: "Tetra"
+	task.73AEFABF6318C55A.title: "{ftbquests.chapter.596370001FE6E99B.quest17.task_+8335875660217632090.title}"
+	task.74AC1AB43328B3C5.title: "{ftbquests.chapter.hv.quest19.task_+8407123965648614341.title}"
+	task.75EBDFEBF3875A93.title: "{ftbquests.chapter.iv.quest49.task_+8497131326460615315.title}"
+	task.769EA6C19BD809A8.title: "{ftbquests.chapter.luv.quest35.task_+8547452493269305768.title}"
+	task.76ACB90D245912C2.title: "{ftbquests.chapter.4EE5451097565A1A.quest22.task_+8551413258565259970.title}"
+	task.76C87089D1F759EE.title: "{ftbquests.chapter.028AB66FF504A9BC.quest29.task_+8559214829053106670.title}"
+	task.786AC43ACCC0C0BE.title: "{ftbquests.chapter.2CEAD5605C416218.quest2.task_+8676963388905013438.title}"
+	task.7A5A97AB1BB3689E.title: "{ftbquests.chapter.4EE5451097565A1A.quest10.task_+8816525981691111582.title}"
+	task.7BC81251362B50A0.title: "{ftbquests.chapter.4408EF6F9E2E1624.quest77.task_+8919399202017726624.title}"
+	task.7CCB2A5C53D2CDFE.title: "{ftbquests.chapter.hv.quest5.task_+8992327657007009278.title}"
+	task.7CCD6181C62D45E7.title: "{ftbquests.chapter.4EE5451097565A1A.quest15.task_+8992951240932279783.title}"
+	task.7D1A0417E6B4D745.title: "UXV阶段"
+	task.7D2EED24BEC795CC.title: "{ftbquests.chapter.4EE5451097565A1A.quest31.task_+9020407845745038796.title}"
+	task.7D464D8C24E2F3AF.title: "{ftbquests.chapter.lv.quest28.task_+9026987767420351407.title}"
+	task.7E5B4FBDD76E3820.title: "{ftbquests.chapter.4EE5451097565A1A.quest8.task_+9104958748441327648.title}"
+	task.7F84E8F8FCE98B8F.title: "{ftbquests.chapter.ev.quest16.task_+9188725295835351951.title}"
+}
