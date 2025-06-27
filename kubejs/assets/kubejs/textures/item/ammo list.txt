@@ -1,0 +1,39 @@
+Item.of('tacz:ammo', '{AmmoId:"tacz:9mm"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:45acp"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:46x30"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:556x45"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:762x54"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:762x39"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:762x25"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:357mag"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:58x42"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:30_06"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:68x51fury"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:50ae"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:50bmg"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:57x28"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:308"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:12g"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:45_70"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:338"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:rpg_rocket"}')
+Item.of('tacz:ammo', '{AmmoId:"tacz:40mm"}')]
+
+9mm n
+45acp n
+46x30 n
+556x45 n
+762x54 n
+762x39 n
+762x25 n
+357mag n
+58x42 n
+30_06 n
+68x51fury n
+50ae lapis
+50bmg lapis+blaze(use glow)
+57x28 lapis
+308 lapis
+12g iron(use zinc)
+45_70 lapis
+338 lapis
