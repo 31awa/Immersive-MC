@@ -13,30 +13,64 @@
 	id: "47D00A00E25AD8D8"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		description: ["你不可能手搓子弹的,&n但机器也许可以"]
-		icon: {
-			Count: 1
-			id: "tacz:ammo"
-			tag: {
-				AmmoId: "tacz:9mm"
+	quests: [
+		{
+			description: ["还在手搓?哥们,我们应该进入工业时代了."]
+			icon: {
+				Count: 1
+				id: "tacz:ammo"
+				tag: {
+					AmmoId: "tacz:9mm"
+				}
 			}
+			id: "5E1169E5F7A913F7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C8066C5BD505DDC"
+				table_id: 977711337528686912L
+				type: "choice"
+			}]
+			subtitle: "工业比手工厉害,这是无可质疑的"
+			tasks: [{
+				id: "6F86E7E056AA613A"
+				type: "checkmark"
+			}]
+			title: "工业才是王道!"
+			x: -2.5d
+			y: -2.0d
 		}
-		id: "5E1169E5F7A913F7"
-		rewards: [{
-			exclude_from_claim_all: true
-			id: "4C8066C5BD505DDC"
-			table_id: 977711337528686912L
-			type: "choice"
-		}]
-		subtitle: "神奇之手不存在了..."
-		tasks: [{
-			id: "6F86E7E056AA613A"
-			type: "checkmark"
-		}]
-		title: "工业道路"
-		x: -2.5d
-		y: -2.0d
-	}]
+		{
+			description: ["在你毫无发展的时候,也许一把剑就是你保身的不错选择"]
+			id: "3D6FC221429BE6A2"
+			rewards: [
+				{
+					count: 10
+					id: "6C67E1F76DC7C724"
+					item: "minecraft:oak_planks"
+					type: "item"
+				}
+				{
+					id: "20DD6EC77FC7D186"
+					item: "minecraft:stick"
+					type: "item"
+				}
+			]
+			subtitle: "廉价,好用,而且帅!"
+			tasks: [{
+				id: "2A94A1F037F0047D"
+				item: {
+					Count: 1
+					id: "tacz:workbench_b"
+					tag: {
+						BlockId: "lrtactical:smith_table"
+					}
+				}
+				type: "item"
+			}]
+			title: "谁说冷兵器一无所用?"
+			x: -0.5d
+			y: -2.0d
+		}
+	]
 	title: "子弹工厂"
 }

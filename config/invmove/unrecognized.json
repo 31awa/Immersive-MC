@@ -11,11 +11,29 @@
     "net.minecraft.client.gui.screens.ConfirmScreen": true,
     "com.alrex.parcool.client.gui.SettingActionLimitationScreen": true,
     "mezz.jei.gui.recipes.RecipesGui": true,
-    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true,
+    "zombie_extreme.client.gui.TrashBucketGUIScreen": true,
+    "zombie_extreme.client.gui.DeadBodyGUIScreen": true,
+    "zombie_extreme.client.gui.FridgeGUIScreen": true,
+    "com.simibubi.create.foundation.ponder.ui.PonderUI": true,
+    "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
+    "com.tacz.guns.client.gui.GunSmithTableScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.model.MaidModelGui": true,
+    "zombie_extreme.client.gui.VendingMachineGUIScreen": true,
+    "zombie_extreme.client.gui.MedicalBoxGUIScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
     "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "zombie_extreme.client.gui.TrashBucketGUIScreen": true,
+    "zombie_extreme.client.gui.DeadBodyGUIScreen": true,
+    "zombie_extreme.client.gui.FridgeGUIScreen": true,
+    "com.tacz.guns.client.gui.GunSmithTableScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.model.MaidModelGui": true,
+    "zombie_extreme.client.gui.VendingMachineGUIScreen": true,
+    "zombie_extreme.client.gui.MedicalBoxGUIScreen": true
   }
 }

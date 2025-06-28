@@ -16,16 +16,88 @@
   },
   "structures": {
     "structures": {
-      "iceandfire:mausoleum": {
+      "explorify:dark_forest_settlements": {
         "spacing": 32,
-        "separation": 12,
-        "salt": 14200531,
+        "separation": 16,
+        "salt": 10128856,
         "disabled": false
       },
-      "explorify:supply_caches": {
+      "betterdungeons:zombie_dungeons": {
+        "spacing": 48,
+        "separation": 24,
+        "salt": 280667671,
+        "disabled": false
+      },
+      "explorify:taverns": {
+        "spacing": 36,
+        "separation": 18,
+        "salt": 15731481,
+        "disabled": false
+      },
+      "minecraft:ocean_monuments": {
         "spacing": 32,
+        "separation": 5,
+        "salt": 10387313,
+        "disabled": false
+      },
+      "explorify:ruins": {
+        "spacing": 48,
+        "separation": 24,
+        "salt": 1428017473,
+        "disabled": false
+      },
+      "minecraft:mineshafts": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
+        "disabled": false
+      },
+      "terralith:rubble": {
+        "spacing": 18,
+        "separation": 12,
+        "salt": 920145,
+        "disabled": false
+      },
+      "betterwitchhuts:witch_hut": {
+        "spacing": 30,
+        "separation": 8,
+        "salt": 79297177,
+        "disabled": false
+      },
+      "wythers:villages": {
+        "spacing": 16,
+        "separation": 4,
+        "salt": 10387312,
+        "disabled": false
+      },
+      "betteroceanmonuments:ocean_monument": {
+        "spacing": 50,
         "separation": 20,
-        "salt": 12413523,
+        "salt": 784827271,
+        "disabled": false
+      },
+      "zombie_extreme:caffe": {
+        "spacing": 18,
+        "separation": 8,
+        "salt": 1015531354,
+        "disabled": false
+      },
+      "iceandfire:gorgon_temple": {
+        "spacing": 32,
+        "separation": 12,
+        "salt": 76489509,
+        "disabled": false
+      },
+      "minecraft:woodland_mansions": {
+        "spacing": 80,
+        "separation": 20,
+        "salt": 10387319,
+        "disabled": false
+      },
+      "towns_and_towers:towns": {
+        "spacing": 51,
+        "separation": 12,
+        "salt": 213742069,
         "disabled": false
       },
       "iceandfire:fire_dragon_roost": {
@@ -34,10 +106,298 @@
         "salt": 3747893,
         "disabled": false
       },
-      "zombie_extreme:caffe": {
-        "spacing": 18,
+      "iceandfire:myrmex_hive_jungle": {
+        "spacing": 24,
+        "separation": 12,
+        "salt": 12873732,
+        "disabled": false
+      },
+      "iceandfire:siren_island": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 9810327,
+        "disabled": false
+      },
+      "wythers:baobab_savanna": {
+        "spacing": 16,
         "separation": 8,
-        "salt": 1015531354,
+        "salt": 10387312,
+        "disabled": false
+      },
+      "unwrecked_ships:ship": {
+        "spacing": 60,
+        "separation": 1,
+        "salt": 37839181,
+        "disabled": false
+      },
+      "towns_and_towers:other": {
+        "spacing": 32,
+        "separation": 16,
+        "salt": 213742069,
+        "disabled": false
+      },
+      "minecraft:ruined_portals": {
+        "spacing": 40,
+        "separation": 15,
+        "salt": 34222645,
+        "disabled": false
+      },
+      "zombie_extreme:build_1": {
+        "spacing": 16,
+        "separation": 2,
+        "salt": 1693616117,
+        "disabled": false
+      },
+      "towns_and_towers:towers": {
+        "spacing": 48,
+        "separation": 12,
+        "salt": 213742069,
+        "disabled": false
+      },
+      "terralith:rare_dungeon": {
+        "spacing": 36,
+        "separation": 18,
+        "salt": 1368854222,
+        "disabled": false
+      },
+      "iceandfire:cyclops_cave": {
+        "spacing": 10,
+        "separation": 6,
+        "salt": 7407930,
+        "disabled": false
+      },
+      "iceandfire:ice_dragon_roost": {
+        "spacing": 18,
+        "separation": 12,
+        "salt": 1897443,
+        "disabled": false
+      },
+      "minecraft:ancient_cities": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 20083232,
+        "disabled": false
+      },
+      "betterjungletemples:jungle_temples": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 996971851,
+        "disabled": false
+      },
+      "dungeons_arise:minor_structures": {
+        "spacing": 35,
+        "separation": 25,
+        "salt": 342415935,
+        "disabled": false
+      },
+      "minecraft:buried_treasures": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
+        "disabled": false
+      },
+      "tacz_npc:duty": {
+        "spacing": 16,
+        "separation": 12,
+        "salt": 389564243,
+        "disabled": false
+      },
+      "iceandfire:pixie_village": {
+        "spacing": 12,
+        "separation": 8,
+        "salt": 7407930,
+        "disabled": false
+      },
+      "minecraft:villages": {
+        "spacing": 34,
+        "separation": 8,
+        "salt": 10387312,
+        "disabled": false
+      },
+      "minecraft:jungle_temples": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357619,
+        "disabled": false
+      },
+      "terralith:regular": {
+        "spacing": 27,
+        "separation": 15,
+        "salt": 2358902,
+        "disabled": false
+      },
+      "minecraft:shipwrecks": {
+        "spacing": 24,
+        "separation": 4,
+        "salt": 165745295,
+        "disabled": false
+      },
+      "minecraft:igloos": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357618,
+        "disabled": false
+      },
+      "iceandfire:graveyard": {
+        "spacing": 28,
+        "separation": 14,
+        "salt": 44712661,
+        "disabled": false
+      },
+      "explorify:mausoleums": {
+        "spacing": 48,
+        "separation": 16,
+        "salt": 535694654,
+        "disabled": false
+      },
+      "betterdeserttemples:desert_temples": {
+        "spacing": 30,
+        "separation": 20,
+        "salt": 92746251,
+        "disabled": false
+      },
+      "antiquetradingship:antique_trading_ship": {
+        "spacing": 50,
+        "separation": 35,
+        "salt": 1304155118,
+        "disabled": false
+      },
+      "explorify:guide_posts": {
+        "spacing": 32,
+        "separation": 10,
+        "salt": 31205983,
+        "disabled": false
+      },
+      "minecraft:pillager_outposts": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 165745296,
+        "disabled": false
+      },
+      "explorify:badlands_pyramids": {
+        "spacing": 32,
+        "separation": 12,
+        "salt": 63294721,
+        "disabled": false
+      },
+      "bettermineshafts:mineshafts": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 593751784,
+        "disabled": false
+      },
+      "iceandfire:lightning_dragon_cave": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 8901237,
+        "disabled": false
+      },
+      "explorify:farmsteads": {
+        "spacing": 38,
+        "separation": 28,
+        "salt": 70128199,
+        "disabled": false
+      },
+      "minecraft:ocean_ruins": {
+        "spacing": 20,
+        "separation": 8,
+        "salt": 14357621,
+        "disabled": false
+      },
+      "terralith:underground": {
+        "spacing": 11,
+        "separation": 3,
+        "salt": 838677219,
+        "disabled": false
+      },
+      "iceandfire:mausoleum": {
+        "spacing": 32,
+        "separation": 12,
+        "salt": 14200531,
+        "disabled": false
+      },
+      "iceandfire:fire_dragon_cave": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 7824162,
+        "disabled": false
+      },
+      "explorify:supply_caches": {
+        "spacing": 32,
+        "separation": 20,
+        "salt": 12413523,
+        "disabled": false
+      },
+      "dungeons_arise_seven_seas:minor_structures": {
+        "spacing": 68,
+        "separation": 60,
+        "salt": 98123789,
+        "disabled": false
+      },
+      "terralith:rare_village": {
+        "spacing": 46,
+        "separation": 18,
+        "salt": 1798451114,
+        "disabled": false
+      },
+      "minecraft:desert_pyramids": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357617,
+        "disabled": false
+      },
+      "zombie_extreme:ruin_3": {
+        "spacing": 8,
+        "separation": 3,
+        "salt": 208905223,
+        "disabled": false
+      },
+      "explorify:desert_shrines": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 89294828,
+        "disabled": false
+      },
+      "betterwitchhuts:witch_circle": {
+        "spacing": 40,
+        "separation": 10,
+        "salt": 19797254,
+        "disabled": false
+      },
+      "wythers:banyan_sparse_jungle": {
+        "spacing": 8,
+        "separation": 4,
+        "salt": 10387312,
+        "disabled": false
+      },
+      "explorify:campsites": {
+        "spacing": 32,
+        "separation": 16,
+        "salt": 51363271,
+        "disabled": false
+      },
+      "iceandfire:ice_dragon_cave": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 14032493,
+        "disabled": false
+      },
+      "iceandfire:myrmex_hive_desert": {
+        "spacing": 24,
+        "separation": 12,
+        "salt": 14200531,
+        "disabled": false
+      },
+      "zombie_extreme:ruin_5": {
+        "spacing": 12,
+        "separation": 5,
+        "salt": 209289972,
+        "disabled": false
+      },
+      "explorify:mangrove_huts": {
+        "spacing": 28,
+        "separation": 12,
+        "salt": 2063493658,
         "disabled": false
       },
       "minecraft:swamp_huts": {
@@ -52,184 +412,10 @@
         "salt": 10387312,
         "disabled": false
       },
-      "iceandfire:fire_dragon_cave": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 7824162,
-        "disabled": false
-      },
-      "explorify:farmsteads": {
-        "spacing": 38,
-        "separation": 28,
-        "salt": 70128199,
-        "disabled": false
-      },
-      "betteroceanmonuments:ocean_monument": {
-        "spacing": 50,
-        "separation": 20,
-        "salt": 784827271,
-        "disabled": false
-      },
-      "terralith:regular": {
-        "spacing": 27,
-        "separation": 15,
-        "salt": 2358902,
-        "disabled": false
-      },
       "betterstrongholds:stronghold": {
         "spacing": 85,
         "separation": 50,
         "salt": 596441294,
-        "disabled": false
-      },
-      "iceandfire:myrmex_hive_desert": {
-        "spacing": 24,
-        "separation": 12,
-        "salt": 14200531,
-        "disabled": false
-      },
-      "minecraft:mineshafts": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
-        "disabled": false
-      },
-      "betterjungletemples:jungle_temples": {
-        "spacing": 24,
-        "separation": 8,
-        "salt": 996971851,
-        "disabled": false
-      },
-      "explorify:taverns": {
-        "spacing": 36,
-        "separation": 18,
-        "salt": 15731481,
-        "disabled": false
-      },
-      "minecraft:desert_pyramids": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357617,
-        "disabled": false
-      },
-      "minecraft:igloos": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357618,
-        "disabled": false
-      },
-      "towns_and_towers:towers": {
-        "spacing": 48,
-        "separation": 12,
-        "salt": 213742069,
-        "disabled": false
-      },
-      "iceandfire:gorgon_temple": {
-        "spacing": 32,
-        "separation": 12,
-        "salt": 76489509,
-        "disabled": false
-      },
-      "iceandfire:lightning_dragon_cave": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 8901237,
-        "disabled": false
-      },
-      "terralith:rare_dungeon": {
-        "spacing": 36,
-        "separation": 18,
-        "salt": 1368854222,
-        "disabled": false
-      },
-      "betterdeserttemples:desert_temples": {
-        "spacing": 30,
-        "separation": 20,
-        "salt": 92746251,
-        "disabled": false
-      },
-      "betterwitchhuts:witch_hut": {
-        "spacing": 30,
-        "separation": 8,
-        "salt": 79297177,
-        "disabled": false
-      },
-      "minecraft:ocean_ruins": {
-        "spacing": 20,
-        "separation": 8,
-        "salt": 14357621,
-        "disabled": false
-      },
-      "dungeons_arise:major_structures": {
-        "spacing": 60,
-        "separation": 50,
-        "salt": 88371663,
-        "disabled": false
-      },
-      "minecraft:woodland_mansions": {
-        "spacing": 80,
-        "separation": 20,
-        "salt": 10387319,
-        "disabled": false
-      },
-      "minecraft:jungle_temples": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357619,
-        "disabled": false
-      },
-      "zombie_extreme:ruin_5": {
-        "spacing": 12,
-        "separation": 5,
-        "salt": 209289972,
-        "disabled": false
-      },
-      "iceandfire:ice_dragon_cave": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 14032493,
-        "disabled": false
-      },
-      "zombie_extreme:ruin_4": {
-        "spacing": 12,
-        "separation": 3,
-        "salt": 208712849,
-        "disabled": false
-      },
-      "explorify:badlands_pyramids": {
-        "spacing": 32,
-        "separation": 12,
-        "salt": 63294721,
-        "disabled": false
-      },
-      "terralith:rare_village": {
-        "spacing": 46,
-        "separation": 18,
-        "salt": 1798451114,
-        "disabled": false
-      },
-      "betterdungeons:skeleton_dungeons": {
-        "spacing": 46,
-        "separation": 23,
-        "salt": 732581671,
-        "disabled": false
-      },
-      "minecraft:trail_ruins": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 83469867,
-        "disabled": false
-      },
-      "wythers:banyan_sparse_jungle": {
-        "spacing": 8,
-        "separation": 4,
-        "salt": 10387312,
-        "disabled": false
-      },
-      "wythers:villages": {
-        "spacing": 16,
-        "separation": 4,
-        "salt": 10387312,
         "disabled": false
       },
       "zombie_extreme:gas_station_1": {
@@ -238,88 +424,10 @@
         "salt": 1939418462,
         "disabled": false
       },
-      "explorify:desert_shrines": {
-        "spacing": 24,
-        "separation": 8,
-        "salt": 89294828,
-        "disabled": false
-      },
-      "explorify:mausoleums": {
-        "spacing": 48,
-        "separation": 16,
-        "salt": 535694654,
-        "disabled": false
-      },
-      "betterwitchhuts:witch_circle": {
-        "spacing": 40,
-        "separation": 10,
-        "salt": 19797254,
-        "disabled": false
-      },
-      "iceandfire:siren_island": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 9810327,
-        "disabled": false
-      },
-      "terralith:rubble": {
-        "spacing": 18,
-        "separation": 12,
-        "salt": 920145,
-        "disabled": false
-      },
-      "iceandfire:hydra_cave": {
+      "betterdungeons:small_dungeons": {
         "spacing": 10,
         "separation": 6,
-        "salt": 8903243,
-        "disabled": false
-      },
-      "iceandfire:pixie_village": {
-        "spacing": 12,
-        "separation": 8,
-        "salt": 7407930,
-        "disabled": false
-      },
-      "explorify:campsites": {
-        "spacing": 32,
-        "separation": 16,
-        "salt": 51363271,
-        "disabled": false
-      },
-      "explorify:dark_forest_settlements": {
-        "spacing": 32,
-        "separation": 16,
-        "salt": 10128856,
-        "disabled": false
-      },
-      "explorify:watchtowers": {
-        "spacing": 48,
-        "separation": 24,
-        "salt": 17906333,
-        "disabled": false
-      },
-      "zombie_extreme:ruin_3": {
-        "spacing": 8,
-        "separation": 3,
-        "salt": 208905223,
-        "disabled": false
-      },
-      "minecraft:pillager_outposts": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 165745296,
-        "disabled": false
-      },
-      "dungeons_arise:minor_structures": {
-        "spacing": 35,
-        "separation": 25,
-        "salt": 342415935,
-        "disabled": false
-      },
-      "minecraft:ruined_portals": {
-        "spacing": 40,
-        "separation": 15,
-        "salt": 34222645,
+        "salt": 34239823,
         "disabled": false
       },
       "zombie_extreme:light_house": {
@@ -328,52 +436,28 @@
         "salt": 1246365966,
         "disabled": false
       },
-      "minecraft:villages": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 10387312,
-        "disabled": false
-      },
-      "minecraft:shipwrecks": {
-        "spacing": 24,
-        "separation": 4,
-        "salt": 165745295,
-        "disabled": false
-      },
-      "iceandfire:myrmex_hive_jungle": {
-        "spacing": 24,
-        "separation": 12,
-        "salt": 12873732,
-        "disabled": false
-      },
-      "betterdungeons:zombie_dungeons": {
-        "spacing": 48,
-        "separation": 24,
-        "salt": 280667671,
-        "disabled": false
-      },
-      "explorify:ruins": {
-        "spacing": 48,
-        "separation": 24,
-        "salt": 1428017473,
-        "disabled": false
-      },
       "betterdungeons:spider_dungeons": {
         "spacing": 44,
         "separation": 22,
         "salt": 596523129,
         "disabled": false
       },
-      "dungeons_arise_seven_seas:minor_structures": {
-        "spacing": 68,
-        "separation": 60,
-        "salt": 98123789,
+      "dungeons_arise:major_structures": {
+        "spacing": 60,
+        "separation": 50,
+        "salt": 88371663,
         "disabled": false
       },
-      "wythers:baobab_savanna": {
-        "spacing": 16,
+      "minecraft:trail_ruins": {
+        "spacing": 34,
         "separation": 8,
-        "salt": 10387312,
+        "salt": 83469867,
+        "disabled": false
+      },
+      "iceandfire:hydra_cave": {
+        "spacing": 10,
+        "separation": 6,
+        "salt": 8903243,
         "disabled": false
       },
       "wetland_whimsy:wetland_ruins": {
@@ -382,76 +466,22 @@
         "salt": 1918171615,
         "disabled": false
       },
-      "explorify:mangrove_huts": {
-        "spacing": 28,
-        "separation": 12,
-        "salt": 2063493658,
-        "disabled": false
-      },
-      "minecraft:ancient_cities": {
-        "spacing": 24,
-        "separation": 8,
-        "salt": 20083232,
-        "disabled": false
-      },
-      "iceandfire:ice_dragon_roost": {
-        "spacing": 18,
-        "separation": 12,
-        "salt": 1897443,
-        "disabled": false
-      },
-      "antiquetradingship:antique_trading_ship": {
-        "spacing": 50,
-        "separation": 35,
-        "salt": 1304155118,
-        "disabled": false
-      },
-      "unwrecked_ships:ship": {
-        "spacing": 60,
-        "separation": 1,
-        "salt": 37839181,
-        "disabled": false
-      },
-      "zombie_extreme:build_1": {
-        "spacing": 16,
-        "separation": 2,
-        "salt": 1693616117,
-        "disabled": false
-      },
-      "minecraft:buried_treasures": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
-        "disabled": false
-      },
       "zombie_extreme:modern_house_1": {
         "spacing": 28,
         "separation": 9,
         "salt": 346288076,
         "disabled": false
       },
-      "minecraft:ocean_monuments": {
-        "spacing": 32,
-        "separation": 5,
-        "salt": 10387313,
+      "explorify:watchtowers": {
+        "spacing": 48,
+        "separation": 24,
+        "salt": 17906333,
         "disabled": false
       },
-      "bettermineshafts:mineshafts": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 593751784,
-        "disabled": false
-      },
-      "explorify:guide_posts": {
-        "spacing": 32,
-        "separation": 10,
-        "salt": 31205983,
-        "disabled": false
-      },
-      "towns_and_towers:towns": {
-        "spacing": 51,
-        "separation": 12,
-        "salt": 213742069,
+      "zombie_extreme:ruin_4": {
+        "spacing": 12,
+        "separation": 3,
+        "salt": 208712849,
         "disabled": false
       },
       "iceandfire:lightning_dragon_roost": {
@@ -460,34 +490,10 @@
         "salt": 9031232,
         "disabled": false
       },
-      "iceandfire:cyclops_cave": {
-        "spacing": 10,
-        "separation": 6,
-        "salt": 7407930,
-        "disabled": false
-      },
-      "terralith:underground": {
-        "spacing": 11,
-        "separation": 3,
-        "salt": 838677219,
-        "disabled": false
-      },
-      "betterdungeons:small_dungeons": {
-        "spacing": 10,
-        "separation": 6,
-        "salt": 34239823,
-        "disabled": false
-      },
-      "towns_and_towers:other": {
-        "spacing": 32,
-        "separation": 16,
-        "salt": 213742069,
-        "disabled": false
-      },
-      "iceandfire:graveyard": {
-        "spacing": 28,
-        "separation": 14,
-        "salt": 44712661,
+      "betterdungeons:skeleton_dungeons": {
+        "spacing": 46,
+        "separation": 23,
+        "salt": 732581671,
         "disabled": false
       }
     }
@@ -509,16 +515,16 @@
   },
   "terrain": {
     "torridonian": {
-      "weight": 3.7757733,
+      "weight": 2.2036083,
       "baseScale": 1.0,
       "verticalScale": 1.0,
       "horizontalScale": 1.0
     },
     "mountains": {
-      "weight": 2.7448454,
-      "baseScale": 1.0747423,
-      "verticalScale": 1.3917526,
-      "horizontalScale": 1.8814433
+      "weight": 2.5386598,
+      "baseScale": 1.1469072,
+      "verticalScale": 2.1262887,
+      "horizontalScale": 2.5257733
     },
     "volcano": {
       "weight": 7.5,
@@ -539,7 +545,7 @@
       "horizontalScale": 1.0
     },
     "plains": {
-      "weight": 2.164,
+      "weight": 1.2757732,
       "baseScale": 1.0,
       "verticalScale": 0.96649486,
       "horizontalScale": 3.5180411
@@ -557,14 +563,14 @@
       "horizontalScale": 1.0
     },
     "general": {
-      "globalHorizontalScale": 1.175,
+      "globalHorizontalScale": 1.2960825,
       "fancyMountains": false,
       "terrainSeedOffset": 0,
       "terrainRegionSize": 5000,
       "globalVerticalScale": 1.0
     },
     "steppe": {
-      "weight": 1.519,
+      "weight": 1.9201031,
       "baseScale": 1.0,
       "verticalScale": 1.0,
       "horizontalScale": 1.0

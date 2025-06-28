@@ -10,6 +10,7 @@
   "vanillaHandsSkipSwimming": true,
   "autoVanillaHands": [
     "create:potato_cannon",
+    "lrtactical:melee",
     "create:handheld_worldshaper",
     "twilightforest:filled_ore_map",
     "map_atlases:atlas",

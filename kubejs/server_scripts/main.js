@@ -341,3 +341,12 @@ ServerEvents.recipes(event => {
 		event.recipes.createPressing('kubejs:incompleted_40mm', 'kubejs:incompleted_40mm'),
 	]).transitionalItem('kubejs:incompleted_40mm').loops(1) // set the transitional item and the number of loops
 })
+
+//ban掉子弹装配台
+ServerEvents.recipes(event => {
+event.remove({id: 'tacz:ammo_workbench'})
+})
+
+ServerEvents.recipes(event => {
+event.remove({id: 'cib:cib_printer_bullet'})
+})

@@ -170,10 +170,10 @@
     }
   },
   "pickup": {
-    "customPickup": false,
+    "customPickup": true,
     "pickupWhenSneaking": true,
     "pickupNormally": false,
-    "maximumPickupRange": 5,
+    "maximumPickupRange": 10,
     "hitboxIncrease": 0.2,
     "alwaysPickup": {
       "entries": [],

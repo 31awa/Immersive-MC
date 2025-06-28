@@ -65,6 +65,9 @@
     "maid": true,
     "shrine_lamp": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -83,5 +86,8 @@
   "iceandfire": {
     "multipart": true,
     "dragon": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }
