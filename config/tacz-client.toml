@@ -9,10 +9,10 @@
 
 [render]
 	#Whether or not apply fadeout effect on the laser beam. Close this may improve laser performance under some shaders.
-	EnableLaserFadeOut = true
+	EnableLaserFadeOut = false
 	#How far to display the lod model, 0 means always display
 	#Range: > 0
-	GunLodRenderDistance = 0
+	GunLodRenderDistance = 10
 	#The existence time of bullet hole particles, in tick
 	#Range: > 0
 	BulletHoleParticleLife = 400
@@ -28,7 +28,7 @@
 	#Whether or not to display the head shot's hitbox
 	HeadShotDebugHitbox = false
 	#Whether or not to display the gun's HUD
-	GunHUDEnable = true
+	GunHUDEnable = false
 	#Whether or not to display the kill amount
 	KillAmountEnable = true
 	#The duration of the kill amount, in second
@@ -45,7 +45,7 @@
 	#Range: > 10
 	DamageCounterResetTime = 2000
 	#Disable the fov effect from the movement speed attribute while holding a gun
-	DisableMovementAttributeFov = true
+	DisableMovementAttributeFov = false
 	#Enable the display of the TACZ ID in the tooltip when Advanced Tooltip is enabled
 	EnableTaczIdInTooltip = true
 

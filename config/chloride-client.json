@@ -20,7 +20,7 @@
   "itemNametagRendering": true,
   "chunkFadeSpeed": "SLOW",
   "darknessMode": "VANILLA",
-  "darknessOnOverworld": true,
+  "darknessOnOverworld": false,
   "darknessOnNether": false,
   "darknessNetherFogBright": 0.5,
   "darknessOnEnd": false,

@@ -21,7 +21,28 @@
     "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
     "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.model.MaidModelGui": true,
     "zombie_extreme.client.gui.VendingMachineGUIScreen": true,
-    "zombie_extreme.client.gui.MedicalBoxGUIScreen": true
+    "zombie_extreme.client.gui.MedicalBoxGUIScreen": true,
+    "zombie_extreme.client.gui.DecomposingBackpackGUIScreen": true,
+    "zombie_extreme.client.gui.BirdsnestGUIScreen": true,
+    "com.alrex.parcool.client.gui.SettingEnumConfigScreen": true,
+    "com.alrex.parcool.client.gui.SettingBooleanConfigScreen": true,
+    "com.alrex.parcool.client.gui.SettingShowLimitationsScreen": true,
+    "net.minecraft.client.gui.screens.OptionsScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "loaderCommon.forge.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true,
+    "net.minecraftforge.client.gui.ModListScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseAdditionalScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,
+    "net.minecraft.client.gui.screens.controls.ControlsScreen": true,
+    "net.minecraft.client.gui.screens.controls.KeyBindsScreen": true,
+    "org.valkyrienskies.eureka.gui.shiphelm.ShipHelmScreen": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "com.xtracr.realcamera.gui.ModelViewScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -34,6 +55,15 @@
     "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
     "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.model.MaidModelGui": true,
     "zombie_extreme.client.gui.VendingMachineGUIScreen": true,
-    "zombie_extreme.client.gui.MedicalBoxGUIScreen": true
+    "zombie_extreme.client.gui.MedicalBoxGUIScreen": true,
+    "zombie_extreme.client.gui.DecomposingBackpackGUIScreen": true,
+    "zombie_extreme.client.gui.BirdsnestGUIScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseAdditionalScreen": true,
+    "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,
+    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
+    "com.xtracr.realcamera.gui.ModelViewScreen": true
   }
 }

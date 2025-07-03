@@ -71,6 +71,111 @@
 			x: -0.5d
 			y: -2.0d
 		}
+		{
+			id: "05E42285B750BE80"
+			rewards: [{
+				id: "65CD37027118B3EE"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A5EE8FA0AE5F4BB"
+				item: "create:precision_mechanism"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "5334E76A09042DF8"
+			tasks: [{
+				id: "360027AEF62C27E3"
+				item: "createoreexcavation:vein_finder"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"05E42285B750BE80"
+				"2EFA3F5CEEA9C595"
+			]
+			id: "119B67E077FB99AF"
+			tasks: [{
+				id: "569D922EDC6032D1"
+				item: "createoreexcavation:drilling_machine"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "2EFA3F5CEEA9C595"
+			tasks: [{
+				id: "3BD35A43B33A9F57"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "3892563E84B8F439"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "4FE561A98A615C3F"
+				type: "dimension"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			id: "0B3F8B0F4D8E8487"
+			tasks: [{
+				id: "62457CAE231125C1"
+				item: "minecraft:blaze_powder"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["119B67E077FB99AF"]
+			id: "5A90D45E8A0E587F"
+			tasks: [{
+				id: "401735620CBCC400"
+				item: "create:raw_zinc"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["119B67E077FB99AF"]
+			id: "2395601B59BA228D"
+			tasks: [{
+				id: "6BF95A6884BBE455"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"2395601B59BA228D"
+				"5A90D45E8A0E587F"
+			]
+			id: "57B991B3DD086F02"
+			tasks: [{
+				id: "4D73E3C797CE43E5"
+				item: "create:brass_ingot"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
 	]
 	title: "子弹工厂"
 }
