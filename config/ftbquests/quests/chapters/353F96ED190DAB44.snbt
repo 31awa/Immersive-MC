@@ -1,0 +1,58 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "353F96ED190DAB44"
+	group: ""
+	icon: "tconstruct:crafting_station"
+	id: "353F96ED190DAB44"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["如你所见,原版的工具合成被移除,但我们还有匠魂!"]
+			icon: "tconstruct:crafting_station"
+			id: "57786DB4FE2653C3"
+			subtitle: "完全的自定义!"
+			tasks: [{
+				id: "03EDEE108F815F1F"
+				title: "匠心制作"
+				type: "checkmark"
+			}]
+			title: "匠心制作"
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			description: ["你们\"三\""]
+			id: "3C0E41448453F2DF"
+			rewards: [{
+				count: 16
+				id: "007925F184E0940C"
+				item: "tconstruct:pattern"
+				type: "item"
+			}]
+			subtitle: "匠魂也有\"三大\""
+			tasks: [
+				{
+					id: "00144BBCD971B008"
+					item: "tconstruct:tinker_station"
+					type: "item"
+				}
+				{
+					id: "1AE05E38CA9D796C"
+					item: "tconstruct:part_builder"
+					type: "item"
+				}
+				{
+					id: "42D5110456EDC3FA"
+					item: "tconstruct:crafting_station"
+					type: "item"
+				}
+			]
+			title: "一家子就要整整齐齐"
+			x: 3.0d
+			y: -0.5d
+		}
+	]
+	title: "匠魂"
+}

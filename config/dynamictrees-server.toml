@@ -29,7 +29,7 @@ growthFolding = 400
 	maxTreeHardness = 20.0
 	#A multiplier of tree hardness. Higher values make trees slower to chop, lower values makes them faster to chop.
 	#Range: 0.0078125 ~ 32.0
-	treeHardnessMultiplier = 1.0
+	treeHardnessMultiplier = 0.5
 	#If enabled then sticks will be dropped for partial logs
 	dropSticks = true
 	#Scales the growth for the environment.  0.5f is nominal. 0.0 trees only grow in their native biome. 1.0 trees grow anywhere like they are in their native biome
@@ -52,7 +52,7 @@ growthFolding = 400
 	boneMealGrowthPulses = 1
 	#Factor that multiplies the rate at which trees grow. Use at own risk
 	#Range: 0.0 ~ 16.0
-	growthMultiplier = 0.5
+	growthMultiplier = 1.3
 	#Factor that multiplies the wood returned from harvesting a tree.  You cheat.
 	#Range: 0.0 ~ 128.0
 	harvestMultiplier = 1.0

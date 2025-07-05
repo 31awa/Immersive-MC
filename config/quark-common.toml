@@ -529,7 +529,7 @@
 	"Hoe Harvesting" = true
 	"Horses Swim" = true
 	"Improved Sponges" = true
-	"Lock Rotation" = true
+	"Lock Rotation" = false
 	"Magma Keeps Concrete Powder" = true
 	"Map Washing" = true
 	"More Banner Layers" = true
@@ -573,7 +573,7 @@
 
 	[tweaks.compasses_work_everywhere]
 		"Enable Compass Nerf" = true
-		"Enable Clock Nerf" = true
+		"Enable Clock Nerf" = false
 		"Enable Nether" = true
 		"Enable End" = true
 

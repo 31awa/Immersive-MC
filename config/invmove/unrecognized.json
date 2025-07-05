@@ -42,7 +42,28 @@
     "org.valkyrienskies.eureka.gui.shiphelm.ShipHelmScreen": true,
     "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
     "com.xtracr.realcamera.gui.ModelViewScreen": true,
-    "xaero.common.gui.GuiMinimapMain": true
+    "xaero.common.gui.GuiMinimapMain": true,
+    "ichttt.mods.firstaid.client.gui.GuiHealthScreen": true,
+    "ichttt.mods.firstaid.client.tutorial.GuiTutorial": true,
+    "immersive_aircraft.client.gui.VehicleScreen": true,
+    "com.tacz.guns.client.gui.GunRefitScreen": true,
+    "net.minecraft.client.gui.screens.AccessibilityOptionsScreen": true,
+    "net.createmod.ponder.foundation.ui.PonderUI": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaeroplus.feature.extensions.GuiXaeroPlusWorldMapSettings": true,
+    "xaero.common.gui.GuiMinimapViewSettings": true,
+    "xaero.common.gui.GuiMinimapBlockMapSettings": true,
+    "xaero.common.gui.GuiEditMode": true,
+    "xaero.common.gui.GuiEntityRadarSettings": true,
+    "net.minecraft.client.gui.screens.ChatOptionsScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true,
+    "slimeknights.tconstruct.tables.client.inventory.TinkerStationScreen": true,
+    "slimeknights.tconstruct.tables.client.inventory.PartBuilderScreen": true,
+    "slimeknights.tconstruct.tables.client.inventory.CraftingStationScreen": true,
+    "slimeknights.mantle.client.screen.book.BookScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -64,6 +85,13 @@
     "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": true,
     "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,
     "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": true,
-    "com.xtracr.realcamera.gui.ModelViewScreen": true
+    "com.xtracr.realcamera.gui.ModelViewScreen": true,
+    "ichttt.mods.firstaid.client.gui.GuiHealthScreen": true,
+    "immersive_aircraft.client.gui.VehicleScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true,
+    "slimeknights.tconstruct.tables.client.inventory.TinkerStationScreen": true,
+    "slimeknights.tconstruct.tables.client.inventory.PartBuilderScreen": true,
+    "slimeknights.tconstruct.tables.client.inventory.CraftingStationScreen": true
   }
 }

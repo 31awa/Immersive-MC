@@ -1,0 +1,129 @@
+type = fancymenu_layout
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = josh_hutcherson
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 8f584679-e334-40d5-a0ab-7f6bc194e7251701938428844
+  y = 258
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = a3297e92-926a-4512-a3e1-3f46d6ed73411701938428844
+  y = 167
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 0b5e5c74-b3c5-4224-962c-5aa2c58f85241701938428844
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-left
+  splash_color = #ffff00
+  hidden = false
+  x = 405
+  width = 60
+  splash_rotation = -15
+  action = deep_customization_element:title_screen_splash
+  actionid = 1f512b22-8e56-44b6-8ae5-85fda39ca8801701938428844
+  y = -53
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 507faf2c-36a6-4370-89fb-db9318fd70531701939232746
+  y = 0
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 3dbdfbce-02be-46a0-8ebc-0573c1c251e31701939234305
+  y = 0
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  audio_source:e45e2dad-cdcc-4db9-9b46-b9a7f862496a1701941106291 = config/fancymenu/slideshows/josh_hutcherson/Whistle by Joel Merry.ogg;EXTERNAL_LOCAL;100;0
+  orientation = top-left
+  audio_source:3977297c-497e-4876-af55-b9c85846b3671701939295455 = config/fancymenu/slideshows/josh_hutcherson/menu1.ogg;EXTERNAL_LOCAL;100;0
+  loop = true
+  channel = master
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 450a3b89-fb21-4822-ba19-7fcfcf8d05ee1701939235127
+  y = -1
+  once_per_session = false
+  height = 50
+}
+
+customization {
+  path = config/fancymenu/slideshows/josh_hutcherson/2.png
+  orientation = top-left
+  x = 68
+  width = 354
+  action = addtexture
+  actionid = 2eae5e8d-1983-40fe-84dd-2084ee19f67f1701941366227
+  y = -2
+  height = 102
+}
+
+customization {
+  path = config/fancymenu/slideshows/josh_hutcherson/menutext.png
+  orientation = top-left
+  x = 67
+  width = 355
+  action = addtexture
+  actionid = 0f8e6349-72de-409d-a706-746f0a0d99e31701941942355
+  y = -2
+  height = 101
+}
+

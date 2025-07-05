@@ -16,7 +16,7 @@
 [XP] Disable Waypoint Sharing:false
 [XP] Disable Xaero Internet Access:true
 [XP] Drawing Opacity:150.0
-[XP] Expanded Setting Entries:false
+[XP] Expanded Setting Entries:true
 [XP] Fast Mapping:false
 [XP] Fast Mapping Delay:250.0
 [XP] Fast Mapping Rate Limit:25.0

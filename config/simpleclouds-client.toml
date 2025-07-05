@@ -48,7 +48,7 @@ showVivecraftNotice = true
 [visual]
 	#Specifies if normals should be applied to each individual cube in the cloud which applies a bit of shading per cube face. Helps distinguish each individual cube in a cloud.
 	#Default: false
-	cubeNormals = false
+	cubeNormals = true
 	#Specifies if minimal shading should be applied to clouds. May cause performance drops
 	#Requires restart.
 	#Default: true
@@ -86,7 +86,7 @@ showVivecraftNotice = true
 	levelOfDetail = "HIGH"
 	#Culls cloud chunks not visible to the player. Generally should not be disabled, but can fix visual issues when looking around fast with higher frames per mesh generation values.
 	#Default: true
-	frustumCulling = true
+	frustumCulling = false
 	#Toggles lightning flashes that can be seen in storm fog. Disabling can lead to potential performance gains when lightning spawns.
 	#Default: true
 	stormFogLightningFlashes = true
