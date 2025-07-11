@@ -56,11 +56,11 @@
 
 [Animations]
 	#Enable custom animations
-	enable_animation = true
+	enable_animation = false
 	#Enable custom animation of falling
 	enable_falling_animation = true
 	#Enable lean animation while FastRun
-	enable_lean_animation_fast_run = true
+	enable_lean_animation_fast_run = false
 	#Enable first-person-view animations
 	enable_fpv_animation = false
 	#Enable rotation of camera by Dodge
@@ -201,7 +201,7 @@
 	#Caution : Max stamina and stamina recovery config is removed because they became attributes.
 	#Infinite Stamina (this needs a permission from server, even if it is on single player's game. normally permitted)
 	#Please check 'parcool-server.toml' in 'serverconfig' directory
-	infinite_stamina = false
+	infinite_stamina = true
 	#Enable slowing down of stamina exhaustion
 	enable_stamina_exhaustion_penalty = true
 	#Infinite Stamina while player is creative mode

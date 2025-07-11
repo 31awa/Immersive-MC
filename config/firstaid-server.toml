@@ -3,32 +3,32 @@
 ["Damage System"]
 	#Max health of the Head
 	#Range: 2 ~ 12
-	maxHealthHead = 4
+	maxHealthHead = 6
 	#Max health of the Left Arm
 	#Range: 2 ~ 12
-	maxHealthLeft_Arm = 4
+	maxHealthLeft_Arm = 5
 	#Max health of the Left Leg
 	#Range: 2 ~ 12
-	maxHealthLeft_Leg = 4
+	maxHealthLeft_Leg = 5
 	#Max health of the Left Foot
 	#Range: 2 ~ 12
-	maxHealthLeft_Foot = 4
+	maxHealthLeft_Foot = 5
 	#Max health of the Body
 	#Range: 2 ~ 12
 	maxHealthBody = 6
 	#Max health of the Right Arm
 	#Range: 2 ~ 12
-	maxHealthRight_Arm = 4
+	maxHealthRight_Arm = 6
 	#Max health of the Right Leg
 	#Range: 2 ~ 12
-	maxHealthRight_Leg = 4
+	maxHealthRight_Leg = 6
 	#Max health of the Right Foot
 	#Range: 2 ~ 12
-	maxHealthRight_Foot = 4
+	maxHealthRight_Foot = 5
 	#True if the head can cause death if health drops to 0
-	causeDeathHead = true
+	causeDeathHead = false
 	#True if the body can cause death if health drops to 0
-	causeDeathBody = true
+	causeDeathBody = false
 
 ["Locational Armor"]
 
@@ -122,7 +122,7 @@
 	otherRegenMultiplier = 0.75
 	#The value vanilla's natural regeneration will be multiplied with. Has no effect if "allowNaturalRegeneration" is disabled
 	#Range: 0.0 ~ 20.0
-	naturalRegenMultiplier = 0.5
+	naturalRegenMultiplier = 1
 	#Specifies how the vanilla resistance potion effect should reduce damage.
 	#By default, one level of resistance reduces 20% of damage. Changing this value to e.g. 10 will reduce the reduction to 10% damage reduction per level
 	#Range: 1 ~ 40
@@ -142,7 +142,7 @@
 	vanillaHealthCalculation = "AVERAGE_ALL"
 	#If enabled, the default random damage distribution will be changed to leave critical limbs at 1hp if possible.
 	#When there is too much damage, the damage will still kill the player. Other distributions that defined are not affected by this.
-	useFriendlyRandomDistribution = false
+	useFriendlyRandomDistribution = true
 	#If set to LOCAL_ENCHANTMENTS, only the enchantments for the armor for the body part that is currently being damaged is taken into account. The strength of the armor is multiplied by 4 (default value, can be changed by enchantmentMultiplier), so it matches the vanilla default
 	#If set to GLOBAL_ENCHANTMENTS, the enchantments of all armor pieces are taken into account for all body parts that have any kind of armor.
 	#Allowed Values: GLOBAL_ENCHANTMENTS, LOCAL_ENCHANTMENTS

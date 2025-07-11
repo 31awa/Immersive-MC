@@ -6,10 +6,10 @@ importantInfo = true
 #Range: > 1
 finiteAmountBase = 1000
 #Veins infinite by default
-defaultInfinite = true
+defaultInfinite = false
 #Max number of extractor per ore vein, Set to 0 for infinite
 #Range: 0 ~ 64
-maxExtractorsPerVein = 0
+maxExtractorsPerVein = 5
 #Vein Finder 'Found Nearby' range in chunks
 #Range: 1 ~ 8
 veinFinderNear = 1

@@ -83,11 +83,17 @@
     "rooty": true,
     "branch": true
   },
+  "waystones": {
+    "waystone": true
+  },
   "iceandfire": {
     "multipart": true,
     "dragon": true
   },
   "corpse": {
     "corpse": true
+  },
+  "balm": {
+    "jade": true
   }
 }

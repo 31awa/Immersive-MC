@@ -6,37 +6,89 @@
 	id: "2A50313DD6BA5155"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		description: [
-			"吼!死了啦!"
-			"不过好消息是,&n你的快捷栏是你的保险\"箱\", "
-			"里面的东西死亡后不会掉落."
-		]
-		icon: "minecraft:chest"
-		id: "7D16C98D0ECAA150"
-		rewards: [{
-			count: 10
-			id: "69CF3DE13745B207"
-			item: "minecraft:torch"
-			type: "item"
-		}]
-		subtitle: "我们mc也有自己的保险"
-		tasks: [
-			{
-				id: "5996E7E5F854F6D3"
-				type: "checkmark"
-			}
-			{
-				icon: "minecraft:chest"
-				id: "46492DA968D68821"
-				stat: "minecraft:deaths"
-				type: "stat"
-				value: 1
-			}
-		]
-		title: "保险"
-		x: -1.0d
-		y: -2.0d
-	}]
+	quests: [
+		{
+			description: [
+				"你的快捷栏和你的主副手是你的保险\"箱\","
+				"里面的东西死亡后不会掉落."
+			]
+			icon: "minecraft:chest"
+			id: "7D16C98D0ECAA150"
+			rewards: [{
+				count: 10
+				id: "69CF3DE13745B207"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			subtitle: "我们mc也有自己的保险"
+			tasks: [
+				{
+					id: "5996E7E5F854F6D3"
+					type: "checkmark"
+				}
+				{
+					icon: "minecraft:chest"
+					id: "46492DA968D68821"
+					stat: "minecraft:deaths"
+					type: "stat"
+					value: 1
+				}
+			]
+			title: "保险"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"你的生命值被拆成各部分"
+				"如果你的部分生命值较低,你会得到debuff"
+				"你可以通过饱食度回复"
+				"或者使用绷带等消耗品"
+			]
+			id: "3AD511368BCB4A2E"
+			rewards: [
+				{
+					count: 16
+					id: "1AEB4E84324DA313"
+					item: "firstaid:bandage"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "095E22053FE5741E"
+					item: "minecraft:cooked_beef"
+					type: "item"
+				}
+			]
+			subtitle: "塔可夫生命值买家秀"
+			tasks: [{
+				id: "2522A267698BAE31"
+				item: "firstaid:bandage"
+				type: "item"
+			}]
+			title: "身体生命"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			description: ["你可以使用任意木板来合成橡木木板"]
+			id: "7D841259C30A9AAB"
+			rewards: [{
+				count: 10
+				id: "18BD4E5778D0EF96"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			subtitle: "简直是魔法"
+			tasks: [{
+				id: "289E08A74E9EA3C7"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			title: "木板变种"
+			x: -1.0d
+			y: 0.0d
+		}
+	]
 	title: "生存"
 }

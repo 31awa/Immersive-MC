@@ -63,7 +63,25 @@
     "slimeknights.tconstruct.tables.client.inventory.TinkerStationScreen": true,
     "slimeknights.tconstruct.tables.client.inventory.PartBuilderScreen": true,
     "slimeknights.tconstruct.tables.client.inventory.CraftingStationScreen": true,
-    "slimeknights.mantle.client.screen.book.BookScreen": true
+    "slimeknights.mantle.client.screen.book.BookScreen": true,
+    "yesman.epicfight.client.gui.screen.SkillBookScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.task.DefaultMaidTaskConfigGui": true,
+    "com.elfmcys.yesstevemodel.oOOO0oOOOO00O00O00oooOO0": true,
+    "com.elfmcys.yesstevemodel.oO0o0o0Oo0oo0o000oO00OOO": true,
+    "yesman.epicfight.client.gui.screen.SkillEditScreen": true,
+    "com.elfmcys.yesstevemodel.OOO0o0OO000OOOooOoOooO0o": true,
+    "com.elfmcys.yesstevemodel.ooo0oo00o000o000oo00oOOo": true,
+    "slimeknights.tconstruct.smeltery.client.screen.MelterScreen": true,
+    "slimeknights.tconstruct.smeltery.client.screen.HeatingStructureScreen": true,
+    "snownee.jade.gui.HomeConfigScreen": true,
+    "dev.tr7zw.trender.gui.client.AbstractConfigScreen$1": true,
+    "com.iafenvoy.jupiter.render.screen.ConfigSelectScreen": true,
+    "com.iafenvoy.jupiter.render.screen.ServerConfigScreen": true,
+    "com.tom.storagemod.gui.StorageTerminalScreen": true,
+    "slimeknights.mantle.client.screen.BackgroundContainerScreen": true,
+    "net.minecraft.client.gui.screens.MouseSettingsScreen": true,
+    "com.tom.storagemod.gui.CraftingTerminalScreen": true,
+    "com.elfmcys.yesstevemodel.o0o0o0OooOOOOOOOOOoO0Ooo": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -92,6 +110,14 @@
     "de.maxhenkel.corpse.gui.DeathHistoryScreen": true,
     "slimeknights.tconstruct.tables.client.inventory.TinkerStationScreen": true,
     "slimeknights.tconstruct.tables.client.inventory.PartBuilderScreen": true,
-    "slimeknights.tconstruct.tables.client.inventory.CraftingStationScreen": true
+    "slimeknights.tconstruct.tables.client.inventory.CraftingStationScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.task.DefaultMaidTaskConfigGui": true,
+    "com.elfmcys.yesstevemodel.oOOO0oOOOO00O00O00oooOO0": true,
+    "com.elfmcys.yesstevemodel.oO0o0o0Oo0oo0o000oO00OOO": true,
+    "slimeknights.tconstruct.smeltery.client.screen.MelterScreen": true,
+    "slimeknights.tconstruct.smeltery.client.screen.HeatingStructureScreen": true,
+    "com.tom.storagemod.gui.StorageTerminalScreen": true,
+    "slimeknights.mantle.client.screen.BackgroundContainerScreen": true,
+    "com.tom.storagemod.gui.CraftingTerminalScreen": true
   }
 }

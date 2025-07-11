@@ -71,8 +71,8 @@
     "iceandfire.deathworm.attackMonsters": true
   },
   "cockatrice": {
-    "iceandfire.cockatrice.spawn": true,
-    "iceandfire.cockatrice.spawnWeight": 1,
+    "iceandfire.cockatrice.spawn": false,
+    "iceandfire.cockatrice.spawnWeight": 0,
     "iceandfire.cockatrice.chickenSearchLength": 32,
     "iceandfire.cockatrice.eggChance": 0.03333333333333333,
     "iceandfire.cockatrice.maxHealth": 40.0,

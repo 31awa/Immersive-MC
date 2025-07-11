@@ -15,7 +15,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["还在手搓?哥们,我们应该进入工业时代了."]
+			description: ["tacz的弹药合成台被ban掉了,你只能通过机械动力的序列化流程来制作子弹"]
 			icon: {
 				Count: 1
 				id: "tacz:ammo"
@@ -72,109 +72,57 @@
 			y: -2.0d
 		}
 		{
-			id: "05E42285B750BE80"
-			rewards: [{
-				id: "65CD37027118B3EE"
-				item: "create:precision_mechanism"
-				type: "item"
-			}]
+			id: "187A0F1D9C34FFAB"
+			subtitle: "太好了,是彈殼!"
 			tasks: [{
-				id: "1A5EE8FA0AE5F4BB"
-				item: "create:precision_mechanism"
-				type: "item"
-			}]
-			x: -2.5d
-			y: 0.0d
-		}
-		{
-			id: "5334E76A09042DF8"
-			tasks: [{
-				id: "360027AEF62C27E3"
-				item: "createoreexcavation:vein_finder"
-				type: "item"
-			}]
-			x: -4.5d
-			y: 0.0d
-		}
-		{
-			dependencies: [
-				"05E42285B750BE80"
-				"2EFA3F5CEEA9C595"
-			]
-			id: "119B67E077FB99AF"
-			tasks: [{
-				id: "569D922EDC6032D1"
-				item: "createoreexcavation:drilling_machine"
+				id: "7AF724AEE67660D0"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						display: {
+							Name: "{\"text\":\"弹壳\"}"
+						}
+						"ftbfiltersystem:filter": "mod(kubejs)not(item(kubejs:mine_travelling_block))not(item(kubejs:home_block))not(item(kubejs:incompleted_ammo))not(item(kubejs:incompleted_rocket))not(item(kubejs:incompleted_40mm))not(item(kubejs:rocket))not(item(kubejs:40mm))not(item(kubejs:steel_plate))"
+					}
+				}
 				type: "item"
 			}]
 			x: -2.5d
-			y: 2.0d
+			y: 0.5d
 		}
 		{
-			id: "2EFA3F5CEEA9C595"
+			dependencies: ["187A0F1D9C34FFAB"]
+			id: "01832F9C23C610DB"
+			subtitle: "太好了,是子彈!"
 			tasks: [{
-				id: "3BD35A43B33A9F57"
-				item: "create:mechanical_crafter"
-				type: "item"
-			}]
-			x: -0.5d
-			y: 2.0d
-		}
-		{
-			id: "3892563E84B8F439"
-			tasks: [{
-				dimension: "minecraft:the_nether"
-				id: "4FE561A98A615C3F"
-				type: "dimension"
-			}]
-			x: -6.5d
-			y: 2.0d
-		}
-		{
-			id: "0B3F8B0F4D8E8487"
-			tasks: [{
-				id: "62457CAE231125C1"
-				item: "minecraft:blaze_powder"
-				type: "item"
-			}]
-			x: -6.5d
-			y: 4.0d
-		}
-		{
-			dependencies: ["119B67E077FB99AF"]
-			id: "5A90D45E8A0E587F"
-			tasks: [{
-				id: "401735620CBCC400"
-				item: "create:raw_zinc"
-				type: "item"
-			}]
-			x: -4.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["119B67E077FB99AF"]
-			id: "2395601B59BA228D"
-			tasks: [{
-				id: "6BF95A6884BBE455"
-				item: "minecraft:raw_copper"
-				type: "item"
-			}]
-			x: -1.0d
-			y: 4.0d
-		}
-		{
-			dependencies: [
-				"2395601B59BA228D"
-				"5A90D45E8A0E587F"
-			]
-			id: "57B991B3DD086F02"
-			tasks: [{
-				id: "4D73E3C797CE43E5"
-				item: "create:brass_ingot"
+				id: "1210DD9A836BD21F"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						display: {
+							Name: "{\"text\":\"子弹\"}"
+						}
+						"ftbfiltersystem:filter": "item(tacz:ammo)not(nbt(fuzzy:{AmmoId:\"cib:error\"}))"
+					}
+				}
 				type: "item"
 			}]
 			x: -2.5d
-			y: 6.0d
+			y: 5.0d
+		}
+		{
+			description: ["利用石磨,你可以把圆石最后磨成燧石,利用这个可以大大减轻你制作火药的工作量"]
+			id: "17F6284C2200AD28"
+			subtitle: "磨成粉"
+			tasks: [{
+				id: "683C539EF42CEC94"
+				item: "create:millstone"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
 		}
 	]
 	title: "子弹工厂"

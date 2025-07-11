@@ -1,5 +1,5 @@
 {
-  "maxPhysicsObjects": 10000,
+  "maxPhysicsObjects": 2467,
   "particleLifetimeVines": 4.0,
   "particleLifetimeItems": 3.0,
   "particleLifetimeParticles": 0.1,
@@ -86,8 +86,8 @@
   "smokeOther": 1.0,
   "smokeShadowTransformer": 3,
   "maxLoadedDynamicBlocks": 20,
-  "windPhysics": true,
-  "weatherParticles": true,
+  "windPhysics": false,
+  "weatherParticles": false,
   "weatherClearStrength": 0.1,
   "weatherRainStrength": 1.0,
   "weatherThunderStrength": 1.4,

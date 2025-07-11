@@ -1,3 +1,5 @@
+#物品优化设置| Item Optimization Settings
+OpenIO = true
 
 ["FPS Settings"]
 	#Enable FPS reduction when window is inactive
@@ -168,4 +170,8 @@
 	modBlacklist = []
 	#启用严格的类存在检查 (推荐关闭为稳定性) | Enable strict class existence checking (recommended for stability)
 	strictClassChecking = false
+
+["Metal Renderer Configuration"]
+	#Force Metal renderer even on non-Mac systems
+	forceMetal = false
 

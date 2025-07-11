@@ -18,3 +18,4 @@ craftingTable.remove(<item:minecraft:wooden_axe>);
 craftingTable.remove(<item:minecraft:wooden_pickaxe>);
 craftingTable.remove(<item:minecraft:wooden_shovel>);
 craftingTable.remove(<item:minecraft:wooden_sword>);
+craftingTable.addShapeless("wood", <item:minecraft:oak_planks>, [<tag:items:minecraft:planks>]);

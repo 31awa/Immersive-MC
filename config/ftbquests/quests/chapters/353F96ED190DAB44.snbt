@@ -9,7 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["如你所见,原版的工具合成被移除,但我们还有匠魂!"]
+			description: ["原版的工具合成被移除,你只可以通过匠魂来制作工具"]
 			icon: "tconstruct:crafting_station"
 			id: "57786DB4FE2653C3"
 			subtitle: "完全的自定义!"
@@ -20,10 +20,11 @@
 			}]
 			title: "匠心制作"
 			x: 3.0d
-			y: -3.5d
+			y: -2.0d
 		}
 		{
-			description: ["你们\"三\""]
+			description: ["匠魂的三大类,是你开头必不可少的方块"]
+			icon: "tconstruct:crafting_station"
 			id: "3C0E41448453F2DF"
 			rewards: [{
 				count: 16
@@ -52,6 +53,26 @@
 			title: "一家子就要整整齐齐"
 			x: 3.0d
 			y: -0.5d
+		}
+		{
+			dependencies: ["3C0E41448453F2DF"]
+			description: ["你可以制作工匠砧来扩充你的可制作工具,也是后期必不可少的方块"]
+			id: "1044D3F021F2AE65"
+			subtitle: "也许比普通的铁砧更硬?"
+			tasks: [{
+				id: "2DA80B4C5C95A5DA"
+				item: {
+					Count: 1
+					id: "tconstruct:tinkers_anvil"
+					tag: {
+						texture: "create:brass_block"
+					}
+				}
+				type: "item"
+			}]
+			title: "匠魂铁砧"
+			x: 3.0d
+			y: 1.0d
 		}
 	]
 	title: "匠魂"

@@ -13,7 +13,7 @@
 	"Shooting Judder" = 2
 
 	[HUD."Global Settings"]
-		#Crosshair RGBA HEX color, format is 0xAARRGGBB.
+		#Crosshair RGBA HEX color, format: 0xAARRGGBB.
 		#Range: > -2147483648
 		"Crosshair Color" = -419430452
 		#Range: 0 ~ 255

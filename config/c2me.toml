@@ -73,14 +73,6 @@ globalExecutorParallelism = "default"
 	# 
 	chunkStreamVersion = "default"
 
-[clientSideConfig]
-
-	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: true) Whether to modify maximum view distance
-		enabled = "default"
-		# (Default: 55) Max render distance allowed in game options
-		maxViewDistance = "default"
-
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
@@ -137,7 +129,7 @@ globalExecutorParallelism = "default"
 
 [threadedWorldGen]
 	# (Default: false) Whether to enable this feature
-	enabled = false
+	enabled = true
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
 	allowThreadedFeatures = "default"
@@ -149,4 +141,12 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	asyncScheduling = "default"
+
+[clientSideConfig]
+
+	[clientSideConfig.modifyMaxVDConfig]
+		# (Default: true) Whether to modify maximum view distance
+		enabled = "default"
+		# (Default: 54) Max render distance allowed in game options
+		maxViewDistance = "default"
 
