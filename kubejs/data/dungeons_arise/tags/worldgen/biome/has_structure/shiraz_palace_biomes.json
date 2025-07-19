@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:desert",
+    "#minecraft:has_structure/desert_pyramid",
+    "#tfc:all-no"
+
+  ]
+}
