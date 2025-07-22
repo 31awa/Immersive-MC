@@ -1,0 +1,5 @@
+{
+    "name":"枪械",  
+    "description":"有关枪械你需要知道的内容",  
+    "icon":"tacz:modern_kinetic_gun{GunId:'tacz:timeless50'}"
+}

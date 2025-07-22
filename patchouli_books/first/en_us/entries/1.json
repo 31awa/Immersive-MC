@@ -1,0 +1,10 @@
+{
+    "name":"起始",  
+    "icon":"tacz:gun_smith_table",  
+    "category":"patchouli:gun",  
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"你需要制作枪械工作台来制作$(l:gun)枪械$(),同时你也需要利用机械动力来制作你的子弹,当然,你的枪械拥有耐久度," 
+            }]
+}
