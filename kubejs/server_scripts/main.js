@@ -68,7 +68,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 5,'{AmmoId:"tacz:9mm"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 10,'{AmmoId:"tacz:9mm"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:9mm', [ // 'create:golden_sheet' is the input
 		// the transitional item set by `transitionalItem('create:incomplete_large_cogwheel')` is the item used during the intermediate stages of the assembly
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -80,7 +80,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 3,'{AmmoId:"tacz:45acp"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5,'{AmmoId:"tacz:45acp"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:45acp', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -92,7 +92,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:46x30"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:46x30"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:46x30', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -104,7 +104,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:556x45"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:556x45"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:556x45', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -116,7 +116,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:762x54"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:762x54"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:762x54', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -128,7 +128,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:762x39"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:762x39"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:762x39', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -140,7 +140,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:762x25"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:762x25"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:762x25', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -152,7 +152,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:357mag"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:357mag"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:357mag', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -164,7 +164,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:58x42"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:58x42"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:58x42', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -176,7 +176,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:30_06"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:30_06"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:30_06', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -188,7 +188,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:68x51fury"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:68x51fury"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:68x51fury', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -200,7 +200,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:50ae"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:50ae"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:50ae', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -213,7 +213,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:57x28"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:57x28"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:57x28', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -226,7 +226,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:308"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:308"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:308', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -239,7 +239,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:45_70"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:45_70"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:45_70', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -252,7 +252,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:338"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:338"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:338', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -265,7 +265,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:338"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:338"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:338', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -278,7 +278,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:338"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:338"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:338', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -291,7 +291,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:50bmg"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:50bmg"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:50bmg', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -305,7 +305,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2, '{AmmoId:"tacz:12g"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5, '{AmmoId:"tacz:12g"}').withChance(130.0),Item.of('create:brass_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:12g', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_ammo', ['kubejs:incompleted_ammo', 'minecraft:gunpowder']),
@@ -331,7 +331,7 @@ ServerEvents.recipes(event => {
 
 ServerEvents.recipes(event => {
 	event.recipes.create.sequenced_assembly([
-		Item.of('tacz:ammo', 2,'{AmmoId:"tacz:40mm"}').withChance(130.0),Item.of('kubejs:steel_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
+		Item.of('tacz:ammo', 5,'{AmmoId:"tacz:40mm"}').withChance(130.0),Item.of('kubejs:steel_sheet').withChance(8.0), // this is the item that will appear in JEI as the result
 	], 'kubejs:40mm', [ // 'create:golden_sheet' is the input
 		 
 		event.recipes.createDeploying('kubejs:incompleted_40mm', ['kubejs:incompleted_40mm', 'minecraft:gunpowder']),
@@ -370,4 +370,6 @@ event.stonecutting('kubejs:762x25','create:brass_sheet')
 event.stonecutting('kubejs:762x39','create:brass_sheet')
 event.stonecutting('kubejs:762x54','create:brass_sheet')
 event.stonecutting('kubejs:9mm','create:brass_sheet')
+event.stonecutting('kubejs:40mm','kubejs:steel_plate')
+event.stonecutting('kubejs:rocket','kubejs:steel_plate')
 })
