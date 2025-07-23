@@ -6,64 +6,64 @@ ServerEvents.recipes(event => {
 })
 
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:rocket', 'kubejs:steel_plate').processingTime(500)
+  event.recipes.create.cutting('kubejs:rocket', 'kubejs:steel_plate').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:40mm', 'kubejs:steel_plate').processingTime(500)
+  event.recipes.create.cutting('kubejs:40mm', 'kubejs:steel_plate').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:9mm', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:9mm', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:45acp', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:45acp', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:46x30', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:46x30', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:556x45', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:556x45', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:762x54', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:762x54', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:762x39', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:762x39', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:762x25', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:762x25', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:357mag', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:357mag', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:58x42', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:58x42', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:30_06', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:30_06', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:68x51fury', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:68x51fury', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:50ae', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:50ae', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:50bmg', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:50bmg', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:57x28', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:57x28', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:308', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:308', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:45_70', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:45_70', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:338', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:338', '#forge:plates/brass').processingTime(250)
 })
 ServerEvents.recipes(event => {
-  event.recipes.create.cutting('kubejs:12g', '#forge:plates/brass').processingTime(500)
+  event.recipes.create.cutting('kubejs:12g', '#forge:plates/brass').processingTime(250)
 })
 
 ServerEvents.recipes(event => {
@@ -349,4 +349,25 @@ event.remove({id: 'tacz:ammo_workbench'})
 
 ServerEvents.recipes(event => {
 event.remove({id: 'cib:cib_printer_bullet'})
+})
+
+ServerEvents.recipes(event => {
+event.stonecutting('kubejs:12g','create:brass_sheet')
+event.stonecutting('kubejs:308','create:brass_sheet')  
+event.stonecutting('kubejs:30_06','create:brass_sheet')  
+event.stonecutting('kubejs:338','create:brass_sheet')
+event.stonecutting('kubejs:357mag','create:brass_sheet')
+event.stonecutting('kubejs:45_70','create:brass_sheet')
+event.stonecutting('kubejs:45acp','create:brass_sheet')
+event.stonecutting('kubejs:46x30','create:brass_sheet')
+event.stonecutting('kubejs:50ae','create:brass_sheet')
+event.stonecutting('kubejs:50bmg','create:brass_sheet')
+event.stonecutting('kubejs:556x45','create:brass_sheet')
+event.stonecutting('kubejs:57x28','create:brass_sheet')
+event.stonecutting('kubejs:58x42','create:brass_sheet')
+event.stonecutting('kubejs:68x51fury','create:brass_sheet')
+event.stonecutting('kubejs:762x25','create:brass_sheet')
+event.stonecutting('kubejs:762x39','create:brass_sheet')
+event.stonecutting('kubejs:762x54','create:brass_sheet')
+event.stonecutting('kubejs:9mm','create:brass_sheet')
 })

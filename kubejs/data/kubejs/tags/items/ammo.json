@@ -1,0 +1,24 @@
+{
+  "values": [
+"tacz:ammo{AmmoId:'tacz:40mm'}",
+"tacz:ammo{AmmoId:'tacz:rpg_rocket'}",
+"tacz:ammo{AmmoId:'tacz:12g'}",
+"tacz:ammo{AmmoId:'tacz:50bmg'}",
+"tacz:ammo{AmmoId:'tacz:338'}",
+"tacz:ammo{AmmoId:'tacz:45_70'}",
+"tacz:ammo{AmmoId:'tacz:308'}",
+"tacz:ammo{AmmoId:'tacz:57x28'}",
+"tacz:ammo{AmmoId:'tacz:50ae'}",
+"tacz:ammo{AmmoId:'tacz:68x51fury'}",
+"tacz:ammo{AmmoId:'tacz:30_06'}",
+"tacz:ammo{AmmoId:'tacz:58x42'}",
+"tacz:ammo{AmmoId:'tacz:357mag'}",
+"tacz:ammo{AmmoId:'tacz:762x25'}",
+"tacz:ammo{AmmoId:'tacz:762x39'}",
+"tacz:ammo{AmmoId:'tacz:762x54'}",
+"tacz:ammo{AmmoId:'tacz:556x45'}",
+"tacz:ammo{AmmoId:'tacz:46x30'}",
+"tacz:ammo{AmmoId:'tacz:45acp'}",
+"tacz:ammo{AmmoId:'AmmoId:'tacz:9mm'}"
+  ]
+}
