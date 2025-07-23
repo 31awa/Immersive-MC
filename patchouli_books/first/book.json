@@ -1,6 +1,6 @@
 {
     "name":"平平无奇的指南", 
-    "landing_text":"这是一本有着你游玩需要的指南",  
+    "landing_text":"感谢你游玩我个人的整合包,这本书记载了你游玩整合包需要知道的内容,同时也可以当成起始的指南.如果你在游玩的时候遇到了不合理的问题/bug,请提交issue至$(l:https://bgithub.xyz/31awa/Immersive-MC/issues)这里",  
     "version":0.1,
     "creative_tab": "minecraft:tools_and_utilities",
     "use_resource_pack": true

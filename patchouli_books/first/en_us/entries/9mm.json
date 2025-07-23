@@ -1,0 +1,17 @@
+{
+    "name":"弹壳与弹药",  
+    "icon":"tacz:ammo{AmmoId:'tacz:12g'}",  
+    "category":"patchouli:gun",  
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"你无法合成子弹制作台,你需要在$(item)切石机切割黄铜来得到弹壳$().当然,$(item)你也可以使用动力锯来制作弹壳$()"
+            },
+            {
+            "type":"spotlight",
+            "item":"kubejs:12g,kubejs:308,kubejs:30_06,kubejs:338,kubejs:357mag,kubejs:40mm,kubejs:45_70,kubejs:45acp,kubejs:46x30,kubejs:50ae,kubejs:50bmg,kubejs:556x45,kubejs:57x28,kubejs:58x42,kubejs:68x51fury,kubejs:762x25,kubejs:762x54,kubejs:9mm,kubejs:rocket",
+            "title":"弹壳",
+            "text":"tips:你可以把指针放在物品上并按$(thing)$(k:jei.showRecipe)$()来显示合成表$(br2) $(#FF0000)注意:如果你不在动力锯筛选配方,那么你切出来的弹壳就是顺序的!$()"
+        }
+        ]
+}
