@@ -1,17 +1,28 @@
 {
     "name":"弹壳与弹药",  
     "icon":"tacz:ammo{AmmoId:'tacz:12g'}",  
-    "category":"patchouli:gun",  
+    "category":"patchouli:gun",
+    "sortnum":101,
     "pages":[ 
         {
             "type":"text",
-            "text":"你无法合成子弹制作台,你需要在$(item)切石机切割黄铜来得到弹壳$().当然,$(item)你也可以使用动力锯来制作弹壳$()"
+            "text":"你无法合成子弹制作台,你必须经过机械动力才可以制作子弹,你可以在$(item)切石机切割黄铜板来得到弹壳$().当然,$(item)你也可以使用动力锯切割来制作弹壳$()$(br2)$(#FF0000)注意：只有黄铜板才可以切成弹壳,黄铜薄板不能用于弹壳制作!"
             },
             {
             "type":"spotlight",
             "item":"kubejs:12g,kubejs:308,kubejs:30_06,kubejs:338,kubejs:357mag,kubejs:40mm,kubejs:45_70,kubejs:45acp,kubejs:46x30,kubejs:50ae,kubejs:50bmg,kubejs:556x45,kubejs:57x28,kubejs:58x42,kubejs:68x51fury,kubejs:762x25,kubejs:762x54,kubejs:9mm,kubejs:rocket",
             "title":"弹壳",
-            "text":"tips:你可以把指针放在物品上并按$(thing)$(k:jei.showRecipe)$()来显示合成表$(br2) $(#FF0000)注意:如果你不在动力锯筛选配方,那么你切出来的弹壳就是顺序的!$()"
+            "text":"你可以把指针放在物品上并按$(thing)$(k:jei.showRecipe)$()来显示合成表$(br2) $(#FF0000)注意:如果你不在动力锯过滤配方,那么你切出来的弹壳就是顺序的!$()"
+        },
+                {
+            "type":"text",
+            "text":"制作完弹壳后,你就可以利用$(item)机械手$()去安装$(item)火药$()与$(item)铁粒$(),这样就可以制作出子弹."
+            },
+                    {
+            "type":"spotlight",
+            "item":"tacz:ammo{AmmoId:'tacz:9mm'}",
+            "title":"子弹",
+            "text":"你可以把指针放在物品上并按$(thing)$(k:jei.showRecipe)$()来显示合成表$(br2) $(#FF0000)做流水线时记得给动力锯过滤配方!"
         }
         ]
 }

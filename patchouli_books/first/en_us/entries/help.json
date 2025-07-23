@@ -1,0 +1,11 @@
+{
+    "name":"倒地(仅限多人)",  
+    "icon":"firstaid:bandage",  
+    "category":"patchouli:first",
+    "sortnum":3,
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"$(#7a7a7a)$(o)救救我,救救我,救救我...xN$(br2)$()在你的血量耗尽后,你会进入$(thing)倒地状态$(),这时就需要$(item)其他玩家来救援$().$(br2)其他玩家可以通过对倒地的玩家按$(thing)$(k:use)$()来救援ta" 
+            }]
+}

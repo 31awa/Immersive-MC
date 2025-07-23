@@ -1,7 +1,8 @@
 {
     "name":"起始",  
     "icon":"tacz:gun_smith_table",  
-    "category":"patchouli:gun",  
+    "category":"patchouli:gun",
+    "sortnum":100,
     "pages":[ 
         {
             "type":"text",

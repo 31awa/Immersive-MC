@@ -1,0 +1,10 @@
+{
+    "name":"生命",  
+    "icon":"firstaid:plaster",  
+    "category":"patchouli:first",
+    "sortnum":1,
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"$(#7a7a7a)$(o)我是狙击手骷髅,正片开始了.headshot!$(br2)$()你的生命值被分成各部分.你可以使用按键$(k:keybinds.show_wounds)来查看个部位的生命值,当你有部位处于低血量时,你会获得$(item)负面效果$(br2)$()你可以通过$(thing)饱食度$()来恢复生命值,也可以通过绷带等$(thing)消耗品$()来恢复," 
+            }]}
