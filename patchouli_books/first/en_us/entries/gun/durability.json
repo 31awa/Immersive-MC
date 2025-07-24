@@ -1,0 +1,17 @@
+{
+    "name":"耐久",  
+    "icon":"gundurability:wd_40",  
+    "category":"patchouli:gun",
+    "sortnum":103,    
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"你的枪械拥有$(thing)耐久度(durability)$(),当你$(thing)开火$(),你枪械的$(item)耐久度就会降低$(),$(thing)你的耐久度越低,你的枪越容易卡弹$(l:gun/jam)$().$(br2)$(#FF0000)当你的枪械的耐久度为0时,你的枪械将无法开火$()$(br2)你可以在修理台$(l:gun/how-fix-gun)修复你的枪械.$()" 
+            },
+        {
+            "type":"image",
+            "images":["kubejs:textures/book/durability.png"],
+            "text":"耐久度(Durability)示例"
+        }
+        ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"其他书籍",  
+    "icon":"patchouli:guide_book",  
+    "category":"patchouli:first",
+    "sortnum":48,
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"一开始除了这本书以外,你还会获得$(thing)其它的书籍$(),在游玩前,我非常推荐你去查看这些书籍!$(br2)需要提醒的是,关于TFC生存相关的书籍不会以物品形式呈现,而是在$(thing)物品栏右侧." 
+            },
+                {
+            "type":"image",
+            "images":["kubejs:textures/book/book.png"]
+            }
+        ]
+}

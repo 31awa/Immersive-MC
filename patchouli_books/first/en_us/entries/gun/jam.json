@@ -1,0 +1,26 @@
+{
+    "name":"卡弹",  
+    "icon":"kubejs:9mm",  
+    "category":"patchouli:gun",
+    "sortnum":102,    
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"你的枪使用的时候$(thing)有几率卡弹$()卡弹时你的枪无法射击,卡弹的几率随着$(l:gun/durability)耐久度$()的$(thing)降低$()而$(item)增大$()" 
+         },
+        {
+            "type":"image",
+            "images":["kubejs:textures/book/jam.png"],
+            "text":"卡弹的提示"
+        },
+        {
+            "type":"text",
+            "text":"当你卡弹后你需要用$(item)$(k:tacz.inspect.desc)$()键$(thing)检视你的枪械$()来解决卡弹"
+        },
+        {
+            "type":"image",
+            "images":["kubejs:textures/book/jam_clear.png"],
+            "text":"解决卡弹的提示"
+        }
+        ]
+}

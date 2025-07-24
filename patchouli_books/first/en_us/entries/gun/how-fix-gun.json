@@ -1,0 +1,18 @@
+{
+    "name":"如何修复枪械",  
+    "icon":"gundurability:brass_brush",  
+    "category":"patchouli:gun",
+    "sortnum":104,
+    "pages":[ 
+        {
+            "type":"text",
+            "text":"你需要制作$(thing)修理台来修复枪械的$()$(l:gun/durability)耐久度$(),除了修理台,你还必须要制作出$(item)可用于修复的物品$()来修复.$(br2)步骤:$(br)1:打开修理台$(br)2:放上你需要修复的枪械和可用于修复的物品$(br)3:最后点击gui下面的'修复'即可" 
+            },
+            {
+            "type":"spotlight",
+            "item":"gundurability:brass_brush,gundurability:gun_barrel,gundurability:gun_bolt,gundurability:recoil_spring,gundurability:wd_40",
+            "title":"可用于修复的物品",
+            "text":"你可以把指针放在物品上并按$(thing)$(k:jei.showRecipe)$()来显示合成表$(br2)每个物品都有一定的属性,$(item)Repair:可以修复耐久的百分比$(br)Max:修复枪械需要的最大耐久度百分比$(br)Min:修复枪械需要的最小耐久度百分比$()"
+        }
+        ]
+}

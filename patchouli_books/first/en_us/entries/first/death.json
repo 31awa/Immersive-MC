@@ -1,8 +1,8 @@
 {
     "name":"死亡半保留",  
-    "icon":"patchouli:guide_book",  
+    "icon":"corpsecomplex:scroll",  
     "category":"patchouli:first",
-    "sortnum":3,
+    "sortnum":52,
     "pages":[ 
         {
             "type":"text",

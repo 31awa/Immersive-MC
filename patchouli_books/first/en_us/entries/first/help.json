@@ -2,7 +2,7 @@
     "name":"倒地(仅限多人)",  
     "icon":"firstaid:bandage",  
     "category":"patchouli:first",
-    "sortnum":3,
+    "sortnum":51,
     "pages":[ 
         {
             "type":"text",
