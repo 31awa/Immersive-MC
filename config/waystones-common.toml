@@ -27,7 +27,7 @@
 
 [worldGen]
 	#Set to 'DEFAULT' to only generate the normally textured waystones. Set to 'MOSSY' or 'SANDY' to generate all as that variant. Set to 'BIOME' to make the style depend on the biome it is generated in.
-	#Allowed Values: DEFAULT, MOSSY, SANDY, BIOME
+	#Allowed Values: DEFAULT, MOSSY, SANDY, BLACKSTONE, DEEPSLATE, END_STONE, BIOME
 	worldGenStyle = "BIOME"
 	#Approximate chunk distance between waystones generated freely in world generation. Set to 0 to disable generation.
 	frequency = 25
@@ -51,7 +51,7 @@
 	#If enabled, only the owner of a waystone (the one who placed it) can rename it.
 	restrictRenameToOwner = false
 	#If enabled, waystones generated in worldgen are unbreakable.
-	generatedWaystonesUnbreakable = false
+	generatedWaystonesUnbreakable = true
 	#If enabled, leashed mobs will be teleported with you
 	transportLeashed = true
 	#Whether to take leashed mobs with you when teleporting between dimensions
@@ -68,7 +68,7 @@
 	#Set to true if players should be able to teleport between waystones by simply right-clicking a waystone.
 	allowWaystoneToWaystoneTeleport = true
 	#Set to false to allow non-creative players to make waystones globally activated for all players.
-	globalWaystoneSetupRequiresCreativeMode = true
+	globalWaystoneSetupRequiresCreativeMode = false
 
 [client]
 	#If enabled, the text overlay on waystones will no longer always render at full brightness.

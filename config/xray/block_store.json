@@ -1,0 +1,7989 @@
+[
+  {
+    "name": "°²É½ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/andesite",
+    "order": 953,
+    "color": 8312659,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/andesite",
+    "order": 14,
+    "color": 9027321,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/chalk",
+    "order": 688,
+    "color": 15080133,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/dolomite",
+    "order": 908,
+    "color": 4465874,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/shale",
+    "order": 944,
+    "color": 12881148,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/phyllite",
+    "order": 815,
+    "color": 11123066,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/chert",
+    "order": 647,
+    "color": 13843415,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/rhyolite",
+    "order": 363,
+    "color": 3021005,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/dacite",
+    "order": 35,
+    "color": 6791235,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/gneiss",
+    "order": 737,
+    "color": 1394414,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/gneiss",
+    "order": 182,
+    "color": 7711200,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/quartzite",
+    "order": 571,
+    "color": 3900461,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/dolomite",
+    "order": 1048,
+    "color": 13758246,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/claystone",
+    "order": 168,
+    "color": 6689974,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/gabbro",
+    "order": 1023,
+    "color": 10329447,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/dolomite",
+    "order": 460,
+    "color": 3281789,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/chert",
+    "order": 132,
+    "color": 12431688,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/limestone",
+    "order": 296,
+    "color": 13221109,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/conglomerate",
+    "order": 645,
+    "color": 8701201,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/schist",
+    "order": 574,
+    "color": 2474877,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/chalk",
+    "order": 133,
+    "color": 2187118,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/diorite",
+    "order": 454,
+    "color": 4477011,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/chalk",
+    "order": 748,
+    "color": 2216780,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/gabbro",
+    "order": 86,
+    "color": 12428771,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/slate",
+    "order": 694,
+    "color": 5606396,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/gabbro",
+    "order": 963,
+    "color": 4359294,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/gabbro",
+    "order": 741,
+    "color": 11997568,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/basalt",
+    "order": 444,
+    "color": 11753377,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/diorite",
+    "order": 1122,
+    "color": 8585607,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/dacite",
+    "order": 406,
+    "color": 3401454,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/conglomerate",
+    "order": 110,
+    "color": 1284057,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/marble",
+    "order": 1140,
+    "color": 1630772,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/schist",
+    "order": 998,
+    "color": 14855942,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/claystone",
+    "order": 148,
+    "color": 15103514,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/chalk",
+    "order": 31,
+    "color": 13996193,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/granite",
+    "order": 1001,
+    "color": 12155410,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/shale",
+    "order": 436,
+    "color": 1342913,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/schist",
+    "order": 1098,
+    "color": 12872938,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/schist",
+    "order": 918,
+    "color": 678937,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/marble",
+    "order": 412,
+    "color": 8716445,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/schist",
+    "order": 450,
+    "color": 7349962,
+    "drawing": false
+  },
+  {
+    "name": "ºìÊ¯¿óÊ¯",
+    "blockName": "minecraft:redstone_ore",
+    "order": 535,
+    "color": 11254641,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/shale",
+    "order": 376,
+    "color": 14193443,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/dolomite",
+    "order": 686,
+    "color": 6657242,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/basalt",
+    "order": 484,
+    "color": 5226857,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/diorite",
+    "order": 474,
+    "color": 1395726,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/claystone",
+    "order": 985,
+    "color": 12572219,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/quartzite",
+    "order": 1135,
+    "color": 6352320,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/dacite",
+    "order": 1014,
+    "color": 15009077,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/dolomite",
+    "order": 1068,
+    "color": 7560002,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/gneiss",
+    "order": 20,
+    "color": 15806274,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/limestone",
+    "order": 7,
+    "color": 2147257,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/schist",
+    "order": 181,
+    "color": 11601364,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/schist",
+    "order": 656,
+    "color": 12040277,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/phyllite",
+    "order": 80,
+    "color": 10759395,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/basalt",
+    "order": 650,
+    "color": 11906585,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/granite",
+    "order": 901,
+    "color": 14748274,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/quartzite",
+    "order": 138,
+    "color": 6122565,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/granite",
+    "order": 248,
+    "color": 13432765,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/conglomerate",
+    "order": 90,
+    "color": 3066851,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/diorite",
+    "order": 580,
+    "color": 5257309,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/slate",
+    "order": 508,
+    "color": 4085805,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/quartzite",
+    "order": 118,
+    "color": 15536022,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/conglomerate",
+    "order": 254,
+    "color": 15401921,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/claystone",
+    "order": 1085,
+    "color": 7032022,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ãÐ¿¿óÊ¯",
+    "blockName": "create:deepslate_zinc_ore",
+    "order": 880,
+    "color": 9056662,
+    "drawing": true
+  },
+  {
+    "name": "ÀùÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/conglomerate",
+    "order": 1027,
+    "color": 686682,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/granite",
+    "order": 204,
+    "color": 1067408,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/chert",
+    "order": 949,
+    "color": 1316253,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/slate",
+    "order": 1116,
+    "color": 3664026,
+    "drawing": false
+  },
+  {
+    "name": "ÏÂ½ç½ð¿óÊ¯",
+    "blockName": "minecraft:nether_gold_ore",
+    "order": 269,
+    "color": 11997453,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/gabbro",
+    "order": 293,
+    "color": 5396147,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/dolomite",
+    "order": 233,
+    "color": 215245,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/diorite",
+    "order": 922,
+    "color": 1763422,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/chalk",
+    "order": 153,
+    "color": 11821132,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/chert",
+    "order": 30,
+    "color": 4472000,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/schist",
+    "order": 596,
+    "color": 13910490,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/phyllite",
+    "order": 287,
+    "color": 10746738,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/granite",
+    "order": 413,
+    "color": 4329028,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/marble",
+    "order": 290,
+    "color": 15287748,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/dacite",
+    "order": 672,
+    "color": 16004823,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/dolomite",
+    "order": 278,
+    "color": 16680712,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/dolomite",
+    "order": 420,
+    "color": 641092,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/slate",
+    "order": 916,
+    "color": 4790582,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/marble",
+    "order": 143,
+    "color": 755670,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/dolomite",
+    "order": 544,
+    "color": 5236108,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/rhyolite",
+    "order": 463,
+    "color": 11310275,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/conglomerate",
+    "order": 705,
+    "color": 10303216,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/chert",
+    "order": 52,
+    "color": 15016709,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/rhyolite",
+    "order": 383,
+    "color": 15737134,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/chert",
+    "order": 212,
+    "color": 13934150,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/diorite",
+    "order": 145,
+    "color": 14715077,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/basalt",
+    "order": 972,
+    "color": 16319961,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/marble",
+    "order": 41,
+    "color": 12408457,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/conglomerate",
+    "order": 1067,
+    "color": 7733849,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/gneiss",
+    "order": 877,
+    "color": 6372897,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/schist",
+    "order": 1058,
+    "color": 13497268,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/claystone",
+    "order": 275,
+    "color": 15689672,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/shale",
+    "order": 682,
+    "color": 7033645,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/schist",
+    "order": 328,
+    "color": 10188631,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/gneiss",
+    "order": 202,
+    "color": 16117896,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/chalk",
+    "order": 808,
+    "color": 10874288,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ã×êÊ¯¿óÊ¯",
+    "blockName": "minecraft:deepslate_diamond_ore",
+    "order": 225,
+    "color": 3589661,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/chalk",
+    "order": 1010,
+    "color": 14539367,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/gneiss",
+    "order": 511,
+    "color": 13049186,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/andesite",
+    "order": 385,
+    "color": 13522766,
+    "drawing": false
+  },
+  {
+    "name": "ÏÂ½çÊ¯Ó¢¿óÊ¯",
+    "blockName": "minecraft:nether_quartz_ore",
+    "order": 577,
+    "color": 2411429,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/granite",
+    "order": 2,
+    "color": 1944758,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/gabbro",
+    "order": 841,
+    "color": 5598484,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/slate",
+    "order": 956,
+    "color": 14122876,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/slate",
+    "order": 59,
+    "color": 3207395,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/diorite",
+    "order": 65,
+    "color": 2696614,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/andesite",
+    "order": 549,
+    "color": 942731,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/andesite",
+    "order": 405,
+    "color": 13997901,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/chert",
+    "order": 523,
+    "color": 5249422,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/phyllite",
+    "order": 242,
+    "color": 12596606,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/rhyolite",
+    "order": 749,
+    "color": 3189932,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/diorite",
+    "order": 414,
+    "color": 5589348,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/limestone",
+    "order": 149,
+    "color": 1616967,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/claystone",
+    "order": 357,
+    "color": 13905332,
+    "drawing": false
+  },
+  {
+    "name": "Ìú¿óÊ¯",
+    "blockName": "minecraft:iron_ore",
+    "order": 331,
+    "color": 5777361,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/claystone",
+    "order": 623,
+    "color": 15113386,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/chert",
+    "order": 1009,
+    "color": 15304705,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/diorite",
+    "order": 165,
+    "color": 11444154,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/shale",
+    "order": 622,
+    "color": 9823125,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/claystone",
+    "order": 863,
+    "color": 8755595,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/dolomite",
+    "order": 866,
+    "color": 14027656,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/phyllite",
+    "order": 180,
+    "color": 11130336,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/slate",
+    "order": 408,
+    "color": 14975235,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/limestone",
+    "order": 864,
+    "color": 11728325,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/granite",
+    "order": 759,
+    "color": 6292182,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/phyllite",
+    "order": 509,
+    "color": 8616012,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/limestone",
+    "order": 644,
+    "color": 9036184,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/gneiss",
+    "order": 329,
+    "color": 13726390,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/rhyolite",
+    "order": 729,
+    "color": 7681030,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/dacite",
+    "order": 466,
+    "color": 8830936,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/gabbro",
+    "order": 661,
+    "color": 11095899,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/chert",
+    "order": 256,
+    "color": 12733142,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/limestone",
+    "order": 458,
+    "color": 2956167,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/rhyolite",
+    "order": 891,
+    "color": 6415430,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/gabbro",
+    "order": 146,
+    "color": 12994794,
+    "drawing": false
+  },
+  {
+    "name": "Ð¿¿óÊ¯",
+    "blockName": "create:zinc_ore",
+    "order": 879,
+    "color": 4753329,
+    "drawing": true
+  },
+  {
+    "name": "¹èÖÊÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/chert",
+    "order": 607,
+    "color": 3918912,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/andesite",
+    "order": 791,
+    "color": 76519,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/claystone",
+    "order": 823,
+    "color": 8412563,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/conglomerate",
+    "order": 130,
+    "color": 11476409,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/chert",
+    "order": 152,
+    "color": 15053437,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/chalk",
+    "order": 950,
+    "color": 15231670,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/phyllite",
+    "order": 531,
+    "color": 8582129,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/diorite",
+    "order": 292,
+    "color": 16120098,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/claystone",
+    "order": 437,
+    "color": 15886650,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/granite",
+    "order": 64,
+    "color": 2625377,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/schist",
+    "order": 816,
+    "color": 8968148,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/andesite",
+    "order": 425,
+    "color": 2200083,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/shale",
+    "order": 67,
+    "color": 11020501,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/granite",
+    "order": 473,
+    "color": 13798353,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/quartzite",
+    "order": 853,
+    "color": 1664460,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/quartzite",
+    "order": 178,
+    "color": 5012597,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/diorite",
+    "order": 125,
+    "color": 4290707,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ãÂÌ±¦Ê¯¿óÊ¯",
+    "blockName": "minecraft:deepslate_emerald_ore",
+    "order": 247,
+    "color": 15294400,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/phyllite",
+    "order": 855,
+    "color": 4233412,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/shale",
+    "order": 1044,
+    "color": 4176527,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/marble",
+    "order": 103,
+    "color": 874975,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/chert",
+    "order": 361,
+    "color": 15852418,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/basalt",
+    "order": 670,
+    "color": 7851569,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/schist",
+    "order": 636,
+    "color": 1725353,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/claystone",
+    "order": 337,
+    "color": 3684375,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/phyllite",
+    "order": 409,
+    "color": 14666488,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/granite",
+    "order": 679,
+    "color": 16416477,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/slate",
+    "order": 468,
+    "color": 14088616,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/granite",
+    "order": 961,
+    "color": 1215956,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/diorite",
+    "order": 760,
+    "color": 12611586,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/rhyolite",
+    "order": 911,
+    "color": 11342409,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/marble",
+    "order": 920,
+    "color": 2203545,
+    "drawing": false
+  },
+  {
+    "name": "Ô¶¹Å²Ðº¡",
+    "blockName": "minecraft:ancient_debris",
+    "order": 578,
+    "color": 2603374,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/basalt",
+    "order": 75,
+    "color": 950460,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/limestone",
+    "order": 824,
+    "color": 14861967,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/limestone",
+    "order": 844,
+    "color": 10722560,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/gabbro",
+    "order": 1123,
+    "color": 10913564,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/phyllite",
+    "order": 917,
+    "color": 15077761,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/schist",
+    "order": 470,
+    "color": 312389,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/schist",
+    "order": 796,
+    "color": 10101079,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/basalt",
+    "order": 710,
+    "color": 2780137,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/shale",
+    "order": 518,
+    "color": 9171640,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/quartzite",
+    "order": 325,
+    "color": 13524189,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/chert",
+    "order": 234,
+    "color": 7482372,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/granite",
+    "order": 453,
+    "color": 5704649,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/dacite",
+    "order": 261,
+    "color": 10335050,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/chert",
+    "order": 172,
+    "color": 5200451,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/conglomerate",
+    "order": 1127,
+    "color": 16528155,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/quartzite",
+    "order": 1095,
+    "color": 16578587,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/basalt",
+    "order": 259,
+    "color": 6218741,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/gabbro",
+    "order": 126,
+    "color": 10255863,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/limestone",
+    "order": 926,
+    "color": 10703357,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/andesite",
+    "order": 1113,
+    "color": 13254208,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/marble",
+    "order": 1040,
+    "color": 1223260,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/dacite",
+    "order": 324,
+    "color": 4510370,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/gneiss",
+    "order": 979,
+    "color": 5534773,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/rhyolite",
+    "order": 1011,
+    "color": 15736285,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/andesite",
+    "order": 1053,
+    "color": 3053471,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/gabbro",
+    "order": 761,
+    "color": 9806415,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/basalt",
+    "order": 155,
+    "color": 3788722,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/basalt",
+    "order": 912,
+    "color": 4512906,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/shale",
+    "order": 822,
+    "color": 9664692,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/conglomerate",
+    "order": 379,
+    "color": 12607218,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/gneiss",
+    "order": 777,
+    "color": 8908039,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/slate",
+    "order": 552,
+    "color": 5477685,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/marble",
+    "order": 838,
+    "color": 3823978,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/claystone",
+    "order": 945,
+    "color": 10855362,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/claystone",
+    "order": 457,
+    "color": 2760814,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/quartzite",
+    "order": 240,
+    "color": 9829352,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/chert",
+    "order": 565,
+    "color": 12422291,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/chalk",
+    "order": 462,
+    "color": 4284536,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/gabbro",
+    "order": 1083,
+    "color": 8824812,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/conglomerate",
+    "order": 8,
+    "color": 10316621,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/slate",
+    "order": 17,
+    "color": 4708967,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/claystone",
+    "order": 188,
+    "color": 2921002,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/chalk",
+    "order": 868,
+    "color": 15576378,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/limestone",
+    "order": 378,
+    "color": 269473,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/chalk",
+    "order": 280,
+    "color": 8535146,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/phyllite",
+    "order": 715,
+    "color": 8490105,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/chalk",
+    "order": 648,
+    "color": 15282451,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/quartzite",
+    "order": 367,
+    "color": 7984732,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/chalk",
+    "order": 442,
+    "color": 15472191,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/schist",
+    "order": 243,
+    "color": 4669923,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/chert",
+    "order": 627,
+    "color": 7984582,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/basalt",
+    "order": 932,
+    "color": 3330612,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/diorite",
+    "order": 1022,
+    "color": 12499083,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/shale",
+    "order": 602,
+    "color": 4345736,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/dacite",
+    "order": 486,
+    "color": 9786701,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/limestone",
+    "order": 946,
+    "color": 8529880,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/quartzite",
+    "order": 347,
+    "color": 15759373,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/marble",
+    "order": 940,
+    "color": 12817425,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/claystone",
+    "order": 843,
+    "color": 8064789,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/dacite",
+    "order": 446,
+    "color": 2464777,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/dacite",
+    "order": 1094,
+    "color": 12108448,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/shale",
+    "order": 904,
+    "color": 15342934,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/basalt",
+    "order": 1132,
+    "color": 14296810,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/claystone",
+    "order": 48,
+    "color": 13930754,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/chalk",
+    "order": 930,
+    "color": 6774070,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/chalk",
+    "order": 362,
+    "color": 2177970,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/phyllite",
+    "order": 264,
+    "color": 569622,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/dolomite",
+    "order": 806,
+    "color": 10175323,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/basalt",
+    "order": 175,
+    "color": 2330722,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/phyllite",
+    "order": 160,
+    "color": 2672682,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/rhyolite",
+    "order": 951,
+    "color": 373961,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/gabbro",
+    "order": 66,
+    "color": 4733875,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/chalk",
+    "order": 1050,
+    "color": 4899349,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/chalk",
+    "order": 213,
+    "color": 14731103,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/quartzite",
+    "order": 1035,
+    "color": 8019726,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/conglomerate",
+    "order": 1107,
+    "color": 16230697,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/gneiss",
+    "order": 491,
+    "color": 15875921,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/quartzite",
+    "order": 1075,
+    "color": 10119834,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/diorite",
+    "order": 700,
+    "color": 6427829,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/shale",
+    "order": 540,
+    "color": 10580367,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/dacite",
+    "order": 97,
+    "color": 1290273,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/basalt",
+    "order": 237,
+    "color": 3461041,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/shale",
+    "order": 1124,
+    "color": 3508179,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/quartzite",
+    "order": 935,
+    "color": 7012759,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/gabbro",
+    "order": 539,
+    "color": 7834790,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/phyllite",
+    "order": 200,
+    "color": 5019313,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/limestone",
+    "order": 986,
+    "color": 6195219,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/dacite",
+    "order": 284,
+    "color": 12434570,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/andesite",
+    "order": 136,
+    "color": 5864148,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/dolomite",
+    "order": 666,
+    "color": 7270196,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/dacite",
+    "order": 528,
+    "color": 5266859,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/gneiss",
+    "order": 351,
+    "color": 11071577,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/dolomite",
+    "order": 846,
+    "color": 15909215,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/chalk",
+    "order": 524,
+    "color": 14826412,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/gabbro",
+    "order": 559,
+    "color": 13692414,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/chalk",
+    "order": 546,
+    "color": 2247530,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/chalk",
+    "order": 628,
+    "color": 11106902,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/basalt",
+    "order": 282,
+    "color": 9024948,
+    "drawing": false
+  },
+  {
+    "name": "Í­¿óÊ¯",
+    "blockName": "minecraft:copper_ore",
+    "order": 42,
+    "color": 12329879,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/marble",
+    "order": 618,
+    "color": 3803750,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/phyllite",
+    "order": 595,
+    "color": 6426666,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/dacite",
+    "order": 592,
+    "color": 9439198,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/dacite",
+    "order": 692,
+    "color": 6272571,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/slate",
+    "order": 936,
+    "color": 5845043,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/schist",
+    "order": 1118,
+    "color": 8833400,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/andesite",
+    "order": 116,
+    "color": 1065419,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/marble",
+    "order": 352,
+    "color": 13504233,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/dacite",
+    "order": 612,
+    "color": 8514943,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/rhyolite",
+    "order": 769,
+    "color": 15644355,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/rhyolite",
+    "order": 809,
+    "color": 8520788,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/chalk",
+    "order": 257,
+    "color": 6158941,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/andesite",
+    "order": 445,
+    "color": 541547,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/dacite",
+    "order": 1054,
+    "color": 6399450,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/phyllite",
+    "order": 615,
+    "color": 6482189,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/claystone",
+    "order": 230,
+    "color": 4585442,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/marble",
+    "order": 452,
+    "color": 1525028,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/andesite",
+    "order": 156,
+    "color": 1499371,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/granite",
+    "order": 839,
+    "color": 8431044,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/granite",
+    "order": 333,
+    "color": 10893911,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/dolomite",
+    "order": 151,
+    "color": 10137130,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/gabbro",
+    "order": 1043,
+    "color": 623151,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/marble",
+    "order": 818,
+    "color": 8205380,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/gabbro",
+    "order": 273,
+    "color": 4176039,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/granite",
+    "order": 124,
+    "color": 1816907,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/conglomerate",
+    "order": 987,
+    "color": 14533969,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/rhyolite",
+    "order": 849,
+    "color": 14280508,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/chert",
+    "order": 767,
+    "color": 6135767,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/conglomerate",
+    "order": 277,
+    "color": 1618515,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/basalt",
+    "order": 810,
+    "color": 1069933,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/limestone",
+    "order": 398,
+    "color": 7325435,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/gabbro",
+    "order": 313,
+    "color": 2237931,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/rhyolite",
+    "order": 1031,
+    "color": 14783207,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/chert",
+    "order": 545,
+    "color": 1524528,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/gneiss",
+    "order": 1079,
+    "color": 7373375,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/chert",
+    "order": 847,
+    "color": 9688718,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/granite",
+    "order": 393,
+    "color": 171551,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/slate",
+    "order": 530,
+    "color": 4904317,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/conglomerate",
+    "order": 150,
+    "color": 10834846,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/marble",
+    "order": 432,
+    "color": 5115731,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/marble",
+    "order": 878,
+    "color": 3115565,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/claystone",
+    "order": 26,
+    "color": 3149804,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/marble",
+    "order": 472,
+    "color": 11337351,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/dolomite",
+    "order": 91,
+    "color": 15093530,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/basalt",
+    "order": 730,
+    "color": 4636594,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/gneiss",
+    "order": 797,
+    "color": 13516800,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/claystone",
+    "order": 885,
+    "color": 12845921,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/dolomite",
+    "order": 888,
+    "color": 11181987,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/schist",
+    "order": 221,
+    "color": 2809142,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/shale",
+    "order": 396,
+    "color": 13986531,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/gabbro",
+    "order": 166,
+    "color": 6036759,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/slate",
+    "order": 306,
+    "color": 2508054,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/claystone",
+    "order": 763,
+    "color": 8717515,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/rhyolite",
+    "order": 32,
+    "color": 13120414,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/conglomerate",
+    "order": 479,
+    "color": 3843171,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/dolomite",
+    "order": 400,
+    "color": 15479847,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/conglomerate",
+    "order": 665,
+    "color": 545261,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/limestone",
+    "order": 520,
+    "color": 15627166,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/andesite",
+    "order": 751,
+    "color": 3160549,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/quartzite",
+    "order": 613,
+    "color": 8150072,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/limestone",
+    "order": 604,
+    "color": 6901636,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/shale",
+    "order": 984,
+    "color": 7951483,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/dolomite",
+    "order": 318,
+    "color": 10891659,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/schist",
+    "order": 554,
+    "color": 7230460,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/claystone",
+    "order": 88,
+    "color": 1972682,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/marble",
+    "order": 534,
+    "color": 16243665,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/granite",
+    "order": 579,
+    "color": 4216236,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/quartzite",
+    "order": 793,
+    "color": 1488346,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/slate",
+    "order": 734,
+    "color": 10989453,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/claystone",
+    "order": 519,
+    "color": 2902213,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/granite",
+    "order": 619,
+    "color": 4829512,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/claystone",
+    "order": 6,
+    "color": 10116055,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/slate",
+    "order": 854,
+    "color": 2368950,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/granite",
+    "order": 779,
+    "color": 5353657,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/diorite",
+    "order": 85,
+    "color": 15693448,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/dolomite",
+    "order": 928,
+    "color": 15476034,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/marble",
+    "order": 1000,
+    "color": 9497692,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/granite",
+    "order": 291,
+    "color": 8826196,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/shale",
+    "order": 762,
+    "color": 12055237,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/conglomerate",
+    "order": 967,
+    "color": 2746991,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/gneiss",
+    "order": 451,
+    "color": 8138528,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/limestone",
+    "order": 764,
+    "color": 8632059,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/shale",
+    "order": 1104,
+    "color": 13087096,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/conglomerate",
+    "order": 865,
+    "color": 10227682,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/phyllite",
+    "order": 635,
+    "color": 10882831,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/slate",
+    "order": 241,
+    "color": 12260730,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/marble",
+    "order": 392,
+    "color": 3553832,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/basalt",
+    "order": 1032,
+    "color": 13386480,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/limestone",
+    "order": 358,
+    "color": 260008,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/conglomerate",
+    "order": 785,
+    "color": 6830471,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/andesite",
+    "order": 196,
+    "color": 12513208,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/quartzite",
+    "order": 633,
+    "color": 8411792,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/rhyolite",
+    "order": 134,
+    "color": 5623100,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/slate",
+    "order": 674,
+    "color": 13313783,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/gabbro",
+    "order": 681,
+    "color": 4654613,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/phyllite",
+    "order": 389,
+    "color": 7058695,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/phyllite",
+    "order": 997,
+    "color": 3404863,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/schist",
+    "order": 490,
+    "color": 6817187,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/quartzite",
+    "order": 955,
+    "color": 1692389,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/gabbro",
+    "order": 641,
+    "color": 6612962,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/quartzite",
+    "order": 36,
+    "color": 5394622,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/slate",
+    "order": 714,
+    "color": 4177472,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/schist",
+    "order": 161,
+    "color": 7689690,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/schist",
+    "order": 350,
+    "color": 3926050,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/schist",
+    "order": 1078,
+    "color": 15107175,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/gneiss",
+    "order": 1139,
+    "color": 7765992,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/dacite",
+    "order": 1114,
+    "color": 7457916,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/dolomite",
+    "order": 360,
+    "color": 9757548,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/gabbro",
+    "order": 983,
+    "color": 15884635,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/claystone",
+    "order": 68,
+    "color": 12915746,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/shale",
+    "order": 314,
+    "color": 14099330,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/dacite",
+    "order": 974,
+    "color": 3121942,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/limestone",
+    "order": 744,
+    "color": 3026218,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/phyllite",
+    "order": 120,
+    "color": 2402769,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/basalt",
+    "order": 1012,
+    "color": 13572386,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/schist",
+    "order": 676,
+    "color": 6148378,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ãÍ­¿óÊ¯",
+    "blockName": "minecraft:deepslate_copper_ore",
+    "order": 43,
+    "color": 204526,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/quartzite",
+    "order": 873,
+    "color": 11317480,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/dacite",
+    "order": 57,
+    "color": 3921298,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/schist",
+    "order": 978,
+    "color": 5966149,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/shale",
+    "order": 251,
+    "color": 16331120,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/quartzite",
+    "order": 551,
+    "color": 12019976,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/granite",
+    "order": 1021,
+    "color": 7391134,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/basalt",
+    "order": 850,
+    "color": 4259454,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/diorite",
+    "order": 105,
+    "color": 6725904,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/diorite",
+    "order": 600,
+    "color": 994650,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/basalt",
+    "order": 750,
+    "color": 12519277,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/quartzite",
+    "order": 773,
+    "color": 6208729,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/limestone",
+    "order": 49,
+    "color": 12572964,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/granite",
+    "order": 659,
+    "color": 3742127,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/slate",
+    "order": 79,
+    "color": 12153809,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/dacite",
+    "order": 914,
+    "color": 12322128,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/rhyolite",
+    "order": 94,
+    "color": 9515477,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/marble",
+    "order": 698,
+    "color": 5816902,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/dacite",
+    "order": 570,
+    "color": 12354748,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/dacite",
+    "order": 426,
+    "color": 11319881,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/limestone",
+    "order": 478,
+    "color": 11468533,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/basalt",
+    "order": 952,
+    "color": 13086754,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/conglomerate",
+    "order": 927,
+    "color": 2230276,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/granite",
+    "order": 799,
+    "color": 5611451,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/limestone",
+    "order": 624,
+    "color": 13252183,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/diorite",
+    "order": 820,
+    "color": 5309266,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/shale",
+    "order": 87,
+    "color": 5227554,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/basalt",
+    "order": 404,
+    "color": 3945534,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ã½ð¿óÊ¯",
+    "blockName": "minecraft:deepslate_gold_ore",
+    "order": 270,
+    "color": 5906989,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/dacite",
+    "order": 994,
+    "color": 6603302,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/phyllite",
+    "order": 1037,
+    "color": 9217812,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/schist",
+    "order": 958,
+    "color": 6370134,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/basalt",
+    "order": 135,
+    "color": 1716601,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/chert",
+    "order": 727,
+    "color": 9244796,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/gabbro",
+    "order": 106,
+    "color": 5149365,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/chalk",
+    "order": 668,
+    "color": 6369012,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/shale",
+    "order": 356,
+    "color": 16554017,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/limestone",
+    "order": 724,
+    "color": 3397890,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/limestone",
+    "order": 129,
+    "color": 4561005,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/chalk",
+    "order": 53,
+    "color": 7376162,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/rhyolite",
+    "order": 869,
+    "color": 16271398,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/basalt",
+    "order": 630,
+    "color": 5733607,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/claystone",
+    "order": 128,
+    "color": 15126188,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/diorite",
+    "order": 23,
+    "color": 7715145,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/quartzite",
+    "order": 529,
+    "color": 16406627,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/diorite",
+    "order": 780,
+    "color": 15956229,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/quartzite",
+    "order": 895,
+    "color": 13164347,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/chert",
+    "order": 92,
+    "color": 15811326,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/claystone",
+    "order": 315,
+    "color": 624901,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/conglomerate",
+    "order": 459,
+    "color": 12495910,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/gneiss",
+    "order": 266,
+    "color": 3719112,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/gabbro",
+    "order": 701,
+    "color": 77590,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/limestone",
+    "order": 109,
+    "color": 15889587,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/quartzite",
+    "order": 833,
+    "color": 4858662,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/marble",
+    "order": 798,
+    "color": 11512570,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/claystone",
+    "order": 803,
+    "color": 5351283,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/quartzite",
+    "order": 507,
+    "color": 8922754,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/quartzite",
+    "order": 158,
+    "color": 9078658,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/claystone",
+    "order": 417,
+    "color": 10899599,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/phyllite",
+    "order": 977,
+    "color": 8005346,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/shale",
+    "order": 722,
+    "color": 9866427,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/gneiss",
+    "order": 222,
+    "color": 10180499,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/claystone",
+    "order": 397,
+    "color": 14253943,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/marble",
+    "order": 245,
+    "color": 3993254,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/dolomite",
+    "order": 948,
+    "color": 4088418,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/claystone",
+    "order": 603,
+    "color": 4633852,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/granite",
+    "order": 819,
+    "color": 5062142,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/marble",
+    "order": 123,
+    "color": 11597230,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/diorite",
+    "order": 860,
+    "color": 13602027,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/chalk",
+    "order": 1030,
+    "color": 12465216,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/marble",
+    "order": 738,
+    "color": 15525560,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/basalt",
+    "order": 115,
+    "color": 2116251,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/conglomerate",
+    "order": 190,
+    "color": 3294733,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/basalt",
+    "order": 1072,
+    "color": 1459554,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/rhyolite",
+    "order": 236,
+    "color": 369616,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/schist",
+    "order": 1018,
+    "color": 5485542,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/shale",
+    "order": 274,
+    "color": 2486024,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/schist",
+    "order": 532,
+    "color": 14437256,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/chalk",
+    "order": 193,
+    "color": 14474404,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/andesite",
+    "order": 34,
+    "color": 1360349,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/rhyolite",
+    "order": 174,
+    "color": 6841886,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/chert",
+    "order": 707,
+    "color": 13956032,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/marble",
+    "order": 1020,
+    "color": 5853690,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/basalt",
+    "order": 195,
+    "color": 4562160,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/shale",
+    "order": 1024,
+    "color": 1372253,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/chalk",
+    "order": 608,
+    "color": 13033419,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/conglomerate",
+    "order": 1007,
+    "color": 10633680,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/chalk",
+    "order": 73,
+    "color": 2710556,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/phyllite",
+    "order": 140,
+    "color": 2366494,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/rhyolite",
+    "order": 931,
+    "color": 33793,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/dolomite",
+    "order": 988,
+    "color": 13868640,
+    "drawing": false
+  },
+  {
+    "name": "×êÊ¯¿óÊ¯",
+    "blockName": "minecraft:diamond_ore",
+    "order": 224,
+    "color": 589495,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/dolomite",
+    "order": 29,
+    "color": 12867649,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/dolomite",
+    "order": 71,
+    "color": 14966138,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/shale",
+    "order": 147,
+    "color": 9855653,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/dolomite",
+    "order": 255,
+    "color": 3446465,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/quartzite",
+    "order": 427,
+    "color": 9941084,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/conglomerate",
+    "order": 297,
+    "color": 2929404,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/shale",
+    "order": 802,
+    "color": 2418083,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/phyllite",
+    "order": 957,
+    "color": 10148979,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/slate",
+    "order": 1056,
+    "color": 9731482,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/granite",
+    "order": 719,
+    "color": 4288763,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/dacite",
+    "order": 632,
+    "color": 7972814,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/gneiss",
+    "order": 82,
+    "color": 370887,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/rhyolite",
+    "order": 649,
+    "color": 7007125,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/gneiss",
+    "order": 939,
+    "color": 15832109,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/gabbro",
+    "order": 355,
+    "color": 4967897,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/dacite",
+    "order": 239,
+    "color": 8362287,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/phyllite",
+    "order": 775,
+    "color": 12413915,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/schist",
+    "order": 938,
+    "color": 2903335,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/gneiss",
+    "order": 391,
+    "color": 15652462,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/limestone",
+    "order": 1106,
+    "color": 15618150,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/rhyolite",
+    "order": 258,
+    "color": 5963005,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/gneiss",
+    "order": 371,
+    "color": 384012,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/phyllite",
+    "order": 835,
+    "color": 9203810,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/andesite",
+    "order": 1013,
+    "color": 2692747,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/shale",
+    "order": 642,
+    "color": 4301512,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/chert",
+    "order": 10,
+    "color": 4333977,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/slate",
+    "order": 996,
+    "color": 11439673,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/claystone",
+    "order": 1105,
+    "color": 12766766,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/slate",
+    "order": 572,
+    "color": 590091,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/andesite",
+    "order": 993,
+    "color": 11815955,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/chert",
+    "order": 112,
+    "color": 2327199,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/basalt",
+    "order": 1092,
+    "color": 8042052,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/rhyolite",
+    "order": 214,
+    "color": 12462796,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/basalt",
+    "order": 464,
+    "color": 15756725,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/dacite",
+    "order": 792,
+    "color": 8219497,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/gneiss",
+    "order": 142,
+    "color": 1704075,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/granite",
+    "order": 1081,
+    "color": 6841959,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/conglomerate",
+    "order": 543,
+    "color": 7313063,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/diorite",
+    "order": 1082,
+    "color": 5178290,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/quartzite",
+    "order": 1055,
+    "color": 9096652,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/diorite",
+    "order": 558,
+    "color": 6061758,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/chalk",
+    "order": 828,
+    "color": 3796839,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/rhyolite",
+    "order": 74,
+    "color": 5953175,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/dolomite",
+    "order": 746,
+    "color": 12411743,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/quartzite",
+    "order": 975,
+    "color": 15808853,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/chert",
+    "order": 1049,
+    "color": 957164,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/quartzite",
+    "order": 753,
+    "color": 13309647,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/andesite",
+    "order": 871,
+    "color": 10217455,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/conglomerate",
+    "order": 70,
+    "color": 13350995,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/conglomerate",
+    "order": 887,
+    "color": 15197635,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/dolomite",
+    "order": 1128,
+    "color": 8787605,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/phyllite",
+    "order": 349,
+    "color": 10584083,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/schist",
+    "order": 288,
+    "color": 15978880,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/shale",
+    "order": 207,
+    "color": 15462583,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/chert",
+    "order": 747,
+    "color": 1063148,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/chert",
+    "order": 279,
+    "color": 15719492,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/chert",
+    "order": 587,
+    "color": 4785601,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/shale",
+    "order": 187,
+    "color": 6138760,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/gneiss",
+    "order": 617,
+    "color": 15798172,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/dacite",
+    "order": 1134,
+    "color": 5607110,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/diorite",
+    "order": 374,
+    "color": 4873599,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/phyllite",
+    "order": 795,
+    "color": 2461577,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/granite",
+    "order": 311,
+    "color": 7007450,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/claystone",
+    "order": 1045,
+    "color": 15812414,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/andesite",
+    "order": 1093,
+    "color": 6885839,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/rhyolite",
+    "order": 1051,
+    "color": 1269378,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/basalt",
+    "order": 548,
+    "color": 12241235,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/slate",
+    "order": 834,
+    "color": 5447147,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/gneiss",
+    "order": 597,
+    "color": 1493128,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/conglomerate",
+    "order": 825,
+    "color": 7165897,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/gabbro",
+    "order": 475,
+    "color": 11341480,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/dacite",
+    "order": 217,
+    "color": 3649544,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/chert",
+    "order": 1069,
+    "color": 13320556,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/chalk",
+    "order": 11,
+    "color": 3553721,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/diorite",
+    "order": 434,
+    "color": 7346882,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/gneiss",
+    "order": 657,
+    "color": 2495067,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/andesite",
+    "order": 1073,
+    "color": 1836024,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/gabbro",
+    "order": 621,
+    "color": 4725086,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/gneiss",
+    "order": 122,
+    "color": 7844458,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/slate",
+    "order": 159,
+    "color": 4184823,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/gneiss",
+    "order": 471,
+    "color": 12267640,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/schist",
+    "order": 308,
+    "color": 6674144,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/chalk",
+    "order": 1090,
+    "color": 16486540,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/limestone",
+    "order": 253,
+    "color": 11158969,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/gneiss",
+    "order": 757,
+    "color": 1121137,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/diorite",
+    "order": 3,
+    "color": 688702,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/andesite",
+    "order": 569,
+    "color": 3069641,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/conglomerate",
+    "order": 1087,
+    "color": 4260004,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/dolomite",
+    "order": 480,
+    "color": 2579101,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/limestone",
+    "order": 89,
+    "color": 2734289,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/gneiss",
+    "order": 431,
+    "color": 5311587,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/rhyolite",
+    "order": 301,
+    "color": 1967519,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/basalt",
+    "order": 870,
+    "color": 7365519,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/andesite",
+    "order": 973,
+    "color": 6455205,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/shale",
+    "order": 496,
+    "color": 12004408,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/limestone",
+    "order": 684,
+    "color": 5911199,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/conglomerate",
+    "order": 1047,
+    "color": 2155712,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/granite",
+    "order": 44,
+    "color": 11640377,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/rhyolite",
+    "order": 281,
+    "color": 2938709,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/dolomite",
+    "order": 586,
+    "color": 7589498,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/shale",
+    "order": 25,
+    "color": 1429442,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/dolomite",
+    "order": 440,
+    "color": 5816958,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/conglomerate",
+    "order": 50,
+    "color": 15886795,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/conglomerate",
+    "order": 359,
+    "color": 5169724,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/diorite",
+    "order": 394,
+    "color": 14899542,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/basalt",
+    "order": 526,
+    "color": 15483423,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/granite",
+    "order": 373,
+    "color": 12007917,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/schist",
+    "order": 141,
+    "color": 2013373,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/gneiss",
+    "order": 309,
+    "color": 2713346,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/quartzite",
+    "order": 733,
+    "color": 882753,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/quartzite",
+    "order": 813,
+    "color": 1486531,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/gabbro",
+    "order": 4,
+    "color": 6756900,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/chalk",
+    "order": 970,
+    "color": 14959842,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/chert",
+    "order": 72,
+    "color": 11966450,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/diorite",
+    "order": 272,
+    "color": 588706,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/limestone",
+    "order": 1126,
+    "color": 4451193,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/basalt",
+    "order": 770,
+    "color": 14411151,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/shale",
+    "order": 582,
+    "color": 305828,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/dolomite",
+    "order": 298,
+    "color": 13858608,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/dacite",
+    "order": 954,
+    "color": 10863919,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/chalk",
+    "order": 728,
+    "color": 13880259,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/diorite",
+    "order": 800,
+    "color": 8879797,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/gneiss",
+    "order": 919,
+    "color": 14596765,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/chert",
+    "order": 687,
+    "color": 4018692,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/rhyolite",
+    "order": 689,
+    "color": 487636,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/basalt",
+    "order": 384,
+    "color": 6966376,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/chert",
+    "order": 441,
+    "color": 15432851,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/andesite",
+    "order": 731,
+    "color": 15452107,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/claystone",
+    "order": 252,
+    "color": 7128837,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/slate",
+    "order": 1096,
+    "color": 7224727,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/quartzite",
+    "order": 198,
+    "color": 10579931,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/rhyolite",
+    "order": 194,
+    "color": 3768988,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/claystone",
+    "order": 583,
+    "color": 11854321,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/marble",
+    "order": 203,
+    "color": 14088517,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/diorite",
+    "order": 1042,
+    "color": 9985556,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/gneiss",
+    "order": 717,
+    "color": 3637700,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/chert",
+    "order": 401,
+    "color": 12959542,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/andesite",
+    "order": 631,
+    "color": 635849,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/quartzite",
+    "order": 305,
+    "color": 3180458,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/limestone",
+    "order": 1046,
+    "color": 1257145,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/gabbro",
+    "order": 883,
+    "color": 14114210,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/slate",
+    "order": 368,
+    "color": 10108801,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/gabbro",
+    "order": 581,
+    "color": 16240332,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/chalk",
+    "order": 1070,
+    "color": 9941139,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/gneiss",
+    "order": 1059,
+    "color": 16416529,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/conglomerate",
+    "order": 605,
+    "color": 13852753,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/rhyolite",
+    "order": 1091,
+    "color": 9358087,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/gabbro",
+    "order": 1063,
+    "color": 3787990,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/rhyolite",
+    "order": 423,
+    "color": 2200562,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/shale",
+    "order": 662,
+    "color": 4056915,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/gabbro",
+    "order": 943,
+    "color": 2212440,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/dolomite",
+    "order": 564,
+    "color": 4067153,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/conglomerate",
+    "order": 317,
+    "color": 2292919,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/marble",
+    "order": 492,
+    "color": 7173571,
+    "drawing": false
+  },
+  {
+    "name": "Çà½ðÊ¯¿óÊ¯",
+    "blockName": "minecraft:lapis_ore",
+    "order": 513,
+    "color": 12722887,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/gneiss",
+    "order": 1039,
+    "color": 12853557,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/granite",
+    "order": 1061,
+    "color": 16002662,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/conglomerate",
+    "order": 585,
+    "color": 1799602,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/schist",
+    "order": 121,
+    "color": 4477850,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/dacite",
+    "order": 137,
+    "color": 14749966,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/claystone",
+    "order": 783,
+    "color": 12982127,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/dacite",
+    "order": 1074,
+    "color": 15613361,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/slate",
+    "order": 179,
+    "color": 11496078,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/chert",
+    "order": 341,
+    "color": 14459169,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/quartzite",
+    "order": 693,
+    "color": 10244071,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/schist",
+    "order": 430,
+    "color": 7838049,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/limestone",
+    "order": 542,
+    "color": 9991274,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/rhyolite",
+    "order": 789,
+    "color": 15112853,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/chalk",
+    "order": 990,
+    "color": 2014611,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/conglomerate",
+    "order": 439,
+    "color": 2193905,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/rhyolite",
+    "order": 1131,
+    "color": 1069030,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/rhyolite",
+    "order": 991,
+    "color": 5434545,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/gabbro",
+    "order": 821,
+    "color": 6706447,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/gneiss",
+    "order": 62,
+    "color": 5181190,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/rhyolite",
+    "order": 971,
+    "color": 9425258,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/dolomite",
+    "order": 766,
+    "color": 16700036,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/dacite",
+    "order": 506,
+    "color": 3585546,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/andesite",
+    "order": 591,
+    "color": 12616023,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/slate",
+    "order": 976,
+    "color": 7109582,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/rhyolite",
+    "order": 525,
+    "color": 12023100,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/dolomite",
+    "order": 968,
+    "color": 594083,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/shale",
+    "order": 862,
+    "color": 15528648,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/phyllite",
+    "order": 937,
+    "color": 8027710,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/limestone",
+    "order": 316,
+    "color": 4867585,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/phyllite",
+    "order": 1137,
+    "color": 6596463,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/schist",
+    "order": 390,
+    "color": 1982744,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/dolomite",
+    "order": 380,
+    "color": 3402738,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/phyllite",
+    "order": 38,
+    "color": 2529923,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/limestone",
+    "order": 231,
+    "color": 12463928,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/limestone",
+    "order": 562,
+    "color": 6272627,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/marble",
+    "order": 83,
+    "color": 14686149,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/chert",
+    "order": 827,
+    "color": 3715255,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/andesite",
+    "order": 365,
+    "color": 14070188,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/slate",
+    "order": 37,
+    "color": 4075936,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/slate",
+    "order": 428,
+    "color": 3098396,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/diorite",
+    "order": 640,
+    "color": 16119723,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/shale",
+    "order": 107,
+    "color": 7063435,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/basalt",
+    "order": 302,
+    "color": 16388597,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/diorite",
+    "order": 312,
+    "color": 4832939,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/phyllite",
+    "order": 489,
+    "color": 9868483,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/granite",
+    "order": 557,
+    "color": 8299092,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/marble",
+    "order": 960,
+    "color": 874411,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/gabbro",
+    "order": 46,
+    "color": 15750657,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/gneiss",
+    "order": 857,
+    "color": 3414384,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/chalk",
+    "order": 482,
+    "color": 1112361,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/andesite",
+    "order": 283,
+    "color": 5031744,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/dolomite",
+    "order": 131,
+    "color": 16247715,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/conglomerate",
+    "order": 765,
+    "color": 11060288,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/dolomite",
+    "order": 51,
+    "color": 2325441,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/quartzite",
+    "order": 407,
+    "color": 8762425,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ãÇà½ðÊ¯¿óÊ¯",
+    "blockName": "minecraft:deepslate_lapis_ore",
+    "order": 514,
+    "color": 9673122,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/shale",
+    "order": 924,
+    "color": 1901574,
+    "drawing": false
+  },
+  {
+    "name": "Ãº¿óÊ¯",
+    "blockName": "minecraft:coal_ore",
+    "order": 0,
+    "color": 16265023,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/andesite",
+    "order": 893,
+    "color": 7081807,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/marble",
+    "order": 1100,
+    "color": 16257137,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/chalk",
+    "order": 113,
+    "color": 4157387,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/diorite",
+    "order": 660,
+    "color": 9323147,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/diorite",
+    "order": 1062,
+    "color": 7167423,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/chert",
+    "order": 481,
+    "color": 12523880,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/slate",
+    "order": 263,
+    "color": 7029442,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/gabbro",
+    "order": 721,
+    "color": 3231373,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/basalt",
+    "order": 322,
+    "color": 15547554,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/marble",
+    "order": 598,
+    "color": 5314602,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/andesite",
+    "order": 1033,
+    "color": 15496734,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/slate",
+    "order": 634,
+    "color": 4575649,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤¹èÖÊÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/chert",
+    "order": 381,
+    "color": 3958020,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/gabbro",
+    "order": 435,
+    "color": 16607755,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/phyllite",
+    "order": 755,
+    "color": 10991169,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/chert",
+    "order": 867,
+    "color": 11109907,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/slate",
+    "order": 794,
+    "color": 10294815,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/granite",
+    "order": 1121,
+    "color": 11162520,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/slate",
+    "order": 614,
+    "color": 15587937,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/gabbro",
+    "order": 455,
+    "color": 2071239,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/dolomite",
+    "order": 606,
+    "color": 12050864,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/claystone",
+    "order": 743,
+    "color": 1996530,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/shale",
+    "order": 1004,
+    "color": 9875515,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/limestone",
+    "order": 418,
+    "color": 9584456,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/granite",
+    "order": 22,
+    "color": 2513136,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/rhyolite",
+    "order": 443,
+    "color": 1858189,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/quartzite",
+    "order": 653,
+    "color": 12938092,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/schist",
+    "order": 1038,
+    "color": 12870980,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/chalk",
+    "order": 910,
+    "color": 14180573,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/basalt",
+    "order": 690,
+    "color": 11571121,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/quartzite",
+    "order": 995,
+    "color": 12529413,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/schist",
+    "order": 856,
+    "color": 9700790,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/andesite",
+    "order": 76,
+    "color": 15575292,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/marble",
+    "order": 900,
+    "color": 16426184,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/andesite",
+    "order": 831,
+    "color": 2956948,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/andesite",
+    "order": 527,
+    "color": 5205788,
+    "drawing": false
+  },
+  {
+    "name": "ÂÌ±¦Ê¯¿óÊ¯",
+    "blockName": "minecraft:emerald_ore",
+    "order": 246,
+    "color": 15027482,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/chert",
+    "order": 807,
+    "color": 11258801,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/phyllite",
+    "order": 675,
+    "color": 13919507,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/schist",
+    "order": 39,
+    "color": 6656112,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/granite",
+    "order": 84,
+    "color": 4833991,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/chert",
+    "order": 929,
+    "color": 11226728,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/rhyolite",
+    "order": 54,
+    "color": 8070306,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/rhyolite",
+    "order": 669,
+    "color": 5774350,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/shale",
+    "order": 1084,
+    "color": 4469936,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/gneiss",
+    "order": 817,
+    "color": 12355995,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/shale",
+    "order": 5,
+    "color": 15590686,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/dacite",
+    "order": 157,
+    "color": 2034906,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/dolomite",
+    "order": 340,
+    "color": 6525263,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/claystone",
+    "order": 965,
+    "color": 4894983,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/shale",
+    "order": 294,
+    "color": 7467158,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/quartzite",
+    "order": 98,
+    "color": 13118911,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/granite",
+    "order": 639,
+    "color": 8881127,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/marble",
+    "order": 778,
+    "color": 11161590,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/phyllite",
+    "order": 1017,
+    "color": 8601632,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/dacite",
+    "order": 772,
+    "color": 16606028,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/andesite",
+    "order": 505,
+    "color": 14704415,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/diorite",
+    "order": 620,
+    "color": 2721684,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/limestone",
+    "order": 784,
+    "color": 14198259,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/shale",
+    "order": 416,
+    "color": 1268141,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/phyllite",
+    "order": 1057,
+    "color": 6568047,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/chert",
+    "order": 1109,
+    "color": 9571546,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/limestone",
+    "order": 276,
+    "color": 11321108,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/claystone",
+    "order": 905,
+    "color": 15107516,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/schist",
+    "order": 510,
+    "color": 15312811,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/schist",
+    "order": 201,
+    "color": 788866,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/gabbro",
+    "order": 781,
+    "color": 10620715,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/chert",
+    "order": 1029,
+    "color": 3886567,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/slate",
+    "order": 874,
+    "color": 1613942,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/andesite",
+    "order": 691,
+    "color": 13239243,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/claystone",
+    "order": 1125,
+    "color": 1793180,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/basalt",
+    "order": 95,
+    "color": 4034502,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/limestone",
+    "order": 1006,
+    "color": 15201859,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/rhyolite",
+    "order": 403,
+    "color": 16241746,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/chalk",
+    "order": 708,
+    "color": 13206672,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/limestone",
+    "order": 69,
+    "color": 7845081,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/dacite",
+    "order": 304,
+    "color": 11087727,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/rhyolite",
+    "order": 567,
+    "color": 10103893,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/gneiss",
+    "order": 102,
+    "color": 365848,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/dacite",
+    "order": 346,
+    "color": 9145563,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/granite",
+    "order": 921,
+    "color": 13470861,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/marble",
+    "order": 638,
+    "color": 5030965,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/slate",
+    "order": 488,
+    "color": 6486927,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/quartzite",
+    "order": 713,
+    "color": 2333532,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/claystone",
+    "order": 1025,
+    "color": 6469512,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/chalk",
+    "order": 788,
+    "color": 16063443,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/schist",
+    "order": 19,
+    "color": 3601651,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/shale",
+    "order": 1064,
+    "color": 106623,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/schist",
+    "order": 898,
+    "color": 1534197,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/claystone",
+    "order": 1005,
+    "color": 10100685,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/chalk",
+    "order": 235,
+    "color": 16167808,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/granite",
+    "order": 226,
+    "color": 13837525,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/dacite",
+    "order": 366,
+    "color": 3445171,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/slate",
+    "order": 199,
+    "color": 4079006,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/claystone",
+    "order": 703,
+    "color": 13424077,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/rhyolite",
+    "order": 829,
+    "color": 3113947,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/schist",
+    "order": 616,
+    "color": 16075950,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/conglomerate",
+    "order": 232,
+    "color": 8201844,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/marble",
+    "order": 758,
+    "color": 7307127,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/granite",
+    "order": 353,
+    "color": 12626875,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/dolomite",
+    "order": 111,
+    "color": 11489066,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/chert",
+    "order": 299,
+    "color": 14462015,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/claystone",
+    "order": 208,
+    "color": 7546738,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/gabbro",
+    "order": 250,
+    "color": 14820039,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/dacite",
+    "order": 832,
+    "color": 7331997,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/limestone",
+    "order": 1066,
+    "color": 12648012,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/quartzite",
+    "order": 78,
+    "color": 12040359,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/basalt",
+    "order": 344,
+    "color": 7710885,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/claystone",
+    "order": 663,
+    "color": 7035900,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/granite",
+    "order": 739,
+    "color": 10335432,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/basalt",
+    "order": 892,
+    "color": 13657643,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/chert",
+    "order": 1089,
+    "color": 16351114,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/dolomite",
+    "order": 211,
+    "color": 3352467,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/schist",
+    "order": 410,
+    "color": 7504219,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/rhyolite",
+    "order": 483,
+    "color": 11889605,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/conglomerate",
+    "order": 399,
+    "color": 13771949,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/claystone",
+    "order": 1065,
+    "color": 383269,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/andesite",
+    "order": 1133,
+    "color": 12325788,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/basalt",
+    "order": 568,
+    "color": 3830598,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/gneiss",
+    "order": 999,
+    "color": 11281382,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/dolomite",
+    "order": 171,
+    "color": 15632327,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/conglomerate",
+    "order": 419,
+    "color": 7583062,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/quartzite",
+    "order": 387,
+    "color": 4718601,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/andesite",
+    "order": 771,
+    "color": 10744705,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/dolomite",
+    "order": 1088,
+    "color": 16346272,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/basalt",
+    "order": 13,
+    "color": 12969188,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/gabbro",
+    "order": 24,
+    "color": 1197852,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/dolomite",
+    "order": 826,
+    "color": 7420855,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/slate",
+    "order": 119,
+    "color": 2642302,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/dacite",
+    "order": 812,
+    "color": 5104352,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/gneiss",
+    "order": 575,
+    "color": 6334810,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/quartzite",
+    "order": 262,
+    "color": 13536143,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/granite",
+    "order": 981,
+    "color": 10416983,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/schist",
+    "order": 756,
+    "color": 11984118,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/limestone",
+    "order": 438,
+    "color": 3040891,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/slate",
+    "order": 594,
+    "color": 1848134,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/gneiss",
+    "order": 40,
+    "color": 20816,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/conglomerate",
+    "order": 563,
+    "color": 15901790,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/chalk",
+    "order": 588,
+    "color": 938430,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/schist",
+    "order": 101,
+    "color": 1589465,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/gabbro",
+    "order": 395,
+    "color": 7128930,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/slate",
+    "order": 99,
+    "color": 10378548,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ãºìÊ¯¿óÊ¯",
+    "blockName": "minecraft:deepslate_redstone_ore",
+    "order": 536,
+    "color": 8347409,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/andesite",
+    "order": 96,
+    "color": 13651236,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/gneiss",
+    "order": 411,
+    "color": 4266154,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/andesite",
+    "order": 216,
+    "color": 7104588,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/basalt",
+    "order": 790,
+    "color": 4078894,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/diorite",
+    "order": 962,
+    "color": 8767563,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/shale",
+    "order": 336,
+    "color": 14034227,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/dolomite",
+    "order": 1008,
+    "color": 3572375,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/slate",
+    "order": 139,
+    "color": 7654894,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/andesite",
+    "order": 611,
+    "color": 199088,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/dacite",
+    "order": 197,
+    "color": 6562637,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/rhyolite",
+    "order": 343,
+    "color": 14735177,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/gabbro",
+    "order": 335,
+    "color": 16185326,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/normal_hematite/chalk",
+    "order": 402,
+    "color": 1596429,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/quartzite",
+    "order": 447,
+    "color": 4240932,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/quartzite",
+    "order": 593,
+    "color": 11723611,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/phyllite",
+    "order": 1117,
+    "color": 12099248,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/andesite",
+    "order": 345,
+    "color": 7680576,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/shale",
+    "order": 884,
+    "color": 8394944,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/diorite",
+    "order": 249,
+    "color": 3117119,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/basalt",
+    "order": 33,
+    "color": 3309743,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/marble",
+    "order": 63,
+    "color": 11398521,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/shale",
+    "order": 476,
+    "color": 5518817,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/diorite",
+    "order": 185,
+    "color": 13089608,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/gneiss",
+    "order": 1119,
+    "color": 9218124,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/marble",
+    "order": 267,
+    "color": 10983547,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/phyllite",
+    "order": 469,
+    "color": 10193808,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/schist",
+    "order": 836,
+    "color": 812919,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/shale",
+    "order": 456,
+    "color": 5163094,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/schist",
+    "order": 736,
+    "color": 12644884,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/dacite",
+    "order": 77,
+    "color": 12447267,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/chert",
+    "order": 1129,
+    "color": 9481781,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/diorite",
+    "order": 334,
+    "color": 11714926,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/dolomite",
+    "order": 706,
+    "color": 10291954,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/schist",
+    "order": 1138,
+    "color": 13569327,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/marble",
+    "order": 163,
+    "color": 4878709,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/gneiss",
+    "order": 533,
+    "color": 11316380,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/conglomerate",
+    "order": 725,
+    "color": 14908852,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/limestone",
+    "order": 209,
+    "color": 8961576,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/gabbro",
+    "order": 186,
+    "color": 13011364,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/chert",
+    "order": 421,
+    "color": 2675569,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/granite",
+    "order": 144,
+    "color": 10245655,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/limestone",
+    "order": 498,
+    "color": 4287640,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/rhyolite",
+    "order": 1071,
+    "color": 10286180,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/slate",
+    "order": 814,
+    "color": 9675741,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ãÃº¿óÊ¯",
+    "blockName": "minecraft:deepslate_coal_ore",
+    "order": 1,
+    "color": 12083337,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/diorite",
+    "order": 516,
+    "color": 2458674,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/andesite",
+    "order": 933,
+    "color": 245395,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/basalt",
+    "order": 1052,
+    "color": 9590238,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/dacite",
+    "order": 852,
+    "color": 6370706,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/granite",
+    "order": 184,
+    "color": 6766483,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/chert",
+    "order": 192,
+    "color": 5607033,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/gneiss",
+    "order": 697,
+    "color": 7725582,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/basalt",
+    "order": 610,
+    "color": 13903126,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/rhyolite",
+    "order": 709,
+    "color": 14443868,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/slate",
+    "order": 1036,
+    "color": 5456082,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/diorite",
+    "order": 205,
+    "color": 16384572,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/chert",
+    "order": 319,
+    "color": 6148631,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/schist",
+    "order": 696,
+    "color": 8676278,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/chert",
+    "order": 889,
+    "color": 4638699,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/dacite",
+    "order": 177,
+    "color": 4178222,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/dacite",
+    "order": 894,
+    "color": 5380947,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/chalk",
+    "order": 422,
+    "color": 8866738,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/phyllite",
+    "order": 60,
+    "color": 4461522,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/claystone",
+    "order": 561,
+    "color": 2720432,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/phyllite",
+    "order": 573,
+    "color": 5749316,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/limestone",
+    "order": 906,
+    "color": 2635531,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/diorite",
+    "order": 354,
+    "color": 10857079,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/shale",
+    "order": 702,
+    "color": 2714430,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/andesite",
+    "order": 176,
+    "color": 6924684,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/dacite",
+    "order": 1034,
+    "color": 3651153,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/phyllite",
+    "order": 100,
+    "color": 72312,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/diorite",
+    "order": 902,
+    "color": 10839350,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/dacite",
+    "order": 872,
+    "color": 14824577,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/shale",
+    "order": 742,
+    "color": 10450961,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/limestone",
+    "order": 886,
+    "color": 15463508,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/marble",
+    "order": 1120,
+    "color": 12234583,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/slate",
+    "order": 348,
+    "color": 6356108,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/poor_malachite/schist",
+    "order": 81,
+    "color": 6663305,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/granite",
+    "order": 104,
+    "color": 11348957,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/dolomite",
+    "order": 9,
+    "color": 4795686,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/diorite",
+    "order": 494,
+    "color": 407159,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/diorite",
+    "order": 840,
+    "color": 93274,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/claystone",
+    "order": 497,
+    "color": 5822045,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/rhyolite",
+    "order": 503,
+    "color": 11843544,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/gneiss",
+    "order": 244,
+    "color": 9303560,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/granite",
+    "order": 1101,
+    "color": 3816142,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/limestone",
+    "order": 27,
+    "color": 9590074,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/shale",
+    "order": 782,
+    "color": 4831917,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/slate",
+    "order": 219,
+    "color": 10869184,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/dacite",
+    "order": 712,
+    "color": 756807,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/gneiss",
+    "order": 289,
+    "color": 4659642,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/marble",
+    "order": 556,
+    "color": 11684322,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/rhyolite",
+    "order": 547,
+    "color": 4545158,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/basalt",
+    "order": 1112,
+    "color": 15384129,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/diorite",
+    "order": 1002,
+    "color": 11968580,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/quartzite",
+    "order": 915,
+    "color": 15449714,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/slate",
+    "order": 326,
+    "color": 7697753,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/conglomerate",
+    "order": 745,
+    "color": 12946439,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/marble",
+    "order": 576,
+    "color": 2166603,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/rhyolite",
+    "order": 609,
+    "color": 1458977,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/gabbro",
+    "order": 601,
+    "color": 3158890,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/gabbro",
+    "order": 903,
+    "color": 15003525,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/phyllite",
+    "order": 735,
+    "color": 14464455,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/marble",
+    "order": 21,
+    "color": 13409208,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/slate",
+    "order": 448,
+    "color": 15551490,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/conglomerate",
+    "order": 907,
+    "color": 6599086,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/conglomerate",
+    "order": 170,
+    "color": 14361166,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/chert",
+    "order": 909,
+    "color": 15265382,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/chalk",
+    "order": 890,
+    "color": 1842621,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/andesite",
+    "order": 465,
+    "color": 13898466,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/slate",
+    "order": 1016,
+    "color": 5931093,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/dolomite",
+    "order": 726,
+    "color": 6990816,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/quartzite",
+    "order": 487,
+    "color": 7813344,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/granite",
+    "order": 881,
+    "color": 10915652,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/gneiss",
+    "order": 555,
+    "color": 15280951,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/shale",
+    "order": 964,
+    "color": 12188552,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/dacite",
+    "order": 934,
+    "color": 9578554,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/claystone",
+    "order": 683,
+    "color": 14595098,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/quartzite",
+    "order": 467,
+    "color": 2717522,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/phyllite",
+    "order": 695,
+    "color": 9644901,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/schist",
+    "order": 776,
+    "color": 11956661,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/granite",
+    "order": 859,
+    "color": 13530574,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Á÷ÎÆÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/rhyolite",
+    "order": 589,
+    "color": 10550002,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/basalt",
+    "order": 424,
+    "color": 12215932,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÂéÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/gneiss",
+    "order": 837,
+    "color": 4250084,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/conglomerate",
+    "order": 685,
+    "color": 2968010,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/andesite",
+    "order": 711,
+    "color": 6090487,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ò³ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/shale",
+    "order": 47,
+    "color": 12048618,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/gneiss",
+    "order": 677,
+    "color": 10404227,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/quartzite",
+    "order": 58,
+    "color": 459900,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/claystone",
+    "order": 108,
+    "color": 15494122,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/limestone",
+    "order": 966,
+    "color": 13775109,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/chalk",
+    "order": 566,
+    "color": 14979115,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/chalk",
+    "order": 768,
+    "color": 8162703,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/gabbro",
+    "order": 228,
+    "color": 16364179,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/chalk",
+    "order": 382,
+    "color": 11068775,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/chalk",
+    "order": 342,
+    "color": 12421938,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÉÁ³¤ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/diorite",
+    "order": 45,
+    "color": 3259668,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/limestone",
+    "order": 1086,
+    "color": 13307385,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/granite",
+    "order": 1041,
+    "color": 2379312,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/schist",
+    "order": 61,
+    "color": 2632136,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÊ¯Ä«",
+    "blockName": "tfc:ore/graphite/andesite",
+    "order": 913,
+    "color": 14206728,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/granite",
+    "order": 515,
+    "color": 11601331,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/phyllite",
+    "order": 1077,
+    "color": 1574301,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/marble",
+    "order": 980,
+    "color": 14206637,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/rhyolite",
+    "order": 154,
+    "color": 1922585,
+    "drawing": false
+  },
+  {
+    "name": "½ð¿óÊ¯",
+    "blockName": "minecraft:gold_ore",
+    "order": 268,
+    "color": 1480887,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯Ó¢ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/quartzite",
+    "order": 285,
+    "color": 14322517,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/gneiss",
+    "order": 959,
+    "color": 12217635,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ò³ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/shale",
+    "order": 167,
+    "color": 7632294,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/granite",
+    "order": 699,
+    "color": 135393,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/gabbro",
+    "order": 517,
+    "color": 8016728,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/dacite",
+    "order": 652,
+    "color": 14588494,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/phyllite",
+    "order": 220,
+    "color": 14284049,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/normal_malachite/shale",
+    "order": 127,
+    "color": 10455630,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/gabbro",
+    "order": 801,
+    "color": 8808043,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/rich_hematite/chert",
+    "order": 461,
+    "color": 1069839,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/gabbro",
+    "order": 415,
+    "color": 2559681,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/gneiss",
+    "order": 1019,
+    "color": 8293895,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/normal_magnetite/phyllite",
+    "order": 429,
+    "color": 7255661,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/dolomite",
+    "order": 522,
+    "color": 12357643,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/quartzite",
+    "order": 673,
+    "color": 4222462,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/limestone",
+    "order": 804,
+    "color": 7878494,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÀùÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/conglomerate",
+    "order": 339,
+    "color": 7469352,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/conglomerate",
+    "order": 210,
+    "color": 15633987,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/andesite",
+    "order": 323,
+    "color": 16541027,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/chalk",
+    "order": 1130,
+    "color": 10481597,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/claystone",
+    "order": 925,
+    "color": 11857932,
+    "drawing": false
+  },
+  {
+    "name": "ÐþÎäÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/basalt",
+    "order": 992,
+    "color": 15966441,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/dolomite",
+    "order": 191,
+    "color": 4735679,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/dacite",
+    "order": 15,
+    "color": 16377502,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/chert",
+    "order": 667,
+    "color": 7728248,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/slate",
+    "order": 388,
+    "color": 16502769,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÔÆÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/dolomite",
+    "order": 646,
+    "color": 10229215,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/gneiss",
+    "order": 899,
+    "color": 305908,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/marble",
+    "order": 718,
+    "color": 1191192,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/andesite",
+    "order": 485,
+    "color": 3463352,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÁò»Ç",
+    "blockName": "tfc:ore/sulfur/gabbro",
+    "order": 923,
+    "color": 1006600,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/marble",
+    "order": 223,
+    "color": 1050404,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/marble",
+    "order": 678,
+    "color": 5680731,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/quartzite",
+    "order": 1015,
+    "color": 7985267,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/dacite",
+    "order": 117,
+    "color": 133876,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/phyllite",
+    "order": 307,
+    "color": 15119328,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/basalt",
+    "order": 590,
+    "color": 2006263,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/chalk",
+    "order": 173,
+    "color": 613946,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/chalk",
+    "order": 848,
+    "color": 8883894,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/schist",
+    "order": 370,
+    "color": 11150782,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÇà½ðÊ¯",
+    "blockName": "tfc:ore/lapis_lazuli/conglomerate",
+    "order": 521,
+    "color": 6968079,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/diorite",
+    "order": 1102,
+    "color": 5588786,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/andesite",
+    "order": 651,
+    "color": 1041655,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/gabbro",
+    "order": 206,
+    "color": 2287125,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/basalt",
+    "order": 504,
+    "color": 9090689,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÐþÎäÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/basalt",
+    "order": 215,
+    "color": 9905610,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/quartzite",
+    "order": 16,
+    "color": 34700,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/diorite",
+    "order": 227,
+    "color": 5482226,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/granite",
+    "order": 493,
+    "color": 11595326,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/chalk",
+    "order": 320,
+    "color": 11298045,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°²É½ÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/andesite",
+    "order": 811,
+    "color": 7958423,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/conglomerate",
+    "order": 845,
+    "color": 8682808,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/diorite",
+    "order": 942,
+    "color": 3998137,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/diorite",
+    "order": 720,
+    "color": 14515191,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/schist",
+    "order": 265,
+    "color": 3212931,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/diorite",
+    "order": 882,
+    "color": 12435897,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Õ³ÍÁÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/rich_magnetite/claystone",
+    "order": 477,
+    "color": 2322674,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/gabbro",
+    "order": 495,
+    "color": 2947613,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/limestone",
+    "order": 704,
+    "color": 4438498,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/shale",
+    "order": 229,
+    "color": 16501223,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/poor_sphalerite/basalt",
+    "order": 830,
+    "color": 5374441,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/phyllite",
+    "order": 1097,
+    "color": 8947258,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°åÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/slate",
+    "order": 754,
+    "color": 6889898,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯¹èÖÊÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/chert",
+    "order": 501,
+    "color": 14544759,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/rich_garnierite/conglomerate",
+    "order": 805,
+    "color": 9359618,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/marble",
+    "order": 658,
+    "color": 10586849,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/phyllite",
+    "order": 897,
+    "color": 5769878,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ×æÄ¸ÂÌ",
+    "blockName": "tfc:ore/emerald/andesite",
+    "order": 260,
+    "color": 7630529,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒ³àÌú¿ó",
+    "blockName": "tfc:ore/poor_hematite/limestone",
+    "order": 338,
+    "color": 3665399,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/rich_cassiterite/diorite",
+    "order": 680,
+    "color": 15002903,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/chalk",
+    "order": 300,
+    "color": 5254350,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/rhyolite",
+    "order": 321,
+    "color": 10443191,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/andesite",
+    "order": 303,
+    "color": 2226881,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/conglomerate",
+    "order": 499,
+    "color": 3936547,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/marble",
+    "order": 512,
+    "color": 2912125,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Æ¬ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/poor_bismuthinite/schist",
+    "order": 716,
+    "color": 7776899,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°²É½ÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/andesite",
+    "order": 56,
+    "color": 4934383,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯Ó¢ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/quartzite",
+    "order": 1115,
+    "color": 16558668,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/poor_garnierite/slate",
+    "order": 774,
+    "color": 1715185,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/rhyolite",
+    "order": 12,
+    "color": 3125232,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒºì±¦Ê¯",
+    "blockName": "tfc:ore/ruby/gneiss",
+    "order": 1099,
+    "color": 9937274,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒ¼ØÊ¯ÑÎ",
+    "blockName": "tfc:ore/sylvite/chert",
+    "order": 969,
+    "color": 7496907,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ó¢°²ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/dacite",
+    "order": 386,
+    "color": 11954918,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒ±ù¾§Ê¯",
+    "blockName": "tfc:ore/cryolite/shale",
+    "order": 560,
+    "color": 1420433,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÑÌÃº",
+    "blockName": "tfc:ore/bituminous_coal/phyllite",
+    "order": 18,
+    "color": 4302219,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/slate",
+    "order": 654,
+    "color": 5912752,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/dolomite",
+    "order": 626,
+    "color": 7723110,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/phyllite",
+    "order": 655,
+    "color": 3987230,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/phyllite",
+    "order": 327,
+    "color": 14087521,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/slate",
+    "order": 1076,
+    "color": 335732,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»Ô³¤ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/gabbro",
+    "order": 375,
+    "color": 7057671,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/conglomerate",
+    "order": 947,
+    "color": 12398834,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÊ¯ÑÎ",
+    "blockName": "tfc:ore/halite/gabbro",
+    "order": 1003,
+    "color": 2119880,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/dolomite",
+    "order": 1028,
+    "color": 483250,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒÎýÊ¯",
+    "blockName": "tfc:ore/poor_cassiterite/claystone",
+    "order": 643,
+    "color": 4778995,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÂéÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/gneiss",
+    "order": 637,
+    "color": 3993979,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ç§Ã¶ÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/phyllite",
+    "order": 369,
+    "color": 10148432,
+    "drawing": false
+  },
+  {
+    "name": "Ò³ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/shale",
+    "order": 842,
+    "color": 663981,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ç§Ã¶ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/phyllite",
+    "order": 875,
+    "color": 4092436,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/normal_native_copper/rhyolite",
+    "order": 114,
+    "color": 8151028,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/dacite",
+    "order": 732,
+    "color": 2609340,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/diorite",
+    "order": 538,
+    "color": 7171640,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯Ó¢ÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/rich_tetrahedrite/quartzite",
+    "order": 218,
+    "color": 12097949,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/limestone",
+    "order": 664,
+    "color": 6727962,
+    "drawing": false
+  },
+  {
+    "name": "ÉÁ³¤ÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/diorite",
+    "order": 982,
+    "color": 7161259,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/claystone",
+    "order": 295,
+    "color": 14379485,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/poor_native_copper/basalt",
+    "order": 55,
+    "color": 15217262,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒµ°°×Ê¯",
+    "blockName": "tfc:ore/opal/marble",
+    "order": 1060,
+    "color": 12253128,
+    "drawing": false
+  },
+  {
+    "name": "°×ÛÑÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/chalk",
+    "order": 1110,
+    "color": 14386656,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Æ¬ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/schist",
+    "order": 876,
+    "color": 14109372,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/rich_native_gold/marble",
+    "order": 330,
+    "color": 12397864,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/normal_native_silver/granite",
+    "order": 599,
+    "color": 7584681,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÅðÉ°",
+    "blockName": "tfc:ore/borax/chert",
+    "order": 989,
+    "color": 1050638,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤´óÀíÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/marble",
+    "order": 372,
+    "color": 9281987,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/dolomite",
+    "order": 1108,
+    "color": 8681700,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/limestone",
+    "order": 169,
+    "color": 11084785,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤»¨¸ÚÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/granite",
+    "order": 271,
+    "color": 3676725,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»¨¸ÚÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/granite",
+    "order": 164,
+    "color": 15929945,
+    "drawing": false
+  },
+  {
+    "name": "¹èÖÊÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/chert",
+    "order": 787,
+    "color": 5811715,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Ê¯»ÒÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/poor_native_silver/limestone",
+    "order": 584,
+    "color": 10299813,
+    "drawing": false
+  },
+  {
+    "name": "°×ÔÆÑÒÂÌÄø¿ó",
+    "blockName": "tfc:ore/normal_garnierite/dolomite",
+    "order": 786,
+    "color": 650229,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯´óÀíÑÒÔ­ÉúÍ­",
+    "blockName": "tfc:ore/rich_native_copper/marble",
+    "order": 183,
+    "color": 7395312,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/granite",
+    "order": 433,
+    "color": 2191590,
+    "drawing": false
+  },
+  {
+    "name": "Á÷ÎÆÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/rhyolite",
+    "order": 1111,
+    "color": 12149508,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÛÑÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/chalk",
+    "order": 502,
+    "color": 296640,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤ÐþÎäÑÒ´ÅÌú¿ó",
+    "blockName": "tfc:ore/poor_magnetite/basalt",
+    "order": 364,
+    "color": 13111101,
+    "drawing": false
+  },
+  {
+    "name": "»Ô³¤ÑÒÀ¶±¦Ê¯",
+    "blockName": "tfc:ore/sapphire/gabbro",
+    "order": 1103,
+    "color": 6781147,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯°×ÔÆÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/rich_limonite/dolomite",
+    "order": 500,
+    "color": 14000198,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/phyllite",
+    "order": 553,
+    "color": 16052436,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/marble",
+    "order": 858,
+    "color": 7129777,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÉÁ³¤ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/diorite",
+    "order": 740,
+    "color": 14853140,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÏõÊ¯",
+    "blockName": "tfc:ore/saltpeter/granite",
+    "order": 941,
+    "color": 15335148,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°åÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/poor_native_gold/slate",
+    "order": 286,
+    "color": 8773360,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒÔ­Éú½ð",
+    "blockName": "tfc:ore/normal_native_gold/marble",
+    "order": 310,
+    "color": 4933459,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ê¯»ÒÑÒ¿×È¸Ê¯",
+    "blockName": "tfc:ore/rich_malachite/limestone",
+    "order": 189,
+    "color": 819263,
+    "drawing": false
+  },
+  {
+    "name": "Ç§Ã¶ÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/normal_limonite/phyllite",
+    "order": 449,
+    "color": 16354365,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Á÷ÎÆÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/rhyolite",
+    "order": 629,
+    "color": 9583762,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒ½ð²®ÀûÑÒ",
+    "blockName": "tfc:ore/diamond/andesite",
+    "order": 238,
+    "color": 389331,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒÊ¯¸à",
+    "blockName": "tfc:ore/gypsum/slate",
+    "order": 896,
+    "color": 15531354,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/normal_bismuthinite/claystone",
+    "order": 723,
+    "color": 5718442,
+    "drawing": false
+  },
+  {
+    "name": "Ê¯»ÒÑÒ×ÏË®¾§",
+    "blockName": "tfc:ore/amethyst/limestone",
+    "order": 1026,
+    "color": 829548,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÎýÊ¯",
+    "blockName": "tfc:ore/normal_cassiterite/andesite",
+    "order": 671,
+    "color": 10443090,
+    "drawing": false
+  },
+  {
+    "name": "»¨¸ÚÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/granite",
+    "order": 537,
+    "color": 1342569,
+    "drawing": false
+  },
+  {
+    "name": "Éî²ãÌú¿óÊ¯",
+    "blockName": "minecraft:deepslate_iron_ore",
+    "order": 332,
+    "color": 6934443,
+    "drawing": false
+  },
+  {
+    "name": "°²É½ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/normal_sphalerite/andesite",
+    "order": 851,
+    "color": 11805265,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯Ó¢°²ÑÒ»Ôîé¿ó",
+    "blockName": "tfc:ore/rich_bismuthinite/dacite",
+    "order": 752,
+    "color": 3546795,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤Õ³ÍÁÑÒºÖÌú¿ó",
+    "blockName": "tfc:ore/poor_limonite/claystone",
+    "order": 377,
+    "color": 4037910,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯»Ô³¤ÑÒÉÁÐ¿¿ó",
+    "blockName": "tfc:ore/rich_sphalerite/gabbro",
+    "order": 861,
+    "color": 3309483,
+    "drawing": false
+  },
+  {
+    "name": "ÀùÑÒºÖÃº",
+    "blockName": "tfc:ore/lignite/conglomerate",
+    "order": 28,
+    "color": 9206967,
+    "drawing": false
+  },
+  {
+    "name": "¸»¼¯ÀùÑÒÔ­ÉúÒø",
+    "blockName": "tfc:ore/rich_native_silver/conglomerate",
+    "order": 625,
+    "color": 5282222,
+    "drawing": false
+  },
+  {
+    "name": "´óÀíÑÒ»ÆÌú¿ó",
+    "blockName": "tfc:ore/pyrite/marble",
+    "order": 1080,
+    "color": 9721443,
+    "drawing": false
+  },
+  {
+    "name": "°åÑÒ»ÆÓñ",
+    "blockName": "tfc:ore/topaz/slate",
+    "order": 1136,
+    "color": 11445591,
+    "drawing": false
+  },
+  {
+    "name": "Æ¬ÂéÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/normal_tetrahedrite/gneiss",
+    "order": 162,
+    "color": 8856140,
+    "drawing": false
+  },
+  {
+    "name": "Æ¶ñ¤°×ÛÑÑÒ÷îÍ­¿ó",
+    "blockName": "tfc:ore/poor_tetrahedrite/chalk",
+    "order": 93,
+    "color": 6889536,
+    "drawing": false
+  },
+  {
+    "name": "Ó¢°²ÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/dacite",
+    "order": 550,
+    "color": 9248025,
+    "drawing": false
+  },
+  {
+    "name": "Õ³ÍÁÑÒÖìÉ°",
+    "blockName": "tfc:ore/cinnabar/claystone",
+    "order": 541,
+    "color": 12942141,
+    "drawing": false
+  }
+]

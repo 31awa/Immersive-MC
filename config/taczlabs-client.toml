@@ -35,25 +35,25 @@
 
 	["Local Settings"."Crosshair Type"]
 		#Crosshair of Pistol
-		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, POINT, TACZ
+		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, ARC, POINT, TACZ
 		Pistol = "RIGHT_ANGLE"
 		#Crosshair of Sub-Machine Gun
-		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, POINT, TACZ
+		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, ARC, POINT, TACZ
 		"Sub-Machine Gun" = "CROSSHAIR"
 		#Crosshair of Rifle
-		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, POINT, TACZ
+		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, ARC, POINT, TACZ
 		Rifle = "CROSSHAIR"
 		#Crosshair of Machine Gun
-		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, POINT, TACZ
+		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, ARC, POINT, TACZ
 		"Machine Gun" = "CROSSHAIR"
 		#Crosshair of Sniper
-		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, POINT, TACZ
+		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, ARC, POINT, TACZ
 		Sniper = "CROSSHAIR"
 		#Crosshair of Shotgun
-		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, POINT, TACZ
+		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, ARC, POINT, TACZ
 		Shotgun = "RECT"
 		#Crosshair of Heavy Weapon
-		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, POINT, TACZ
+		#Allowed Values: CROSSHAIR, RECT, RIGHT_ANGLE, ARC, POINT, TACZ
 		"Heavy Weapon" = "RECT"
 
 	["Local Settings"."Crosshair Properties"]

@@ -5,9 +5,9 @@
   "sneakXOffset": 17,
   "sitXOffset": 17,
   "renderStuckFeatures": true,
-  "vanillaHandsMode": "OFF",
+  "vanillaHandsMode": "ALL",
   "dynamicMode": true,
-  "vanillaHandsSkipSwimming": true,
+  "vanillaHandsSkipSwimming": false,
   "autoVanillaHands": [
     "create:potato_cannon",
     "lrtactical:melee",

@@ -6,7 +6,7 @@ growthFolding = 400
 [seeds]
 	#The rate at which seeds drop from leaves.
 	#Range: 0.0 ~ 64.0
-	leavesSeedDropRate = 1.0
+	leavesSeedDropRate = 0.02
 	#The rate at which seeds voluntarily drop from branches
 	#Range: 0.0 ~ 1.0
 	voluntarySeedDropRate = 0.01
@@ -55,7 +55,7 @@ growthFolding = 400
 	growthMultiplier = 1.3
 	#Factor that multiplies the wood returned from harvesting a tree.  You cheat.
 	#Range: 0.0 ~ 128.0
-	harvestMultiplier = 1.0
+	harvestMultiplier = 1.5
 	#Do X growth cycles at once while ignoring (X-1)/X attempts.  Higher numbers can improve client side performance but too high can make trees grow wierd.
 	#Range: 1 ~ 8
 	growthFolding = 2
@@ -63,12 +63,12 @@ growthFolding = 400
 #Interaction Settings
 [interaction]
 	#If enabled all leaves will be passable. If the Passable Foliage mod is installed this config is overridden
-	isLeavesPassable = false
+	isLeavesPassable = true
 	#If enabled player movement on leaves will not be enhanced
 	vanillaLeavesCollision = false
 	#Damage dealt to the axe item when cutting a tree down. VANILLA: Standard 1 Damage. THICKNESS: By Branch/Trunk Thickness. VOLUME: By Tree Volume.
 	#Allowed Values: VANILLA, THICKNESS, VOLUME
-	axeDamageMode = "THICKNESS"
+	axeDamageMode = "VOLUME"
 	#If enabled then trees will fall over when harvested
 	enableFallingTrees = true
 	#If enabled then trees will harm living entities when falling

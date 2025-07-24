@@ -1,5 +1,3 @@
-#物品优化设置| Item Optimization Settings
-OpenIO = true
 
 ["FPS Settings"]
 	#Enable FPS reduction when window is inactive
@@ -98,6 +96,8 @@ OpenIO = true
 	itemList = []
 	#是否在合并后的物品上显示堆叠数量 | Whether to show stack count on merged items
 	showStackCount = true
+	#物品优化设置| Item Optimization Settings
+	OpenIO = true
 
 	[item_optimization.stack_size]
 		#启用自定义堆叠大小 | Enable custom stack sizes
@@ -162,7 +162,7 @@ OpenIO = true
 #事件系统设置 | Event System Settings
 [event_system]
 	#启用高性能异步事件功能
-	featureEnabled = true
+	featureEnabled = false
 	#不应异步处理的事件类列表 | List of event classes that should NOT be processed asynchronously
 	#支持通配符 (如 'net.minecraftforge.event.entity.living.*') | Supports wildcards (e.g. 'net.minecraftforge.event.entity.living.*')
 	classBlacklist = ["net.minecraftforge.event.TickEvent", "net.minecraftforge.event.level.LevelTickEvent", "net.minecraftforge.event.entity.living.*"]

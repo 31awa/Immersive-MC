@@ -104,8 +104,8 @@
     "iceandfire.myrmex.baseAttackDamage": 3.0
   },
   "amphithere": {
-    "iceandfire.amphithere.spawn": true,
-    "iceandfire.amphithere.spawnWeight": 50,
+    "iceandfire.amphithere.spawn": false,
+    "iceandfire.amphithere.spawnWeight": 0,
     "iceandfire.amphithere.villagerSearchLength": 48.0,
     "iceandfire.amphithere.tameTime": 400,
     "iceandfire.amphithere.flightSpeed": 1.75,
