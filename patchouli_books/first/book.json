@@ -3,5 +3,6 @@
     "landing_text":"$(thing)这本书记载了你游玩整合包需要补充的内容$()$(br2)$(#FF0000)注意:本指南仅作为补充内容,里面不包含全部的游戏内容!$()$(br2).感谢你($(playername))游玩我个人的整合包,如果你在游玩的时候遇到了不合理的问题/bug,请提交issue至$(l:https://bgithub.xyz/31awa/Immersive-MC/issues)这里",  
     "version":0.1,
     "creative_tab": "minecraft:tools_and_utilities",
-    "use_resource_pack": true
+    "use_resource_pack": true,
+    "show_progress": false
 }
