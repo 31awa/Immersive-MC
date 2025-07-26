@@ -131,7 +131,10 @@
     "net.dries007.tfc.client.screen.LargeVesselScreen": true,
     "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
     "net.diebuddies.physics.settings.OceanSettingsScreen": true,
-    "org.anti_ad.mc.common.gui.screen.ConfigOptionHotkeyDialog": true
+    "org.anti_ad.mc.common.gui.screen.ConfigOptionHotkeyDialog": true,
+    "dev.isxander.yacl3.gui.YACLScreen": true,
+    "net.dries007.tfc.client.screen.MoldLikeAlloyScreen": true,
+    "net.dries007.tfc.client.screen.BarrelScreen": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
@@ -201,6 +204,8 @@
     "net.dries007.tfc.client.screen.SmallVesselInventoryScreen": true,
     "net.dries007.tfc.client.screen.LargeVesselScreen": true,
     "vazkii.patchouli.client.book.gui.GuiBookHistory": true,
-    "vazkii.patchouli.client.book.gui.GuiBookWriter": true
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
+    "net.dries007.tfc.client.screen.MoldLikeAlloyScreen": true,
+    "net.dries007.tfc.client.screen.BarrelScreen": true
   }
 }

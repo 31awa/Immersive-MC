@@ -13,7 +13,7 @@ familiarityDecayLimit = 0.3
 	#   doInsomnia = false (No phantoms)
 	#   doTraderSpawning = false (No wandering traders)
 	#   doPatrolSpawning = false (No pillager patrols)
-	enableForcedTFCGameRules = False
+	enableForcedTFCGameRules = false
 	#
 	# If true, TFC will stop time when no players are online on a running server.
 	# This prevents food from decaying, the calendar from advancing, and the sun from moving, etc.
@@ -124,7 +124,7 @@ familiarityDecayLimit = 0.3
 		#
 		# The largest (inclusive) size of an item that is allowed in a chest.
 		#Allowed Values: TINY, VERY_SMALL, SMALL, NORMAL, LARGE, VERY_LARGE, HUGE
-		chestMaximumItemSize = "VERY_LARGE"
+		chestMaximumItemSize = "LARGE"
 
 	[blocks.largeVessel]
 		#
@@ -845,7 +845,7 @@ familiarityDecayLimit = 0.3
 		enableVanillaEggThrowing = false
 		#
 		# If true, drinking milk will clear potion effects and restore no nutrition, as in vanilla.
-		enableVanillaDrinkingMilkClearsPotionEffects = true
+		enableVanillaDrinkingMilkClearsPotionEffects = false
 
 	[mechanics.animals]
 
