@@ -105,3 +105,8 @@ TaCZServerEvents.gunIndexLoad((event) => {
     return event.removeGun();
   }
 });
+
+
+ServerEvents.recipes(event => {
+event.remove({ output: '#superbwarfare:gun'})  
+})
