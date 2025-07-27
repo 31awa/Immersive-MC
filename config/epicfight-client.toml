@@ -6,7 +6,7 @@ provider = "NULL"
 
 [ingame]
 	#Range: 1 ~ 10
-	long_press_count = 2
+	long_press_count = 3
 	#Range: 0 ~ 30
 	max_hit_projectiles = 30
 	#Range: 0.0 ~ 1.0

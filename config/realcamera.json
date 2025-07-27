@@ -20,7 +20,7 @@
   "binding": {
     "adjustOffset": true,
     "renderStuckObjects": true,
-    "rerenderModel": false,
+    "rerenderModel": true,
     "disableMainFeatureItems": [
       "tacz:modern_kinetic_gun"
     ],

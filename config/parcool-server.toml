@@ -30,6 +30,7 @@
 		permit_VerticalWallRun = true
 		permit_WallJump = true
 		permit_WallSlide = true
+		permit_StartSwimByCrawl = true
 
 	[Limitations.Stamina]
 		#Permission of infinite stamina
@@ -94,6 +95,8 @@
 			stamina_consumption_of_WallJump = 120
 			#Range: 0 ~ 10000
 			stamina_consumption_of_WallSlide = 8
+			#Range: 0 ~ 10000
+			stamina_consumption_of_StartSwimByCrawl = 0
 
 	[Limitations.Control]
 		#Allow disabling cooldown of wall jump

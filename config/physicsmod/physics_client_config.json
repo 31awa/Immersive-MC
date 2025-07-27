@@ -1,5 +1,5 @@
 {
-  "maxPhysicsObjects": 2467,
+  "maxPhysicsObjects": 5396,
   "particleLifetimeVines": 4.0,
   "particleLifetimeItems": 3.0,
   "particleLifetimeParticles": 0.1,
@@ -20,7 +20,7 @@
   "fishingRodPhysics": true,
   "leashPhysics": true,
   "bannerPhysics": true,
-  "clothSmoothShading": true,
+  "clothSmoothShading": false,
   "showUpdateNotifications": true,
   "clothThreads": 1,
   "leashLength": 3.0,
@@ -54,7 +54,7 @@
   "snowSmoothShading": true,
   "snowChunkSize": 0,
   "blockSettings": {
-    "Physics Type": 0,
+    "Physics Type": 2,
     "Lifetime": 4.0,
     "Lifetime Variance": 3.0,
     "Scale": 1.0,

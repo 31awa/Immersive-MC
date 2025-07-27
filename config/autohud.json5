@@ -10,7 +10,7 @@
 		"fadeIn": 0.0,
 		"fadeOut": 0.0
 	},
-	"revealType": "Individual",
+	"revealType": "HideCombined",
 	"events": {
 		"onScreenOpen": "Nothing",
 		"onMoving": "Nothing",
@@ -27,10 +27,10 @@
 	"defaultValues": {
 		"speedMultiplier": 1.0,
 		"distance": 60,
-		"maximumFade": 0.0
+		"maximumFade": 1.0
 	},
 	"health": {
-		"policy": "Changing"
+		"policy": "Disabled"
 	},
 	"hunger": {
 		"policy": "Low"
