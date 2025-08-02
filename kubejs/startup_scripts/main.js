@@ -96,3 +96,7 @@ StartupEvents.registry('item', event => {
 StartupEvents.registry('item', event => {
 	event.create('12g').displayName('12g弹壳')
 })
+
+StartupEvents.registry('item', event => {
+	event.create('wood_ammo').displayName('木制弹药')
+})
