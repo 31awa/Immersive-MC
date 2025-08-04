@@ -1,0 +1,76 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 16762566,
+				"Name": "kaleidoscope_cookery:flatulence",
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 5926153,
+				"Name": "kaleidoscope_cookery:mustard",
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 11454009,
+				"Name": "kaleidoscope_cookery:preservation",
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 16716563,
+				"Name": "kaleidoscope_cookery:satiated_shield",
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 15251294,
+				"Name": "kaleidoscope_cookery:sulfur",
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 10615036,
+				"Name": "kaleidoscope_cookery:tundra_strider",
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 8700706,
+				"Name": "kaleidoscope_cookery:vigor",
+				"Category": "beneficial"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Instant": false,
+				"Color": 16736014,
+				"Name": "kaleidoscope_cookery:warmth",
+				"Category": "beneficial"
+			}
+		}
+	]
+}

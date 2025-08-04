@@ -1,0 +1,74 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "snowrealmagic:fence",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "snowrealmagic:fence2",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "snowrealmagic:fence_gate",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "snowrealmagic:slab",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": true,
+				"Name": "snowrealmagic:snow",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "snowrealmagic:stairs",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "snowrealmagic:wall",
+				"top": true,
+				"full": false
+			}
+		}
+	]
+}

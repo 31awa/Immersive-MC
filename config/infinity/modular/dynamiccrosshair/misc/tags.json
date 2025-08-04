@@ -1,0 +1,16 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dynamiccrosshair:always_interactable"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamiccrosshair:always_interactable_in_creative_mode"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamiccrosshair:interactable"
+		}
+	]
+}

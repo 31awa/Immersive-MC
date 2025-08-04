@@ -1,0 +1,9 @@
+
+[Collisium]
+	#List of entity registry names (e.g., 'minecraft:cow') that are allowed to be optimized.
+	#If empty, all same-type entities will be skipped from push/collide according to the skip chance.
+	Whitelist = []
+	#This value can be bigger than 100, which results in that all pushing and colliding events are skipped
+	#Range: > 0
+	"PushAndCollideSkipChance(%)" = 90
+

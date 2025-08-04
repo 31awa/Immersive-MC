@@ -1,0 +1,886 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:acacia_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:acacia_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:acacia_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:apple",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:apple_oak_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:azalea_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:azalea_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:birch_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:birch_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:birch_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:cherry_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:cherry_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:cherry_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:cocoa",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:cocoa_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:crimson_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:crimson_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:crimson_wart",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:dark_oak_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:dark_oak_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:dark_oak_root",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:dark_oak_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:flowering_azalea_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:jungle_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:jungle_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:jungle_root",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:jungle_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:jungle_undergrowth_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:mangrove_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:mangrove_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:mangrove_roots",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:mangrove_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:oak_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:oak_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:oak_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:oak_undergrowth_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": true,
+				"Name": "dynamictrees:potted_sapling",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_brown_terracotta",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_clay",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_coarse_dirt",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_crimson_nylium",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_dirt",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_end_stone",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_grass_block",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_gravel",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_light_gray_terracotta",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_mangrove_aerial_roots",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_moss",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_moss_block",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_mud",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_mycelium",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_netherrack",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_orange_terracotta",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_podzol",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_red_sand",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_red_terracotta",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_rooted_dirt",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_sand",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_soul_sand",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_soul_soil",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_terracotta",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_warped_nylium",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_water",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_white_terracotta",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:rooty_yellow_terracotta",
+				"top": true,
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:spruce_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:spruce_leaves",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:spruce_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_acacia_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_birch_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_cherry_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_crimson_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_dark_oak_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_jungle_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_mangrove_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_oak_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_spruce_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:stripped_warped_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:swamp_oak_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:tall_birch_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:trunk_shell",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:warped_branch",
+				"top": true,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": false,
+				"laggy": false,
+				"Name": "dynamictrees:warped_sapling",
+				"top": false,
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"float": true,
+				"laggy": false,
+				"Name": "dynamictrees:warped_wart",
+				"Properties": {
+					"persistent": "true"
+				},
+				"top": true,
+				"full": true
+			}
+		}
+	]
+}

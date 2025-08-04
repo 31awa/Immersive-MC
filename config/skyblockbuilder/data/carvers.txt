@@ -1,0 +1,11 @@
+infinity:canyon_1154257256316150278
+infinity:canyon_1397244625274115991
+infinity:cave_-141758771563112422
+infinity:cave_-3233404889124452912
+infinity:cave_-5498418048066067685
+infinity:cave_1019479671024448403
+infinity:cave_9098513202679691581
+minecraft:canyon
+minecraft:cave
+minecraft:cave_extra_underground
+minecraft:nether_cave

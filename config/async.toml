@@ -1,3 +1,4 @@
+
 ["Async Configs"]
 	#Globally disable all toggleable functionality within the async system. Set to true to stop all asynchronous operations.
 	disabled = false
@@ -7,3 +8,4 @@
 	synchronizedEntities = ["minecraft:item", "minecraft:experience_orb", "minecraft:tnt"]
 	#Modifies entity movement processing: true for synchronous movement (vanilla mechanics intact, less performance), false for asynchronous movement (better performance, may break mechanics).
 	enableEntityMoveSync = false
+

@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:aerial_roots_rooty_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:branches_that_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:foliage"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:fungus_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:fungus_caps"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:leaves"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:roots"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:rooty_soil"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:saplings"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:stripped_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:stripped_branches_that_burn"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:stripped_fungus_branches"
+		},
+		{
+			"weight": 1.0,
+			"key": "dynamictrees:wart_blocks"
+		}
+	]
+}

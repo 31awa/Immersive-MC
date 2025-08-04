@@ -16,106 +16,10 @@
   },
   "structures": {
     "structures": {
-      "minecraft:woodland_mansions": {
-        "spacing": 80,
-        "separation": 20,
-        "salt": 10387319,
-        "disabled": false
-      },
-      "towns_and_towers:towers": {
-        "spacing": 48,
-        "separation": 24,
-        "salt": 205745294,
-        "disabled": false
-      },
       "bettermineshafts:mineshafts": {
         "spacing": 1,
         "separation": 0,
         "salt": 593751784,
-        "disabled": false
-      },
-      "dungeons_arise_seven_seas:minor_structures": {
-        "spacing": 68,
-        "separation": 60,
-        "salt": 98123789,
-        "disabled": false
-      },
-      "supplementaries:way_signs": {
-        "spacing": 19,
-        "separation": 10,
-        "salt": 431041527,
-        "disabled": false
-      },
-      "ancientstructures:german_buildings": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 19018280,
-        "disabled": false
-      },
-      "minecraft:swamp_huts": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357620,
-        "disabled": false
-      },
-      "minecraft:buried_treasures": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
-        "disabled": false
-      },
-      "towns_and_towers:other": {
-        "spacing": 32,
-        "separation": 16,
-        "salt": 30084234,
-        "disabled": false
-      },
-      "tconstruct:overworld_ocean_island": {
-        "spacing": 30,
-        "separation": 9,
-        "salt": 25988585,
-        "disabled": false
-      },
-      "dungeons_arise:minor_structures": {
-        "spacing": 35,
-        "separation": 25,
-        "salt": 342415935,
-        "disabled": false
-      },
-      "iceandfire:lightning_dragon_roost": {
-        "spacing": 18,
-        "separation": 12,
-        "salt": 9031232,
-        "disabled": false
-      },
-      "idas:idas_small": {
-        "spacing": 22,
-        "separation": 18,
-        "salt": 169480673,
-        "disabled": false
-      },
-      "minecraft:villages": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 10387312,
-        "disabled": false
-      },
-      "ancientstructures:roman_buildings": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 19040220,
-        "disabled": false
-      },
-      "iceandfire:gorgon_temple": {
-        "spacing": 32,
-        "separation": 12,
-        "salt": 76489509,
-        "disabled": false
-      },
-      "iceandfire:siren_island": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 9810327,
         "disabled": false
       },
       "idas:idas_ocean": {
@@ -130,124 +34,10 @@
         "salt": 14357621,
         "disabled": false
       },
-      "ancientstructures:japanese_buildings": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 19511220,
-        "disabled": false
-      },
-      "iceandfire:hydra_cave": {
-        "spacing": 10,
-        "separation": 6,
-        "salt": 8903243,
-        "disabled": false
-      },
-      "minecraft:desert_pyramids": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357617,
-        "disabled": false
-      },
-      "towns_and_towers:towns": {
-        "spacing": 48,
-        "separation": 24,
-        "salt": 10587309,
-        "disabled": false
-      },
-      "iceandfire:graveyard": {
-        "spacing": 28,
-        "separation": 14,
-        "salt": 44712661,
-        "disabled": false
-      },
-      "iceandfire:myrmex_hive_desert": {
-        "spacing": 24,
-        "separation": 12,
-        "salt": 14200531,
-        "disabled": false
-      },
-      "dungeons_arise:major_structures": {
-        "spacing": 60,
-        "separation": 50,
-        "salt": 88371663,
-        "disabled": false
-      },
-      "idas:idas_rare": {
-        "spacing": 45,
-        "separation": 20,
-        "salt": 169480678,
-        "disabled": false
-      },
-      "betterjungletemples:jungle_temples": {
-        "spacing": 24,
-        "separation": 8,
-        "salt": 996971851,
-        "disabled": false
-      },
-      "minecraft:ancient_cities": {
-        "spacing": 24,
-        "separation": 8,
-        "salt": 20083232,
-        "disabled": false
-      },
-      "iceandfire:fire_dragon_cave": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 7824162,
-        "disabled": false
-      },
-      "iceandfire:myrmex_hive_jungle": {
-        "spacing": 24,
-        "separation": 12,
-        "salt": 12873732,
-        "disabled": false
-      },
-      "minecraft:ruined_portals": {
-        "spacing": 40,
-        "separation": 15,
-        "salt": 34222645,
-        "disabled": false
-      },
-      "minecraft:shipwrecks": {
-        "spacing": 24,
-        "separation": 4,
-        "salt": 165745295,
-        "disabled": false
-      },
       "betterdungeons:spider_dungeons": {
         "spacing": 44,
         "separation": 22,
         "salt": 596523129,
-        "disabled": false
-      },
-      "iceandfire:pixie_village": {
-        "spacing": 12,
-        "separation": 8,
-        "salt": 7407930,
-        "disabled": false
-      },
-      "ancientstructures:mayan_buildings": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 17011220,
-        "disabled": false
-      },
-      "integrated_stronghold:stronghold": {
-        "spacing": 85,
-        "separation": 50,
-        "salt": 68173563,
-        "disabled": false
-      },
-      "iceandfire:cyclops_cave": {
-        "spacing": 10,
-        "separation": 6,
-        "salt": 7407930,
-        "disabled": false
-      },
-      "iceandfire:fire_dragon_roost": {
-        "spacing": 18,
-        "separation": 12,
-        "salt": 3747893,
         "disabled": false
       },
       "tconstruct:overworld_sky_island": {
@@ -256,70 +46,16 @@
         "salt": 14357800,
         "disabled": false
       },
-      "iceandfire:ice_dragon_roost": {
-        "spacing": 18,
-        "separation": 12,
-        "salt": 1897443,
-        "disabled": false
-      },
-      "minecraft:trail_ruins": {
-        "spacing": 34,
-        "separation": 8,
-        "salt": 83469867,
-        "disabled": false
-      },
-      "betterdungeons:zombie_dungeons": {
-        "spacing": 48,
-        "separation": 24,
-        "salt": 280667671,
-        "disabled": false
-      },
-      "wetland_whimsy:wetland_ruins": {
-        "spacing": 10,
-        "separation": 5,
-        "salt": 1918171615,
-        "disabled": false
-      },
-      "iceandfire:mausoleum": {
-        "spacing": 32,
-        "separation": 12,
-        "salt": 14200531,
-        "disabled": false
-      },
-      "iceandfire:ice_dragon_cave": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 14032493,
-        "disabled": false
-      },
-      "betterwitchhuts:witch_hut": {
-        "spacing": 30,
-        "separation": 8,
-        "salt": 79297177,
-        "disabled": false
-      },
-      "integrated_villages:air_villages": {
-        "spacing": 115,
-        "separation": 90,
-        "salt": 1982700828,
-        "disabled": false
-      },
-      "antiquetradingship:antique_trading_ship": {
-        "spacing": 50,
-        "separation": 35,
-        "salt": 1304155118,
-        "disabled": false
-      },
-      "minecraft:jungle_temples": {
+      "minecraft:pillager_outposts": {
         "spacing": 32,
         "separation": 8,
-        "salt": 14357619,
+        "salt": 165745296,
         "disabled": false
       },
-      "minecraft:mineshafts": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
+      "idas:idas_small": {
+        "spacing": 22,
+        "separation": 18,
+        "salt": 169480673,
         "disabled": false
       },
       "minecraft:igloos": {
@@ -328,28 +64,28 @@
         "salt": 14357618,
         "disabled": false
       },
-      "betteroceanmonuments:ocean_monument": {
-        "spacing": 50,
-        "separation": 20,
-        "salt": 784827271,
-        "disabled": false
-      },
       "idas:idas_underground_rare": {
         "spacing": 60,
         "separation": 40,
         "salt": 169481691,
         "disabled": false
       },
-      "betterdeserttemples:desert_temples": {
-        "spacing": 30,
-        "separation": 20,
-        "salt": 92746251,
+      "iceandfire:gorgon_temple": {
+        "spacing": 32,
+        "separation": 12,
+        "salt": 76489509,
         "disabled": false
       },
-      "minecraft:ocean_monuments": {
-        "spacing": 32,
-        "separation": 5,
-        "salt": 10387313,
+      "ancientstructures:japanese_buildings": {
+        "spacing": 34,
+        "separation": 8,
+        "salt": 19511220,
+        "disabled": false
+      },
+      "minecraft:mineshafts": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
         "disabled": false
       },
       "betterwitchhuts:witch_circle": {
@@ -358,40 +94,88 @@
         "salt": 19797254,
         "disabled": false
       },
-      "idas:idas_common": {
-        "spacing": 25,
-        "separation": 15,
-        "salt": 169480670,
-        "disabled": false
-      },
-      "minecraft:pillager_outposts": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 165745296,
-        "disabled": false
-      },
-      "betterdungeons:small_dungeons": {
-        "spacing": 10,
-        "separation": 6,
-        "salt": 34239823,
-        "disabled": false
-      },
-      "iceandfire:lightning_dragon_cave": {
-        "spacing": 20,
-        "separation": 14,
-        "salt": 8901237,
-        "disabled": false
-      },
       "betterstrongholds:stronghold": {
         "spacing": 85,
         "separation": 50,
         "salt": 596441294,
         "disabled": false
       },
-      "idas:idas_underground": {
-        "spacing": 25,
-        "separation": 15,
-        "salt": 18918169,
+      "betterdungeons:skeleton_dungeons": {
+        "spacing": 46,
+        "separation": 23,
+        "salt": 732581671,
+        "disabled": false
+      },
+      "minecraft:woodland_mansions": {
+        "spacing": 80,
+        "separation": 20,
+        "salt": 10387319,
+        "disabled": false
+      },
+      "iceandfire:fire_dragon_roost": {
+        "spacing": 18,
+        "separation": 12,
+        "salt": 3747893,
+        "disabled": false
+      },
+      "minecraft:buried_treasures": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
+        "disabled": false
+      },
+      "betterdungeons:zombie_dungeons": {
+        "spacing": 48,
+        "separation": 24,
+        "salt": 280667671,
+        "disabled": false
+      },
+      "towns_and_towers:towers": {
+        "spacing": 48,
+        "separation": 24,
+        "salt": 205745294,
+        "disabled": false
+      },
+      "idas:idas_rare": {
+        "spacing": 45,
+        "separation": 20,
+        "salt": 169480678,
+        "disabled": false
+      },
+      "towns_and_towers:other": {
+        "spacing": 32,
+        "separation": 16,
+        "salt": 30084234,
+        "disabled": false
+      },
+      "iceandfire:ice_dragon_roost": {
+        "spacing": 18,
+        "separation": 12,
+        "salt": 1897443,
+        "disabled": false
+      },
+      "dungeons_arise:major_structures": {
+        "spacing": 60,
+        "separation": 50,
+        "salt": 88371663,
+        "disabled": false
+      },
+      "betterdeserttemples:desert_temples": {
+        "spacing": 30,
+        "separation": 20,
+        "salt": 92746251,
+        "disabled": false
+      },
+      "integrated_stronghold:stronghold": {
+        "spacing": 85,
+        "separation": 50,
+        "salt": 68173563,
+        "disabled": false
+      },
+      "dungeons_arise_seven_seas:minor_structures": {
+        "spacing": 68,
+        "separation": 60,
+        "salt": 98123789,
         "disabled": false
       },
       "integrated_villages:regular_villages": {
@@ -400,10 +184,226 @@
         "salt": 1982700828,
         "disabled": false
       },
-      "betterdungeons:skeleton_dungeons": {
-        "spacing": 46,
-        "separation": 23,
-        "salt": 732581671,
+      "supplementaries:way_signs": {
+        "spacing": 19,
+        "separation": 10,
+        "salt": 431041527,
+        "disabled": false
+      },
+      "iceandfire:fire_dragon_cave": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 7824162,
+        "disabled": false
+      },
+      "minecraft:trail_ruins": {
+        "spacing": 34,
+        "separation": 8,
+        "salt": 83469867,
+        "disabled": false
+      },
+      "iceandfire:mausoleum": {
+        "spacing": 32,
+        "separation": 12,
+        "salt": 14200531,
+        "disabled": false
+      },
+      "minecraft:ocean_monuments": {
+        "spacing": 32,
+        "separation": 5,
+        "salt": 10387313,
+        "disabled": false
+      },
+      "iceandfire:graveyard": {
+        "spacing": 28,
+        "separation": 14,
+        "salt": 44712661,
+        "disabled": false
+      },
+      "minecraft:ruined_portals": {
+        "spacing": 40,
+        "separation": 15,
+        "salt": 34222645,
+        "disabled": false
+      },
+      "minecraft:jungle_temples": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357619,
+        "disabled": false
+      },
+      "minecraft:desert_pyramids": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357617,
+        "disabled": false
+      },
+      "ancientstructures:roman_buildings": {
+        "spacing": 34,
+        "separation": 8,
+        "salt": 19040220,
+        "disabled": false
+      },
+      "iceandfire:lightning_dragon_roost": {
+        "spacing": 18,
+        "separation": 12,
+        "salt": 9031232,
+        "disabled": false
+      },
+      "minecraft:villages": {
+        "spacing": 34,
+        "separation": 8,
+        "salt": 10387312,
+        "disabled": false
+      },
+      "ancientstructures:mayan_buildings": {
+        "spacing": 34,
+        "separation": 8,
+        "salt": 17011220,
+        "disabled": false
+      },
+      "antiquetradingship:antique_trading_ship": {
+        "spacing": 50,
+        "separation": 35,
+        "salt": 1304155118,
+        "disabled": false
+      },
+      "betteroceanmonuments:ocean_monument": {
+        "spacing": 50,
+        "separation": 20,
+        "salt": 784827271,
+        "disabled": false
+      },
+      "iceandfire:siren_island": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 9810327,
+        "disabled": false
+      },
+      "wetland_whimsy:wetland_ruins": {
+        "spacing": 10,
+        "separation": 5,
+        "salt": 1918171615,
+        "disabled": false
+      },
+      "iceandfire:ice_dragon_cave": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 14032493,
+        "disabled": false
+      },
+      "integrated_villages:air_villages": {
+        "spacing": 115,
+        "separation": 90,
+        "salt": 1982700828,
+        "disabled": false
+      },
+      "iceandfire:lightning_dragon_cave": {
+        "spacing": 20,
+        "separation": 14,
+        "salt": 8901237,
+        "disabled": false
+      },
+      "minecraft:swamp_huts": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357620,
+        "disabled": false
+      },
+      "dungeons_arise:minor_structures": {
+        "spacing": 35,
+        "separation": 25,
+        "salt": 342415935,
+        "disabled": false
+      },
+      "towns_and_towers:towns": {
+        "spacing": 48,
+        "separation": 24,
+        "salt": 10587309,
+        "disabled": false
+      },
+      "betterjungletemples:jungle_temples": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 996971851,
+        "disabled": false
+      },
+      "iceandfire:myrmex_hive_desert": {
+        "spacing": 24,
+        "separation": 12,
+        "salt": 14200531,
+        "disabled": false
+      },
+      "iceandfire:myrmex_hive_jungle": {
+        "spacing": 24,
+        "separation": 12,
+        "salt": 12873732,
+        "disabled": false
+      },
+      "betterwitchhuts:witch_hut": {
+        "spacing": 30,
+        "separation": 8,
+        "salt": 79297177,
+        "disabled": false
+      },
+      "minecraft:shipwrecks": {
+        "spacing": 24,
+        "separation": 4,
+        "salt": 165745295,
+        "disabled": false
+      },
+      "iceandfire:pixie_village": {
+        "spacing": 12,
+        "separation": 8,
+        "salt": 7407930,
+        "disabled": false
+      },
+      "idas:idas_underground": {
+        "spacing": 25,
+        "separation": 15,
+        "salt": 18918169,
+        "disabled": false
+      },
+      "idas:idas_common": {
+        "spacing": 25,
+        "separation": 15,
+        "salt": 169480670,
+        "disabled": false
+      },
+      "betterdungeons:small_dungeons": {
+        "spacing": 10,
+        "separation": 6,
+        "salt": 34239823,
+        "disabled": false
+      },
+      "iceandfire:cyclops_cave": {
+        "spacing": 10,
+        "separation": 6,
+        "salt": 7407930,
+        "disabled": false
+      },
+      "ancientstructures:german_buildings": {
+        "spacing": 34,
+        "separation": 8,
+        "salt": 19018280,
+        "disabled": false
+      },
+      "tconstruct:overworld_ocean_island": {
+        "spacing": 30,
+        "separation": 9,
+        "salt": 25988585,
+        "disabled": false
+      },
+      "minecraft:ancient_cities": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 20083232,
+        "disabled": false
+      },
+      "iceandfire:hydra_cave": {
+        "spacing": 10,
+        "separation": 6,
+        "salt": 8903243,
         "disabled": false
       }
     }
