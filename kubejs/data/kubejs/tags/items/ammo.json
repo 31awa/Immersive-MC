@@ -19,6 +19,7 @@
 "tacz:ammo{AmmoId:'tacz:556x45'}",
 "tacz:ammo{AmmoId:'tacz:46x30'}",
 "tacz:ammo{AmmoId:'tacz:45acp'}",
-"tacz:ammo{AmmoId:'AmmoId:'tacz:9mm'}"
+"tacz:ammo{AmmoId:'tacz:9mm'}",
+"tacz:ammo{AmmoId:'tacz:wood_ammo'}"
   ]
 }
