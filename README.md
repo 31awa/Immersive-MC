@@ -1,5 +1,10 @@
-# Immersive-MC
-这是我个人的一个mc整合包,尝试以冒险旅行与枪械为主的生存
-同时也是我自己想法的留存
-
-食用方式:仍在开发...也许会一直开发...
+# modpacks-Modify
+这是用于我个人游玩mc整合包的小修改
+<details>
+<summary>模组涉及</summary>
+[kubejs](https://www.mcmod.cn/class/2450.html)
+[tacz](https://www.mcmod.cn/class/14980.html)
+[create](https://www.mcmod.cn/class/2021.html)
+[Ponder for KubeJS](https://www.mcmod.cn/class/7205.html)
+</details>
+也是我自己想法的留存

@@ -1,5 +1,0 @@
-ancientPotMaxParticleCount = 24
-ancientPotMaxDropCount = 10
-ancientBrazierEntities = ["minecraft:zombie", "minecraft:skeleton", "minecraft:spider", "minecraft:cave_spider", "minecraft:drowned", "minecraft:witch"]
-disableVanillaSwampHuts = true
-upgradeDisks = true

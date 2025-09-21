@@ -1,7 +1,0 @@
-minecraft:overworld
-minecraft:the_nether
-infinity:generated_8220470653800855802
-infinity:generated_2642899858147124905
-minecraft:the_end
-infinity:generated_3277726008788812860
-infinity:generated_6019581621938248719

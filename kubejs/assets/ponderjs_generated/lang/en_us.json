@@ -1,0 +1,21 @@
+{
+  "kubejs.ponder.flowers.header": "原木",
+  "kubejs.ponder.flowers.text_1": "一花一树一世界,各种各样的花朵点缀着主世界",
+  "kubejs.ponder.flowers.text_2": "大多数花会天然在一些生物群系的泥土和草方块上生成",
+  "kubejs.ponder.flowers.text_3": "即使是在被积雪的生物群系，相邻的泥土方块覆盖着雪，花仍会天然生成在泥土和草方块上",
+  "kubejs.ponder.flowers.text_4": "对草方块使用骨粉后,花有1⁄8的概率代替矮草丛生成。能生成的花取决于生成位置所在的生物群系",
+  "kubejs.ponder.flowers.text_5": "除了小花以外,还有各种各样的大型花",
+  "kubejs.ponder.flowers.text_6": "对着大型花(瓶子草除外)使用骨粉时,它会掉落1株新的对应花种",
+  "kubejs.ponder.flowers.text_7": "所有的花均能直接合成出染料,染料的颜色一般与花本身的颜色相近。小型花可以合成出1个染料,大型花可以合成出2个染料",
+  "kubejs.ponder.logs.header": "原木",
+  "kubejs.ponder.logs.text_1": "这是一块原木",
+  "kubejs.ponder.logs.text_10": "§c但去皮之后的原木无法变回原来的样子",
+  "kubejs.ponder.logs.text_2": "通常,它会以树木的形式出现",
+  "kubejs.ponder.logs.text_3": "有时,它会在村庄或其他结构里生成",
+  "kubejs.ponder.logs.text_4": "原木拥有许多变种",
+  "kubejs.ponder.logs.text_5": "每个原木变种的树木外观各不相同",
+  "kubejs.ponder.logs.text_6": "原木可以用空手破坏",
+  "kubejs.ponder.logs.text_7": "你也可以用斧子更快地破坏原木",
+  "kubejs.ponder.logs.text_8": "你可以用任意斧头对原木右键来去皮",
+  "kubejs.ponder.logs.text_9": "去皮的原木在合成上与普通的原木没有区别,你可以用去皮原木作为建筑材料"
+}

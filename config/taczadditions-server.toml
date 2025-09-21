@@ -1,9 +1,0 @@
-
-#TacZ Additions - Server Config
-[server]
-	#If false, muzzle flash will not be sent to clients.
-	enableMuzzleFlash = true
-	#Multiplier for camera recoil intensity, pitch/yaw (affects all clients).
-	#Range: 0.0 ~ 10.0
-	recoilCameraMultiplier = 1.0
-
