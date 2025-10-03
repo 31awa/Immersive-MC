@@ -2,7 +2,7 @@ Ponder.registry((event) => {
 	event.create('#minecraft:flowers') // 填入需要添加 Ponder 的 Item/Tag, 填入多个时要用 [ ] 包裹
 		.scene(
 			"kubejs:flowers", // Ponder ID
-			"原木", // 侧边显示的标题
+			"花", // 侧边显示的标题
             "kubejs:flowers",
 			(scene) => {
 scene.idleSeconds(0.5)

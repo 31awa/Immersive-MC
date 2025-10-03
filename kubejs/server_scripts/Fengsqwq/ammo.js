@@ -61,34 +61,9 @@ TaCZServerEvents.gunDataLoad((event) => {
     json.ammo = "tacz:338";
     return event.setJson(JSON.stringify(json));
   }
-  });
-TaCZServerEvents.gunDataLoad((event) => {
-    const id = event.getId().toString();
-//修改枪械子弹
     if (id === "cib:type38_data") {
     const json = JSON.parse(event.getStdJson());
-    json.bullet.extra_damage.damage_adjust = [
-        {"distance": 80, "damage": 5},
-        {"distance": 100, "damage": 5},
-        {"distance": 150, "damage": 5},
-        {"distance": "infinite", "damage": 5}
-          ];
-    return event.setJson(JSON.stringify(json));
-  }
-  });
-TaCZServerEvents.gunDataLoad((event) => {
-    const id = event.getId().toString();
-if (id === "cib:type38_data") {
-    const json = JSON.parse(event.getStdJson());
-    json.ammo = "tacz:wood_ammo";
-    return event.setJson(JSON.stringify(json));
-  }
-});
-  TaCZServerEvents.gunDataLoad((event) => {
-      const id = event.getId().toString();
-      if (id === "cib:type38_data") {
-    const json = JSON.parse(event.getStdJson());
-    json.damage = 5
+    json.ammo = "tacz:30_06";
     return event.setJson(JSON.stringify(json));
   }
 });
@@ -130,8 +105,3 @@ TaCZServerEvents.gunIndexLoad((event) => {
     return event.removeGun();
   }
 });
-
-
-ServerEvents.recipes(event => {
-event.remove({ output: '#superbwarfare:gun'})  
-})

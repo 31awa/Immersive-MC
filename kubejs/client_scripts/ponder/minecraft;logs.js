@@ -1,0 +1,85 @@
+Ponder.registry((event) => {
+	event.create('#minecraft:logs') // 填入需要添加 Ponder 的 Item/Tag, 填入多个时要用 [ ] 包裹
+		.scene(
+			"kubejs:logs", // Ponder ID
+			"原木", // 侧边显示的标题
+            "kubejs:logs",
+			(scene) => {
+scene.idleSeconds(1)
+scene.showBasePlate()
+scene.idleSeconds(1)
+scene.world.showSection([3, 1, 3], Direction.DOWN)
+scene.idleSeconds(1)
+scene.text(40, "这是一块原木", [3, 2, 3])
+scene.idleSeconds(2.5)
+
+scene.world.showSection([0, 2, 0, 5 ,6, 5], Direction.DOWN)
+scene.idleSeconds(3.5)
+scene.text(40, "通常,它会以树木的形式出现")
+scene.addLazyKeyframe()
+scene.idleSeconds(3.5)
+scene.text(40, "有时,它会在村庄或其他结构里生成")
+scene.idleSeconds(3.5)
+scene.world.setBlocks([0, 2, 0, 5 ,6, 5], "air", true)
+scene.idleSeconds(2.5)
+
+scene.addKeyframe()
+scene.world.setBlocks([5, 1, 3], "minecraft:birch_log", true)
+scene.world.showSection([5, 1, 3], Direction.DOWN)
+scene.idleSeconds(0.6)
+scene.world.setBlocks([1, 1, 3], "minecraft:dark_oak_log", true)
+scene.world.showSection([1, 1, 3], Direction.DOWN)
+scene.idleSeconds(0.6)
+scene.world.setBlocks([2, 1, 1], "minecraft:cherry_log", true)
+scene.world.showSection([2, 1, 1], Direction.DOWN)
+scene.idleSeconds(0.6)
+scene.world.setBlocks([4, 1, 1], "minecraft:acacia_log", true)
+scene.world.showSection([4, 1, 1], Direction.DOWN)
+scene.idleSeconds(2)
+scene.text(40, "原木拥有许多变种")
+scene.idleSeconds(3.5)
+scene.text(40, "每个原木变种的树木外观各不相同")
+scene.idleSeconds(4)
+scene.world.hideSection([5, 1, 3], 'up');
+scene.world.hideSection([1, 1, 3], 'up');
+scene.world.hideSection([2, 1, 1], 'up');
+scene.world.hideSection([4, 1, 1], 'up');
+scene.idleSeconds(2.5)
+
+scene.addKeyframe()
+scene.showControls(30, [3, 2, 3], "left")
+	.leftClick()
+scene.idleSeconds(1)
+scene.world.setBlocks([3, 1, 3], "air", true)
+scene.idleSeconds(1)
+scene.text(40, "原木可以用空手破坏", [3, 2, 3])
+scene.idleSeconds(2.5)
+scene.world.setBlocks([3, 1, 3], "minecraft:oak_log", true)
+scene.idleSeconds(1.4)
+scene.showControls(30, [3, 2, 3], "left")
+	.leftClick() 
+	.withItem("minecraft:wooden_axe") 
+scene.idleSeconds(1)
+scene.world.setBlocks([3, 1, 3], "air", true)
+scene.idleSeconds(2.5)
+scene.text(40, "你也可以用斧子更快地破坏原木", [3, 2, 3])
+scene.idleSeconds(3)
+scene.world.setBlocks([3, 1, 3], "minecraft:oak_log", true)
+scene.idleSeconds(1.3)
+
+scene.addKeyframe()
+scene.showControls(30, [3, 2, 3], "left")
+	.rightClick() 
+	.withItem("minecraft:wooden_axe") 
+scene.idleSeconds(1)
+scene.world.setBlocks([3, 1, 3], "minecraft:stripped_oak_log", true)
+scene.idleSeconds(1)
+scene.text(40, "你可以用任意斧头对原木右键来去皮", [3, 2, 3])
+scene.idleSeconds(3)
+scene.text(40, "去皮的原木在合成上与普通的原木没有区别,你可以用去皮原木作为建筑材料", [3, 2, 3])
+scene.idleSeconds(3)
+scene.text(40, "§c但去皮之后的原木无法变回原来的样子", [3, 2, 3])
+scene.idleSeconds(1)
+			}
+		)
+})

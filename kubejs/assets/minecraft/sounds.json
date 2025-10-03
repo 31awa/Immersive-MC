@@ -1,0 +1,10 @@
+{
+  "music.menu": {
+    "replace": true,
+    "sounds": [
+      "music/menu/menu1",
+      "music/menu/menu2",
+      "music/menu/menu3"
+    ]
+  }
+  }

@@ -1,13 +1,13 @@
-# modpacks-Modify
+# 仅为个人使用,无其他用途
 这是用于我个人游玩mc整合包的小修改
 <details>
-<summary>模组涉及</summary>
+<summary>需要模组(包括前置)</summary>
 
 [kubejs](https://www.mcmod.cn/class/2450.html)
 
-[tacz](https://www.mcmod.cn/class/14980.html)
+[tacz js](https://www.mcmod.cn/class/16961.html)
 
-[create](https://www.mcmod.cn/class/2021.html)
+[create js](https://www.mcmod.cn/class/5157.html)
 
 [Ponder for KubeJS](https://www.mcmod.cn/class/7205.html)
 </details>

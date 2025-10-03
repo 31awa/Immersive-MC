@@ -98,5 +98,5 @@ StartupEvents.registry('item', event => {
 })
 
 StartupEvents.registry('item', event => {
-	event.create('wood_ammo').displayName('木制弹药')
+	event.create('crushed_brass').displayName('粉碎黄铜')
 })
